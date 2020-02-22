@@ -1,0 +1,1104 @@
+{
+  "nodes": [
+    {
+      "nodeID": "431367",
+      "text": "Melanie Phillips : Well I take the view that what he did so badly wrong was not the hypocrisy but the drug taking",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:19"
+    },
+    {
+      "nodeID": "431368",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "431369",
+      "text": "Well Melanie Phillips takes the view that what Michael Gove did so badly wrong was not the hypocrisy but the drug taking",
+      "type": "I",
+      "timestamp": "2019-09-23 17:12:19"
+    },
+    {
+      "nodeID": "431370",
+      "text": "Kamila: Melanie Phillips : Well I take the view that what he did so badly wrong was not the hypocrisy but the drug taking",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:19"
+    },
+    {
+      "nodeID": "431371",
+      "text": "Melanie Phillips : I take the view that we\u2019re all hypocrites over certain things and hypocrisy is after all the tribute that vice famously pays to virtue",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:19"
+    },
+    {
+      "nodeID": "431372",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "431373",
+      "text": "Melanie Phillips takes the view that we\u2019re all hypocrites over certain things and hypocrisy is after all the tribute that vice famously pays to virtue",
+      "type": "I",
+      "timestamp": "2019-09-23 17:12:20"
+    },
+    {
+      "nodeID": "431374",
+      "text": "Kamila: Melanie Phillips : I take the view that we\u2019re all hypocrites over certain things and hypocrisy is after all the tribute that vice famously pays to virtue",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:20"
+    },
+    {
+      "nodeID": "431375",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2019-09-23 17:12:20",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "431376",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2019-09-23 17:12:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "431377",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:20",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "431378",
+      "text": "Kamila: Melanie Phillips : So I took an unforgiving view because I think that as a grown man of 30 plus, he knew perfectly well how\u2026the\u2026of the chain of misery and damage that hard drugs do",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:20"
+    },
+    {
+      "nodeID": "431379",
+      "text": "Kamila: Giles Fraser : ell I suspect the notion of hypocrisy has risen up the league table of offences, as our confidence in objective moral values has begun to weaken",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:20"
+    },
+    {
+      "nodeID": "431380",
+      "text": "Giles Fraser : Well I suspect the notion of hypocrisy has risen up the league table of offences, as our confidence in objective moral values has begun to weaken",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:20"
+    },
+    {
+      "nodeID": "431381",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:20",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "431382",
+      "text": "Well Giles Fraser suspects the notion of hypocrisy has risen up the league table of offences, as our confidence in objective moral values has begun to weaken",
+      "type": "I",
+      "timestamp": "2019-09-23 17:12:21"
+    },
+    {
+      "nodeID": "431383",
+      "text": "Kamila: Giles Fraser : Well I suspect the notion of hypocrisy has risen up the league table of offences, as our confidence in objective moral values has begun to weaken",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:21"
+    },
+    {
+      "nodeID": "431384",
+      "text": "Giles Fraser : if we make up our own morality for ourselves, then not keeping to our own standards is just about the only thing left that you\u2019ve got to condemn someone about",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:21"
+    },
+    {
+      "nodeID": "431385",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "431386",
+      "text": "if we make up our own morality for ourselves, then not keeping to our own standards is just about the only thing left that you\u2019ve got to condemn someone about",
+      "type": "I",
+      "timestamp": "2019-09-23 17:12:21"
+    },
+    {
+      "nodeID": "431387",
+      "text": "Kamila: Giles Fraser : if we make up our own morality for ourselves, then not keeping to our own standards is just about the only thing left that you\u2019ve got to condemn someone about",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:21"
+    },
+    {
+      "nodeID": "431388",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2019-09-23 17:12:21",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "431389",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2019-09-23 17:12:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "431390",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:22",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "431391",
+      "text": "Tim Stanley : When a politician says they regret doing something, what they mean is they regret getting caught",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:22"
+    },
+    {
+      "nodeID": "431392",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "431393",
+      "text": "When a politician says they regret doing something, what they mean is they regret getting caught",
+      "type": "I",
+      "timestamp": "2019-09-23 17:12:22"
+    },
+    {
+      "nodeID": "431394",
+      "text": "Kamila: Tim Stanley : When a politician says they regret doing something, what they mean is they regret getting caught",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:22"
+    },
+    {
+      "nodeID": "431395",
+      "text": "Tim Stanley : Politics warps people\u2019s morality",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:22"
+    },
+    {
+      "nodeID": "431396",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "431397",
+      "text": "Politics warps people\u2019s morality",
+      "type": "I",
+      "timestamp": "2019-09-23 17:12:22"
+    },
+    {
+      "nodeID": "431398",
+      "text": "Kamila: Tim Stanley : Politics warps people\u2019s morality",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:22"
+    },
+    {
+      "nodeID": "431399",
+      "text": "Tim Stanley : And I just wish that more politicians could say, we\u2019re all broken, we all need fixing, and that includes me",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:23"
+    },
+    {
+      "nodeID": "431400",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "431401",
+      "text": "And Tim Stanley just wishes that more politicians could say, we\u2019re all broken, we all need fixing, and that includes me",
+      "type": "I",
+      "timestamp": "2019-09-23 17:12:23"
+    },
+    {
+      "nodeID": "431402",
+      "text": "Kamila: Tim Stanley : And I just wish that more politicians could say, we\u2019re all broken, we all need fixing, and that includes me",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:23"
+    },
+    {
+      "nodeID": "431403",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2019-09-23 17:12:23",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "431404",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2019-09-23 17:12:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "431405",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:23",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "431406",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2019-09-23 17:12:23",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "431407",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2019-09-23 17:12:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "431408",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:24",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "431409",
+      "text": "Kehinde Andrews : Well I think we should judge this issue on the politics of hypocrisy",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:24"
+    },
+    {
+      "nodeID": "431410",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "431411",
+      "text": "Well Kehinde Andrews thinks we should judge this issue on the politics of hypocrisy",
+      "type": "I",
+      "timestamp": "2019-09-23 17:12:24"
+    },
+    {
+      "nodeID": "431412",
+      "text": "Kamila: Kehinde Andrews : Well I think we should judge this issue on the politics of hypocrisy",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:24"
+    },
+    {
+      "nodeID": "431413",
+      "text": "Kehinde Andrews : if you\u2019ve been a politician who\u2019s part of a regime that\u2019s criminalised drug possession and said that they should rule you out of particular jobs and professions, then you should be judged by that standard",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:24"
+    },
+    {
+      "nodeID": "431414",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "431415",
+      "text": "if you\u2019ve been a politician who\u2019s part of a regime that\u2019s criminalised drug possession and said that they should rule you out of particular jobs and professions, then you should be judged by that standard",
+      "type": "I",
+      "timestamp": "2019-09-23 17:12:24"
+    },
+    {
+      "nodeID": "431416",
+      "text": "Kamila: Kehinde Andrews : if you\u2019ve been a politician who\u2019s part of a regime that\u2019s criminalised drug possession and said that they should rule you out of particular jobs and professions, then you should be judged by that standard",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:24"
+    },
+    {
+      "nodeID": "431417",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2019-09-23 17:12:25",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "431418",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2019-09-23 17:12:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "431419",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:25",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "431420",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2019-09-23 17:12:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "431421",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2019-09-23 17:12:25",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "431422",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:25",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "431423",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2019-09-23 17:12:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "431424",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2019-09-23 17:12:25",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "431425",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2019-09-23 17:12:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "431426",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:26",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "431427",
+      "text": "Kamila: Melanie Phillips : I took an unforgiving view because I think that as a grown man of 30 plus, he knew perfectly well how\u2026the\u2026of the chain of misery and damage that hard drugs do",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:26"
+    },
+    {
+      "nodeID": "431428",
+      "text": "Melanie Phillips : I took an unforgiving view",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:26"
+    },
+    {
+      "nodeID": "431429",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:26",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "431430",
+      "text": "Melanie Phillips took an unforgiving view",
+      "type": "I",
+      "timestamp": "2019-09-23 17:12:26"
+    },
+    {
+      "nodeID": "431431",
+      "text": "Kamila: Melanie Phillips : I took an unforgiving view",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:26"
+    },
+    {
+      "nodeID": "431432",
+      "text": "Kamila: Melanie Phillips : that as a grown man of 30 plus, he knew perfectly well how\u2026the\u2026of the chain of misery and damage that hard drugs do",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:26"
+    },
+    {
+      "nodeID": "431433",
+      "text": "Kamila: Melanie Phillips : s a grown man of 30 plus, he knew perfectly well how\u2026the\u2026of the chain of misery and damage that hard drugs do",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:26"
+    },
+    {
+      "nodeID": "431434",
+      "text": "Melanie Phillips : as a grown man of 30 plus, he knew perfectly well how\u2026the\u2026of the chain of misery and damage that hard drugs do",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:26"
+    },
+    {
+      "nodeID": "431435",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:27",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "431436",
+      "text": "as a grown man of 30 plus, Michael Gove knew perfectly well how\u2026the\u2026of the chain of misery and damage that hard drugs do",
+      "type": "I",
+      "timestamp": "2019-09-23 17:12:27"
+    },
+    {
+      "nodeID": "431437",
+      "text": "Kamila: Melanie Phillips : as a grown man of 30 plus, he knew perfectly well how\u2026the\u2026of the chain of misery and damage that hard drugs do",
+      "type": "L",
+      "timestamp": "2019-09-23 17:12:27"
+    },
+    {
+      "nodeID": "431438",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2019-09-23 17:12:27",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "431439",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2019-09-23 17:12:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "431440",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:27",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "431441",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2019-09-23 17:12:27",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "431442",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2019-09-23 17:12:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "431443",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2019-09-23 17:12:28",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "552573",
+      "fromID": "431368",
+      "toID": "431369",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552574",
+      "fromID": "431367",
+      "toID": "431368",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552575",
+      "fromID": "431372",
+      "toID": "431373",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552576",
+      "fromID": "431371",
+      "toID": "431372",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552577",
+      "fromID": "431373",
+      "toID": "431375",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552578",
+      "fromID": "431375",
+      "toID": "431369",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552579",
+      "fromID": "431367",
+      "toID": "431376",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552580",
+      "fromID": "431376",
+      "toID": "431371",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552581",
+      "fromID": "431376",
+      "toID": "431377",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552582",
+      "fromID": "431377",
+      "toID": "431375",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552583",
+      "fromID": "431381",
+      "toID": "431382",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552584",
+      "fromID": "431380",
+      "toID": "431381",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552585",
+      "fromID": "431385",
+      "toID": "431386",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552586",
+      "fromID": "431384",
+      "toID": "431385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552587",
+      "fromID": "431386",
+      "toID": "431388",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552588",
+      "fromID": "431388",
+      "toID": "431382",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552589",
+      "fromID": "431380",
+      "toID": "431389",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552590",
+      "fromID": "431389",
+      "toID": "431384",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552591",
+      "fromID": "431389",
+      "toID": "431390",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552592",
+      "fromID": "431390",
+      "toID": "431388",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552593",
+      "fromID": "431392",
+      "toID": "431393",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552594",
+      "fromID": "431391",
+      "toID": "431392",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552595",
+      "fromID": "431396",
+      "toID": "431397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552596",
+      "fromID": "431395",
+      "toID": "431396",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552597",
+      "fromID": "431400",
+      "toID": "431401",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552598",
+      "fromID": "431399",
+      "toID": "431400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552599",
+      "fromID": "431397",
+      "toID": "431403",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552600",
+      "fromID": "431403",
+      "toID": "431393",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552601",
+      "fromID": "431391",
+      "toID": "431404",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552602",
+      "fromID": "431404",
+      "toID": "431395",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552603",
+      "fromID": "431404",
+      "toID": "431405",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552604",
+      "fromID": "431405",
+      "toID": "431403",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552605",
+      "fromID": "431393",
+      "toID": "431406",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552606",
+      "fromID": "431406",
+      "toID": "431401",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552607",
+      "fromID": "431391",
+      "toID": "431407",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552608",
+      "fromID": "431407",
+      "toID": "431399",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552609",
+      "fromID": "431407",
+      "toID": "431408",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552610",
+      "fromID": "431408",
+      "toID": "431406",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552611",
+      "fromID": "431410",
+      "toID": "431411",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552612",
+      "fromID": "431409",
+      "toID": "431410",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552613",
+      "fromID": "431414",
+      "toID": "431415",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552614",
+      "fromID": "431413",
+      "toID": "431414",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552615",
+      "fromID": "431411",
+      "toID": "431417",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552616",
+      "fromID": "431417",
+      "toID": "431415",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552617",
+      "fromID": "431409",
+      "toID": "431418",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552618",
+      "fromID": "431418",
+      "toID": "431413",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552619",
+      "fromID": "431418",
+      "toID": "431419",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552620",
+      "fromID": "431419",
+      "toID": "431417",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552621",
+      "fromID": "431367",
+      "toID": "431420",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552622",
+      "fromID": "431420",
+      "toID": "431380",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552623",
+      "fromID": "431382",
+      "toID": "431421",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552624",
+      "fromID": "431421",
+      "toID": "431369",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552625",
+      "fromID": "431420",
+      "toID": "431422",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552626",
+      "fromID": "431422",
+      "toID": "431421",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552627",
+      "fromID": "431384",
+      "toID": "431423",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552628",
+      "fromID": "431423",
+      "toID": "431391",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552629",
+      "fromID": "431411",
+      "toID": "431424",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552630",
+      "fromID": "431424",
+      "toID": "431382",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552631",
+      "fromID": "431380",
+      "toID": "431425",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552632",
+      "fromID": "431425",
+      "toID": "431409",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552633",
+      "fromID": "431425",
+      "toID": "431426",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552634",
+      "fromID": "431426",
+      "toID": "431424",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552635",
+      "fromID": "431429",
+      "toID": "431430",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552636",
+      "fromID": "431428",
+      "toID": "431429",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552637",
+      "fromID": "431435",
+      "toID": "431436",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552638",
+      "fromID": "431434",
+      "toID": "431435",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552639",
+      "fromID": "431436",
+      "toID": "431438",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552640",
+      "fromID": "431438",
+      "toID": "431430",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552641",
+      "fromID": "431428",
+      "toID": "431439",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552642",
+      "fromID": "431439",
+      "toID": "431434",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552643",
+      "fromID": "431439",
+      "toID": "431440",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552644",
+      "fromID": "431440",
+      "toID": "431438",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552645",
+      "fromID": "431369",
+      "toID": "431441",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552646",
+      "fromID": "431441",
+      "toID": "431430",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552647",
+      "fromID": "431367",
+      "toID": "431442",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552648",
+      "fromID": "431442",
+      "toID": "431428",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552649",
+      "fromID": "431442",
+      "toID": "431443",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "552650",
+      "fromID": "431443",
+      "toID": "431441",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "431367",
+      "personID": "3730",
+      "timestamp": "2019-09-23 17:12:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "431371",
+      "personID": "3730",
+      "timestamp": "2019-09-23 17:12:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "431380",
+      "personID": "3731",
+      "timestamp": "2019-09-23 17:12:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "431384",
+      "personID": "3731",
+      "timestamp": "2019-09-23 17:12:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "431391",
+      "personID": "3732",
+      "timestamp": "2019-09-23 17:12:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "431395",
+      "personID": "3732",
+      "timestamp": "2019-09-23 17:12:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "431399",
+      "personID": "3732",
+      "timestamp": "2019-09-23 17:12:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "431409",
+      "personID": "3733",
+      "timestamp": "2019-09-23 17:12:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "431413",
+      "personID": "3733",
+      "timestamp": "2019-09-23 17:12:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "431428",
+      "personID": "3730",
+      "timestamp": "2019-09-23 17:12:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "431434",
+      "personID": "3730",
+      "timestamp": "2019-09-23 17:12:32",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

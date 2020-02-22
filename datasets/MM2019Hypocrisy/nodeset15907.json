@@ -1,0 +1,1852 @@
+{
+    "nodes": [
+        {
+            "nodeID": "430867",
+            "text": "Michael Buerk : Good evening",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:00"
+        },
+        {
+            "nodeID": "430868",
+            "text": "Kamila: Michael Buerk : Good evening",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:00"
+        },
+        {
+            "nodeID": "430869",
+            "text": "Michael Buerk : Graeme Logan\u2019s come a long way since he was put in to care shortly after he was born",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:00"
+        },
+        {
+            "nodeID": "430870",
+            "text": "Graeme Logan\u2019s come a long way since he was put in to care shortly after he was born",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:00"
+        },
+        {
+            "nodeID": "430871",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:00",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430872",
+            "text": "Kamila: Michael Buerk : Graeme Logan\u2019s come a long way since he was put in to care shortly after he was born",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:00"
+        },
+        {
+            "nodeID": "430873",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430874",
+            "text": "Michael Buerk : He was adopted by the owners of a family fish business, renamed Michael Gove, won a scholarship to one of Scotland\u2019s best schools, Oxford, stellar career in the media including a lengthy spell as a panellist here on the Moral Maze",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:00"
+        },
+        {
+            "nodeID": "430875",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:00",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430876",
+            "text": "Graeme Logan was adopted by the owners of a family fish business, renamed Michael Gove, won a scholarship to one of Scotland\u2019s best schools, Oxford, stellar career in the media including a lengthy spell as a panellist here on the Moral Maze",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:01"
+        },
+        {
+            "nodeID": "430877",
+            "text": "Kamila: Michael Buerk : He was adopted by the owners of a family fish business, renamed Michael Gove, won a scholarship to one of Scotland\u2019s best schools, Oxford, stellar career in the media including a lengthy spell as a panellist here on the Moral Maze",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:01"
+        },
+        {
+            "nodeID": "430878",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2019-09-23 17:06:01",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "430879",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430880",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:01",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "430881",
+            "text": "Michael Buerk : Politics, the cabinet, touching distance of becoming prime minister",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:01"
+        },
+        {
+            "nodeID": "430882",
+            "text": "Default Illocuting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:01",
+            "scheme": "Default Illocuting",
+            "schemeID": "168"
+        },
+        {
+            "nodeID": "430883",
+            "text": "Politics, the cabinet, touching distance of becoming prime minister",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:01"
+        },
+        {
+            "nodeID": "430884",
+            "text": "Kamila: Michael Buerk : Politics, the cabinet, touching distance of becoming prime minister",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:01"
+        },
+        {
+            "nodeID": "430885",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2019-09-23 17:06:02",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "430886",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430887",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:02",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "430888",
+            "text": "Michael Buerk : now it seems it all might end with a sniff",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:02"
+        },
+        {
+            "nodeID": "430889",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:02",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430890",
+            "text": "now it seems it all might end with a sniff",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:02"
+        },
+        {
+            "nodeID": "430891",
+            "text": "Kamila: Michael Buerk : now it seems it all might end with a sniff",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:02"
+        },
+        {
+            "nodeID": "430892",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430893",
+            "text": "Michael Buerk : The disclosure that he\u2019s snorted cocaine \u2013 quote \u2013 on several occasions \u2013 unquote \u2013 20 and more years ago divides opinion",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:03"
+        },
+        {
+            "nodeID": "430894",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:03",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430895",
+            "text": "The disclosure that Michael Gove\u2019s snorted cocaine \u2013 quote \u2013 on several occasions \u2013 unquote \u2013 20 and more years ago divides opinion",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:03"
+        },
+        {
+            "nodeID": "430896",
+            "text": "Kamila: Michael Buerk : The disclosure that he\u2019s snorted cocaine \u2013 quote \u2013 on several occasions \u2013 unquote \u2013 20 and more years ago divides opinion",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:03"
+        },
+        {
+            "nodeID": "430897",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2019-09-23 17:06:03",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "430898",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430899",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:03",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "430900",
+            "text": "Michael Buerk : Those who don\u2019t care think that youthful \u2013 ish in his case, he was around 30 \u2013 youthful indiscretion should not be held against the mature individual who regrets them",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:03"
+        },
+        {
+            "nodeID": "430901",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:03",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430902",
+            "text": "Those who don\u2019t care think that youthful \u2013 ish in Michael Gove's case, he was around 30 \u2013 youthful indiscretion should not be held against the mature individual who regrets them",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:04"
+        },
+        {
+            "nodeID": "430903",
+            "text": "Kamila: Michael Buerk : Those who don\u2019t care think that youthful \u2013 ish in his case, he was around 30 \u2013 youthful indiscretion should not be held against the mature individual who regrets them",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:04"
+        },
+        {
+            "nodeID": "430904",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:04",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430905",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2019-09-23 17:06:04",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "430906",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:04",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "430907",
+            "text": "Michael Buerk : As a Christian as well as an ambitious politician, he believes in redemption",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:04"
+        },
+        {
+            "nodeID": "430908",
+            "text": "As a Christian as well as an ambitious politician, Michael Gove believes in redemption",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:04"
+        },
+        {
+            "nodeID": "430909",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:04",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430910",
+            "text": "Kamila: Michael Buerk : As a Christian as well as an ambitious politician, he believes in redemption",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:04"
+        },
+        {
+            "nodeID": "430911",
+            "text": "Michael Buerk : We\u2019re all sinners in a fallen world, Michael Gove says",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:05"
+        },
+        {
+            "nodeID": "430912",
+            "text": "We\u2019re all sinners in a fallen world",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:05"
+        },
+        {
+            "nodeID": "430913",
+            "text": "Kamila: Michael Buerk : We\u2019re all sinners in a fallen world, he says",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:05"
+        },
+        {
+            "nodeID": "430914",
+            "text": "Kamila: Michael Gove : We\u2019re all sinners in a fallen world, he says",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:05"
+        },
+        {
+            "nodeID": "430915",
+            "text": "Michael Gove : We\u2019re all sinners in a fallen world",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:05"
+        },
+        {
+            "nodeID": "430916",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:05",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430917",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:05",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430918",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:05",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430919",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2019-09-23 17:06:06",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "430920",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430921",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:06",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "430922",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2019-09-23 17:06:06",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "430923",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:06",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "430924",
+            "text": "Michael Buerk : Yes, his critics reply",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:06"
+        },
+        {
+            "nodeID": "430925",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:06",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430926",
+            "text": "Yes, his critics reply",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:06"
+        },
+        {
+            "nodeID": "430927",
+            "text": "Kamila: Michael Buerk : Yes, his critics reply",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:06"
+        },
+        {
+            "nodeID": "430928",
+            "text": "Michael Buerk : we\u2019re not all vying to be the country\u2019s leader",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:07"
+        },
+        {
+            "nodeID": "430929",
+            "text": "critics reply that we\u2019re not all vying to be the country\u2019s leader",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:07"
+        },
+        {
+            "nodeID": "430930",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:07",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430931",
+            "text": "Kamila: Michael Buerk : we\u2019re not all vying to be the country\u2019s leader",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:07"
+        },
+        {
+            "nodeID": "430932",
+            "text": "Michael Buerk : Taking cocaine, a Class A drug, was and is illegal",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:07"
+        },
+        {
+            "nodeID": "430933",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:07",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430934",
+            "text": "Taking cocaine, a Class A drug, was and is illegal",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:07"
+        },
+        {
+            "nodeID": "430935",
+            "text": "Kamila: Michael Buerk : Taking cocaine, a Class A drug, was and is illegal",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:07"
+        },
+        {
+            "nodeID": "430936",
+            "text": "Michael Buerk : Those who do so fund a chain of vicious criminality that undermine societies across half the world",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:07"
+        },
+        {
+            "nodeID": "430937",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:08",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430938",
+            "text": "Those who take cocaine fund a chain of vicious criminality that undermine societies across half the world",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:08"
+        },
+        {
+            "nodeID": "430939",
+            "text": "Kamila: Michael Buerk : Those who do so fund a chain of vicious criminality that undermine societies across half the world",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:08"
+        },
+        {
+            "nodeID": "430940",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2019-09-23 17:06:08",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "430941",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:08",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430942",
+            "text": "Michael Buerk : There are many who say the real sin is hypocrisy",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:08"
+        },
+        {
+            "nodeID": "430943",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:08",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430944",
+            "text": "There are many who say the real sin is hypocrisy",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:08"
+        },
+        {
+            "nodeID": "430945",
+            "text": "Kamila: Michael Buerk : There are many who say the real sin is hypocrisy",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:08"
+        },
+        {
+            "nodeID": "430946",
+            "text": "Michael Buerk : This seems to have become more and more the case as we become less certain as a society about what is actually right and wrong",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:09"
+        },
+        {
+            "nodeID": "430947",
+            "text": "This seems to have become more and more the case as we become less certain as a society about what is actually right and wrong",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:09"
+        },
+        {
+            "nodeID": "430948",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:09",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430949",
+            "text": "Kamila: Michael Buerk : This seems to have become more and more the case as we become less certain as a society about what is actually right and wrong",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:09"
+        },
+        {
+            "nodeID": "430950",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2019-09-23 17:06:09",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "430951",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:09",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430952",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:09",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "430953",
+            "text": "Michael Buerk : Gove wrote an article criticising middle class professionals for taking drugs, while being one and doing so himself",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:09"
+        },
+        {
+            "nodeID": "430954",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:09",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430955",
+            "text": "Gove wrote an article criticising middle class professionals for taking drugs, while being one and doing so himself",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:10"
+        },
+        {
+            "nodeID": "430956",
+            "text": "Kamila: Michael Buerk : Gove wrote an article criticising middle class professionals for taking drugs, while being one and doing so himself",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:10"
+        },
+        {
+            "nodeID": "430957",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430958",
+            "text": "Michael Buerk : Lapsing sometimes from the standards we uphold is human, he says",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:10"
+        },
+        {
+            "nodeID": "430959",
+            "text": "Default Illocuting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:10",
+            "scheme": "Default Illocuting",
+            "schemeID": "168"
+        },
+        {
+            "nodeID": "430960",
+            "text": "Lapsing sometimes from the standards we uphold is human, he says",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:10"
+        },
+        {
+            "nodeID": "430961",
+            "text": "Kamila: Michael Buerk : Lapsing sometimes from the standards we uphold is human, he says",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:10"
+        },
+        {
+            "nodeID": "430962",
+            "text": "Michael Buerk : Should something like this disqualify you from high office?\u00a0",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:10"
+        },
+        {
+            "nodeID": "430963",
+            "text": "Pure Questioning",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:10",
+            "scheme": "PureQuestioning",
+            "schemeID": "91"
+        },
+        {
+            "nodeID": "430964",
+            "text": "Something like criticising middle class professionals for taking drugs, while doing so themselves should\/shouldn't disqualify you from high office",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:10"
+        },
+        {
+            "nodeID": "430965",
+            "text": "Kamila: Michael Buerk : Should something like this disqualify you from high office?\u00a0",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:11"
+        },
+        {
+            "nodeID": "430966",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:11",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430967",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:11",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430968",
+            "text": "Kamila: Michael Buerk : If so, because of what you did or the hypocrisy you displayed about it",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:11"
+        },
+        {
+            "nodeID": "430969",
+            "text": "Michael Buerk : If so, because of what you did",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:11"
+        },
+        {
+            "nodeID": "430970",
+            "text": "Pure Questioning",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:11",
+            "scheme": "PureQuestioning",
+            "schemeID": "91"
+        },
+        {
+            "nodeID": "430971",
+            "text": "If something like criticising middle class professionals while being one and do so themselves should disqualify you from high office, it is\/isn't because of what you did",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:11"
+        },
+        {
+            "nodeID": "430972",
+            "text": "Kamila: Michael Buerk : If so, because of what you did",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:11"
+        },
+        {
+            "nodeID": "430973",
+            "text": "Michael Buerk : the hypocrisy you displayed about it",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:11"
+        },
+        {
+            "nodeID": "430974",
+            "text": "If something like criticising middle class professionals while being one and do so themselves should disqualify you from high office, it is\/isn't because of the hypocrisy you displayed about it",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:12"
+        },
+        {
+            "nodeID": "430975",
+            "text": "Pure Questioning",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:12",
+            "scheme": "PureQuestioning",
+            "schemeID": "91"
+        },
+        {
+            "nodeID": "430976",
+            "text": "Kamila: Michael Buerk : the hypocrisy you displayed about it",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:12"
+        },
+        {
+            "nodeID": "430977",
+            "text": "Kamila: Michael Buerk : ins of the Past, our Moral Maze tonight",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:12"
+        },
+        {
+            "nodeID": "430978",
+            "text": "Michael Buerk : The panel, Melanie Phillips, social commentator at The Times, the priest and polemicist, Giles Fraser, the historian, Tim Stanley, and new to the panel, Kehinde Andrews, professor of black studies at Birmingham City University",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:12"
+        },
+        {
+            "nodeID": "430979",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:12",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430980",
+            "text": "The panel, Melanie Phillips, social commentator at The Times, the priest and polemicist, Giles Fraser, the historian, Tim Stanley, and new to the panel, Kehinde Andrews, professor of black studies at Birmingham City University",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:12"
+        },
+        {
+            "nodeID": "430981",
+            "text": "Kamila: Michael Buerk : The panel, Melanie Phillips, social commentator at The Times, the priest and polemicist, Giles Fraser, the historian, Tim Stanley, and new to the panel, Kehinde Andrews, professor of black studies at Birmingham City University",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:12"
+        },
+        {
+            "nodeID": "430982",
+            "text": "Michael Buerk : Melanie Phillips, you\u2019ve been pretty unforgiving about our former colleague",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:12"
+        },
+        {
+            "nodeID": "430983",
+            "text": "Melanie Phillips, you\u2019ve been pretty unforgiving about our former colleague",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:12"
+        },
+        {
+            "nodeID": "430984",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:13",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430985",
+            "text": "Kamila: Michael Buerk : Melanie Phillips, you\u2019ve been pretty unforgiving about our former colleague",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:13"
+        },
+        {
+            "nodeID": "430986",
+            "text": "Michael Buerk : Sins of the Past, our Moral Maze tonight",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:13"
+        },
+        {
+            "nodeID": "430987",
+            "text": "Sins of the Past, our Moral Maze tonight",
+            "type": "I",
+            "timestamp": "2019-09-23 17:06:13"
+        },
+        {
+            "nodeID": "430988",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:13",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "430989",
+            "text": "Kamila: Michael Buerk : Sins of the Past, our Moral Maze tonight",
+            "type": "L",
+            "timestamp": "2019-09-23 17:06:13"
+        },
+        {
+            "nodeID": "430990",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2019-09-23 17:06:13",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "430991",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:13",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430992",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2019-09-23 17:06:14",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "430993",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430994",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430995",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430996",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430997",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430998",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "430999",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2019-09-23 17:06:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "552111",
+            "fromID": "430871",
+            "toID": "430870",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552112",
+            "fromID": "430869",
+            "toID": "430871",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552113",
+            "fromID": "430873",
+            "toID": "430869",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552114",
+            "fromID": "430867",
+            "toID": "430873",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552115",
+            "fromID": "430875",
+            "toID": "430876",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552116",
+            "fromID": "430874",
+            "toID": "430875",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552117",
+            "fromID": "430876",
+            "toID": "430878",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552118",
+            "fromID": "430878",
+            "toID": "430870",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552119",
+            "fromID": "430869",
+            "toID": "430879",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552120",
+            "fromID": "430879",
+            "toID": "430874",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552121",
+            "fromID": "430880",
+            "toID": "430878",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552122",
+            "fromID": "430879",
+            "toID": "430880",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552123",
+            "fromID": "430882",
+            "toID": "430883",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552124",
+            "fromID": "430881",
+            "toID": "430882",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552125",
+            "fromID": "430883",
+            "toID": "430885",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552126",
+            "fromID": "430885",
+            "toID": "430870",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552127",
+            "fromID": "430886",
+            "toID": "430881",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552128",
+            "fromID": "430869",
+            "toID": "430886",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552129",
+            "fromID": "430886",
+            "toID": "430887",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552130",
+            "fromID": "430887",
+            "toID": "430885",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552131",
+            "fromID": "430889",
+            "toID": "430890",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552132",
+            "fromID": "430888",
+            "toID": "430889",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552133",
+            "fromID": "430892",
+            "toID": "430888",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552134",
+            "fromID": "430881",
+            "toID": "430892",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552135",
+            "fromID": "430894",
+            "toID": "430895",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552136",
+            "fromID": "430893",
+            "toID": "430894",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552137",
+            "fromID": "430897",
+            "toID": "430890",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552138",
+            "fromID": "430895",
+            "toID": "430897",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552139",
+            "fromID": "430898",
+            "toID": "430893",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552140",
+            "fromID": "430888",
+            "toID": "430898",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552141",
+            "fromID": "430898",
+            "toID": "430899",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552142",
+            "fromID": "430899",
+            "toID": "430897",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552143",
+            "fromID": "430901",
+            "toID": "430902",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552144",
+            "fromID": "430900",
+            "toID": "430901",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552145",
+            "fromID": "430904",
+            "toID": "430900",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552146",
+            "fromID": "430893",
+            "toID": "430904",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552147",
+            "fromID": "430902",
+            "toID": "430905",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552148",
+            "fromID": "430905",
+            "toID": "430895",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552149",
+            "fromID": "430904",
+            "toID": "430906",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552150",
+            "fromID": "430906",
+            "toID": "430905",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552151",
+            "fromID": "430907",
+            "toID": "430909",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552152",
+            "fromID": "430909",
+            "toID": "430908",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552153",
+            "fromID": "430911",
+            "toID": "430916",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552154",
+            "fromID": "430916",
+            "toID": "430915",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552155",
+            "fromID": "430915",
+            "toID": "430917",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552156",
+            "fromID": "430917",
+            "toID": "430912",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552157",
+            "fromID": "430907",
+            "toID": "430918",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552158",
+            "fromID": "430918",
+            "toID": "430911",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552159",
+            "fromID": "430908",
+            "toID": "430919",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552160",
+            "fromID": "430919",
+            "toID": "430902",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552161",
+            "fromID": "430920",
+            "toID": "430907",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552162",
+            "fromID": "430900",
+            "toID": "430920",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552163",
+            "fromID": "430920",
+            "toID": "430921",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552164",
+            "fromID": "430921",
+            "toID": "430919",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552165",
+            "fromID": "430908",
+            "toID": "430922",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552166",
+            "fromID": "430922",
+            "toID": "430912",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552167",
+            "fromID": "430918",
+            "toID": "430923",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552168",
+            "fromID": "430923",
+            "toID": "430922",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552169",
+            "fromID": "430925",
+            "toID": "430926",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552170",
+            "fromID": "430924",
+            "toID": "430925",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552171",
+            "fromID": "430928",
+            "toID": "430930",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552172",
+            "fromID": "430930",
+            "toID": "430929",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552173",
+            "fromID": "430933",
+            "toID": "430934",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552174",
+            "fromID": "430932",
+            "toID": "430933",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552175",
+            "fromID": "430936",
+            "toID": "430937",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552176",
+            "fromID": "430937",
+            "toID": "430938",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552177",
+            "fromID": "430934",
+            "toID": "430940",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552178",
+            "fromID": "430940",
+            "toID": "430938",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552179",
+            "fromID": "430941",
+            "toID": "430936",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552180",
+            "fromID": "430932",
+            "toID": "430941",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552181",
+            "fromID": "430943",
+            "toID": "430944",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552182",
+            "fromID": "430942",
+            "toID": "430943",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552183",
+            "fromID": "430946",
+            "toID": "430948",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552184",
+            "fromID": "430948",
+            "toID": "430947",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552185",
+            "fromID": "430947",
+            "toID": "430950",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552186",
+            "fromID": "430950",
+            "toID": "430944",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552187",
+            "fromID": "430951",
+            "toID": "430946",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552188",
+            "fromID": "430942",
+            "toID": "430951",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552189",
+            "fromID": "430951",
+            "toID": "430952",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552190",
+            "fromID": "430952",
+            "toID": "430950",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552191",
+            "fromID": "430954",
+            "toID": "430955",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552192",
+            "fromID": "430953",
+            "toID": "430954",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552193",
+            "fromID": "430946",
+            "toID": "430957",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552194",
+            "fromID": "430957",
+            "toID": "430953",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552195",
+            "fromID": "430959",
+            "toID": "430960",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552196",
+            "fromID": "430958",
+            "toID": "430959",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552197",
+            "fromID": "430962",
+            "toID": "430963",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552198",
+            "fromID": "430963",
+            "toID": "430964",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552199",
+            "fromID": "430966",
+            "toID": "430962",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552200",
+            "fromID": "430958",
+            "toID": "430966",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552201",
+            "fromID": "430953",
+            "toID": "430967",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552202",
+            "fromID": "430967",
+            "toID": "430958",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552203",
+            "fromID": "430969",
+            "toID": "430970",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552204",
+            "fromID": "430970",
+            "toID": "430971",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552205",
+            "fromID": "430975",
+            "toID": "430974",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552206",
+            "fromID": "430973",
+            "toID": "430975",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552207",
+            "fromID": "430978",
+            "toID": "430979",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552208",
+            "fromID": "430979",
+            "toID": "430980",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552209",
+            "fromID": "430982",
+            "toID": "430984",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552210",
+            "fromID": "430984",
+            "toID": "430983",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552211",
+            "fromID": "430986",
+            "toID": "430988",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552212",
+            "fromID": "430988",
+            "toID": "430987",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552213",
+            "fromID": "430990",
+            "toID": "430895",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552214",
+            "fromID": "430929",
+            "toID": "430990",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552215",
+            "fromID": "430893",
+            "toID": "430991",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552216",
+            "fromID": "430991",
+            "toID": "430928",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552217",
+            "fromID": "430991",
+            "toID": "430992",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552218",
+            "fromID": "430992",
+            "toID": "430990",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552219",
+            "fromID": "430962",
+            "toID": "430993",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552220",
+            "fromID": "430993",
+            "toID": "430969",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552221",
+            "fromID": "430969",
+            "toID": "430994",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552222",
+            "fromID": "430994",
+            "toID": "430973",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552223",
+            "fromID": "430973",
+            "toID": "430995",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552224",
+            "fromID": "430995",
+            "toID": "430986",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552225",
+            "fromID": "430986",
+            "toID": "430996",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552226",
+            "fromID": "430996",
+            "toID": "430978",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552227",
+            "fromID": "430978",
+            "toID": "430997",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552228",
+            "fromID": "430997",
+            "toID": "430982",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552229",
+            "fromID": "430936",
+            "toID": "430998",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552230",
+            "fromID": "430998",
+            "toID": "430942",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552231",
+            "fromID": "430928",
+            "toID": "430999",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "552232",
+            "fromID": "430999",
+            "toID": "430932",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "430867",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430869",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430874",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430881",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430888",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430893",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430900",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430907",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430911",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430915",
+            "personID": "3731",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430924",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430928",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430932",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430936",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430942",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430946",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430953",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430958",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430962",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430969",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430973",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430978",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430982",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "430986",
+            "personID": "3730",
+            "timestamp": "2019-09-23 17:06:22",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

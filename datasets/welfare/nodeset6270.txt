@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="highlighted" id="node1">Should the welfare state, in your view, be about what people need, or
+what they deserve?</span>
+
