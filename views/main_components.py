@@ -1,7 +1,9 @@
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 import dash_html_components as html
-
+from app import app
+from dash.dependencies import Input, Output, State
+import dash
 
 def generateNavBar():
     navbar = dbc.Navbar(
@@ -22,6 +24,8 @@ def generateNavBar():
             )
         ],
         sticky="top",
+        color="navy",
+        dark="True"
     )
     return navbar
 
@@ -31,7 +35,35 @@ def generateMainHeader(text, color):
         children=text,
         style={
             'textAlign': 'center',
-            'color': color
-        }
+            'color': color,
+            'margin': 10
+        },
     )
     return heading
+
+def create_accordion_item(i, title, content):
+    #create Card
+    return dbc.Card(
+        [
+            dbc.CardHeader(
+                html.H2(
+                    dbc.Button(
+                        title,
+                        color="link",
+                        id=f"group-{i+1}-toggle",
+                    )
+                )
+            ),
+            dbc.Collapse(
+                dbc.CardBody(content),
+                id=f"collapse-{i+1}",
+            ),
+        ]
+    )
+
+def create_accordion_items(noOfItems, titleList, contentList):
+    accordionItems = []
+    for i in range(0, noOfItems):
+        accordionItems.append(create_accordion_item(i, titleList[i], contentList[i]))
+    return accordionItems
+

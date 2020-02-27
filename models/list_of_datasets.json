@@ -3,16 +3,25 @@
         "name": "Green Belt - Moral Maze",
         "nameAtPath": "MoralMazeGreenBelt",
         "length": 125,
-        "noOfSpeakers": 5
+        "noOfSpeakers": 5,
+        "description": "This debate is about A."
     },
     {
         "name": "DatasetB",
         "length": 265,
-        "noOfSpeakers": 5
+        "noOfSpeakers": 5,
+        "description": "This debate is about B."
     },
     {
         "name": "DatasetC",
         "length": 356,
-        "noOfSpeakers": 5
+        "noOfSpeakers": 5,
+        "description": "This debate is about C."
+    },
+    {
+        "name": "DatasetD",
+        "length": 356,
+        "noOfSpeakers": 5,
+        "description": "This debate is about D."
     }
 ]
