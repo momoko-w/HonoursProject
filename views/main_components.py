@@ -5,6 +5,7 @@ from app import app
 from dash.dependencies import Input, Output, State
 import dash
 
+
 def generateNavBar():
     navbar = dbc.Navbar(
         children=[
@@ -24,46 +25,64 @@ def generateNavBar():
             )
         ],
         sticky="top",
-        color="navy",
+        color="primary",
         dark="True"
     )
     return navbar
 
 
-def generateMainHeader(text, color):
+def generateMainHeader(text, id):
     heading = html.H1(
+        id=id,
         children=text,
         style={
             'textAlign': 'center',
-            'color': color,
             'margin': 10
         },
     )
     return heading
 
+
 def create_accordion_item(i, title, content):
-    #create Card
+    # create Card
     return dbc.Card(
         [
             dbc.CardHeader(
                 html.H2(
                     dbc.Button(
                         title,
-                        color="link",
-                        id=f"group-{i+1}-toggle",
+                        color="info",
+                        id=f"group-{i + 1}-toggle"
                     )
                 )
             ),
             dbc.Collapse(
-                dbc.CardBody(content),
-                id=f"collapse-{i+1}",
+                dbc.CardBody(
+                    [
+                        html.P(
+                            content,
+                            className="card-text",
+                        ),
+                        dcc.Link(
+                            dbc.Button(
+                                "View Analysis",
+                                color="primary",
+                                id=f"analysis-button-{i + 1}",
+                            ),
+                            href="/debate?"+title
+                        ),
+
+                    ]
+                ),
+                id=f"collapse-{i + 1}",
             ),
-        ]
+        ],
+        color="info"
     )
+
 
 def create_accordion_items(noOfItems, titleList, contentList):
     accordionItems = []
     for i in range(0, noOfItems):
         accordionItems.append(create_accordion_item(i, titleList[i], contentList[i]))
     return accordionItems
-

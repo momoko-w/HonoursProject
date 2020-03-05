@@ -1,10 +1,14 @@
 import dash
 import dash_html_components as html
 from dash.dependencies import Input, Output, State
-import main_components
-from app import app
+import dash_core_components as dcc
+from dash.exceptions import PreventUpdate
+
+import views.main_components as main_components
+from views.app import app
 import mainController
 from controllers import dataController as dataCtrl
+
 
 colors = {
     'background': '#FFFFFF',
@@ -18,7 +22,7 @@ navbar = main_components.generateNavBar()
 header = html.Div(
     [
         # main heading
-        main_components.generateMainHeader('Debate Visualiser', colors['text']),
+        main_components.generateMainHeader('Debate Visualiser', 'main-header'),
         html.Div(children='Tool to visualise and score debates. Put description of project here', style={
             'textAlign': 'center',
             'color': colors['text']
@@ -45,6 +49,9 @@ layout = html.Div([
     # body component
     body
 ])
+
+
+
 
 # dynamic callback function for the accordion and collapsible items in it
 @app.callback(
@@ -87,3 +94,4 @@ def toggle_accordion(*argv):
             return outputlist
     # fail safe in case something went wrong: return list with all states as false
     return outputlist
+
