@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="highlighted" id="node1">Helen
+Dent, your charity has been working with troubled families for 150 years or so,
+hasn’t it?</span> <span class="highlighted" id="node7">Is the Government right in its definition of the problem?</span> <span class="highlighted" id="node16">Also, is
+it right in its strategy for tackling it?</span>
+

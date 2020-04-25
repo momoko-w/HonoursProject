@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+So can I just then say, <span class="highlighted" id="node1">I don’t know about you, but
+I think we all know people who will tell you about some terribly wretched
+childhood that they’ve had</span>. <span class="highlighted" id="node7">Really horrible things might have happened to them</span>,
+<span class="highlighted" id="node22">and they’ve overcome them</span>. <span class="highlighted" id="node37">They’ve basically not been fated by that</span>, <span class="highlighted" id="node48">the whole
+of their future is not being blighted, even though it might have been a
+horrible experience</span>. Would you agree that that’s true?
+

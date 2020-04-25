@@ -2,26 +2,46 @@
     {
         "name": "Green Belt - Moral Maze",
         "nameAtPath": "MoralMazeGreenBelt",
-        "length": 125,
+        "length": 58,
+        "date": "01/04/2017",
         "noOfSpeakers": 5,
-        "description": "This debate is about A."
+        "description": "This debate is about the housing crisis, home ownership in the UK and the deregulation of the planning laws and building on the greenbelt.",
+        "textfile": "MoralMazeGreenBelt-concatenated.txt"
     },
     {
-        "name": "DatasetB",
-        "length": 265,
-        "noOfSpeakers": 5,
-        "description": "This debate is about B."
+        "name": "Hypocrisy - Moral Maze",
+        "nameAtPath": "MM2019Hypocrisy",
+        "length": 43,
+        "date": "12/06/2019",
+        "noOfSpeakers": 8,
+        "description": "This debate discusses how personal moral boundaries are often quite flexible for one's own shortcomings, yet there are often tendencies to pass stricter judgments on others.",
+        "textfile": "MM2019Hypocrisy-concatenated.txt"
     },
     {
-        "name": "DatasetC",
-        "length": 356,
+        "name": "Syria - Moral Maze",
+        "nameAtPath": "MMSyria",
+        "length": 43,
+        "date": "11/07/2012",
         "noOfSpeakers": 5,
-        "description": "This debate is about C."
+        "description": "This debate discusses to what degree international governments and institutions should get involved with in the uprising in Syria.",
+        "textfile": "MMSyr-concatenated.txt"
     },
     {
-        "name": "DatasetD",
-        "length": 356,
+        "name": "Problem Families - Moral Maze",
+        "nameAtPath": "MoralMazeProblemFamilies",
+        "length": 43,
+        "date": "25/07/2012",
         "noOfSpeakers": 5,
-        "description": "This debate is about D."
+        "description": "This debate discusses so called problem families and the problems they pose to society, as well as how the government can & should interfere with troubled families and the issues the Troubled Families Unit is facing.",
+        "textfile": "problem-concatenated.txt"
+    },
+    {
+        "name": "Welfare State- Moral Maze",
+        "nameAtPath": "MoralMazeWelfare",
+        "length": 43,
+        "date": "27/06/2012",
+        "noOfSpeakers": 5,
+        "description": "This debate is about D.",
+        "textfile": "welfare-concatenated.txt"
     }
 ]

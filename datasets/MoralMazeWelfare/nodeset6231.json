@@ -1,0 +1,972 @@
+{
+    "nodes": [
+        {
+            "nodeID": "27251",
+            "text": "welfare is at heart an acknowledgment of the inadequacies of the market system, and an attempt to address them",
+            "type": "I",
+            "timestamp": "2014-02-28 12:21:16"
+        },
+        {
+            "nodeID": "27253",
+            "text": "KM : welfare is at heart an acknowledgment of the inadequacies of the market system, and an attempt to address them",
+            "type": "L",
+            "timestamp": "2014-02-28 12:21:16"
+        },
+        {
+            "nodeID": "27254",
+            "text": "the current debate is about deflecting debate from those failures onto the supposed moral fecklessness of individuals",
+            "type": "I",
+            "timestamp": "2014-02-28 12:21:16"
+        },
+        {
+            "nodeID": "27256",
+            "text": "KM : I think the current debate is about deflecting debate from those failures onto the supposed moral fecklessness of individuals",
+            "type": "L",
+            "timestamp": "2014-02-28 12:21:16"
+        },
+        {
+            "nodeID": "27259",
+            "text": "politicians are not taking a moral stance over welfare reform",
+            "type": "I",
+            "timestamp": "2014-02-28 12:21:16"
+        },
+        {
+            "nodeID": "27261",
+            "text": "KM : and in that I think politicians are not taking a moral stance over welfare reform",
+            "type": "L",
+            "timestamp": "2014-02-28 12:21:16"
+        },
+        {
+            "nodeID": "27264",
+            "text": "they\u2019re simply moralising",
+            "type": "I",
+            "timestamp": "2014-02-28 12:21:16"
+        },
+        {
+            "nodeID": "27266",
+            "text": "KM : they\u2019re simply moralising",
+            "type": "L",
+            "timestamp": "2014-02-28 12:21:16"
+        },
+        {
+            "nodeID": "27267",
+            "text": "people are not naturally lazy or feckless",
+            "type": "I",
+            "timestamp": "2014-02-28 12:21:16"
+        },
+        {
+            "nodeID": "27269",
+            "text": "CL : people are not naturally lazy or feckless",
+            "type": "L",
+            "timestamp": "2014-02-28 12:21:16"
+        },
+        {
+            "nodeID": "27271",
+            "text": "CF : CL : people are not naturally lazy or feckless",
+            "type": "L",
+            "timestamp": "2014-02-28 12:21:16"
+        },
+        {
+            "nodeID": "27272",
+            "text": "CF : I agree with Clifford actually",
+            "type": "L",
+            "timestamp": "2014-02-28 12:21:16"
+        },
+        {
+            "nodeID": "27276",
+            "text": "CF : But I think that the problem for me is that welfarism has gone far beyond a safety net, or anything compassionate,",
+            "type": "L",
+            "timestamp": "2014-02-28 12:21:16"
+        },
+        {
+            "nodeID": "27277",
+            "text": "welfarism has become an all consuming be all and end all for a significant minority of society",
+            "type": "I",
+            "timestamp": "2014-02-28 12:21:17"
+        },
+        {
+            "nodeID": "27279",
+            "text": "CF : and has become an all consuming be all and end all for a significant minority of society",
+            "type": "L",
+            "timestamp": "2014-02-28 12:21:17"
+        },
+        {
+            "nodeID": "27282",
+            "text": "we actually encourage people to become dependent on the state",
+            "type": "I",
+            "timestamp": "2014-02-28 12:21:17"
+        },
+        {
+            "nodeID": "27284",
+            "text": "CF : And so consequently, we actually encourage people to become dependent on the state",
+            "type": "L",
+            "timestamp": "2014-02-28 12:21:17"
+        },
+        {
+            "nodeID": "27287",
+            "text": "that actually is no good for anybody",
+            "type": "I",
+            "timestamp": "2014-02-28 12:21:17"
+        },
+        {
+            "nodeID": "27289",
+            "text": "CF :  and that actually is no good for anybody",
+            "type": "L",
+            "timestamp": "2014-02-28 12:21:17"
+        },
+        {
+            "nodeID": "27290",
+            "text": "CF is not interested in Cameron making cuts",
+            "type": "I",
+            "timestamp": "2014-02-28 12:21:17"
+        },
+        {
+            "nodeID": "27292",
+            "text": "CF : I\u2019m not interested in Cameron making cuts",
+            "type": "L",
+            "timestamp": "2014-02-28 12:21:17"
+        },
+        {
+            "nodeID": "27293",
+            "text": "CF is interested in the demoralising impact of welfarism\u00a0",
+            "type": "I",
+            "timestamp": "2014-02-28 12:21:17"
+        },
+        {
+            "nodeID": "27295",
+            "text": "CF : but I am interested in the demoralising impact of welfarism\u00a0",
+            "type": "L",
+            "timestamp": "2014-02-28 12:21:17"
+        },
+        {
+            "nodeID": "115614",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:33",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "115615",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:33",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "115616",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-03 10:43:33"
+        },
+        {
+            "nodeID": "115617",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:33",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "115618",
+            "text": "RA",
+            "type": "RA",
+            "timestamp": "2015-12-03 10:43:33"
+        },
+        {
+            "nodeID": "115619",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-03 10:43:33"
+        },
+        {
+            "nodeID": "115620",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:33",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "115621",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:33",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "115622",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:33",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "115623",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:34",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "115624",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-03 10:43:34"
+        },
+        {
+            "nodeID": "115625",
+            "text": "the problem is that welfarism has gone far beyond a safety net, or anything compassionate",
+            "type": "I",
+            "timestamp": "2015-12-03 10:43:34"
+        },
+        {
+            "nodeID": "115626",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:34",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "115627",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:34",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "115628",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-03 10:43:34"
+        },
+        {
+            "nodeID": "115629",
+            "text": "RA",
+            "type": "RA",
+            "timestamp": "2015-12-03 10:43:34"
+        },
+        {
+            "nodeID": "115630",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:34",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "115631",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:34",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "115632",
+            "text": "RA",
+            "type": "RA",
+            "timestamp": "2015-12-03 10:43:35"
+        },
+        {
+            "nodeID": "115633",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-03 10:43:35"
+        },
+        {
+            "nodeID": "115634",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:35",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "115635",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:35",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "115636",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:35",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "115637",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:35",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "115638",
+            "text": "RA",
+            "type": "RA",
+            "timestamp": "2015-12-03 10:43:35"
+        },
+        {
+            "nodeID": "115639",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-03 10:43:35"
+        },
+        {
+            "nodeID": "115640",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:35",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "115641",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-03 10:43:35",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "115642",
+            "text": "Agreeing",
+            "type": "YA",
+            "timestamp": "2015-12-03 10:43:35",
+            "scheme": "Agreeing",
+            "schemeID": "77"
+        },
+        {
+            "nodeID": "115643",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-03 10:43:35",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "115644",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-03 10:43:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "115645",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-03 10:43:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "154094",
+            "fromID": "115614",
+            "toID": "27251",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154095",
+            "fromID": "27253",
+            "toID": "115614",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154096",
+            "fromID": "115615",
+            "toID": "27254",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154097",
+            "fromID": "27256",
+            "toID": "115615",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154098",
+            "fromID": "27253",
+            "toID": "115616",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154099",
+            "fromID": "115616",
+            "toID": "27256",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154100",
+            "fromID": "115617",
+            "toID": "27259",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154101",
+            "fromID": "27261",
+            "toID": "115617",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154102",
+            "fromID": "27254",
+            "toID": "115618",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154103",
+            "fromID": "115618",
+            "toID": "27259",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154104",
+            "fromID": "27261",
+            "toID": "115619",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154105",
+            "fromID": "115619",
+            "toID": "27256",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154106",
+            "fromID": "115619",
+            "toID": "115620",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154107",
+            "fromID": "115620",
+            "toID": "115618",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154108",
+            "fromID": "115621",
+            "toID": "27264",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154109",
+            "fromID": "27266",
+            "toID": "115621",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154110",
+            "fromID": "27264",
+            "toID": "115618",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154111",
+            "fromID": "115619",
+            "toID": "27266",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154112",
+            "fromID": "115622",
+            "toID": "27267",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154113",
+            "fromID": "27269",
+            "toID": "115622",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154114",
+            "fromID": "115623",
+            "toID": "27269",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154115",
+            "fromID": "27271",
+            "toID": "115623",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154116",
+            "fromID": "27272",
+            "toID": "115624",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154117",
+            "fromID": "115624",
+            "toID": "27271",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154118",
+            "fromID": "115626",
+            "toID": "115625",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154119",
+            "fromID": "27276",
+            "toID": "115626",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154120",
+            "fromID": "115627",
+            "toID": "27277",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154121",
+            "fromID": "27279",
+            "toID": "115627",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154122",
+            "fromID": "27276",
+            "toID": "115628",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154123",
+            "fromID": "115628",
+            "toID": "27279",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154124",
+            "fromID": "27277",
+            "toID": "115629",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154125",
+            "fromID": "115629",
+            "toID": "115625",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154126",
+            "fromID": "115628",
+            "toID": "115630",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154127",
+            "fromID": "115630",
+            "toID": "115629",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154128",
+            "fromID": "115631",
+            "toID": "27282",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154129",
+            "fromID": "27284",
+            "toID": "115631",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154130",
+            "fromID": "27277",
+            "toID": "115632",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154131",
+            "fromID": "115632",
+            "toID": "27282",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154132",
+            "fromID": "27279",
+            "toID": "115633",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154133",
+            "fromID": "115633",
+            "toID": "27284",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154134",
+            "fromID": "115633",
+            "toID": "115634",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154135",
+            "fromID": "115634",
+            "toID": "115632",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154136",
+            "fromID": "115635",
+            "toID": "27287",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154137",
+            "fromID": "27289",
+            "toID": "115635",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154138",
+            "fromID": "115636",
+            "toID": "27290",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154139",
+            "fromID": "27292",
+            "toID": "115636",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154140",
+            "fromID": "115637",
+            "toID": "27293",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154141",
+            "fromID": "27295",
+            "toID": "115637",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154142",
+            "fromID": "27293",
+            "toID": "115638",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154143",
+            "fromID": "115638",
+            "toID": "27290",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154144",
+            "fromID": "27292",
+            "toID": "115639",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154145",
+            "fromID": "115639",
+            "toID": "27295",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154146",
+            "fromID": "115639",
+            "toID": "115640",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154147",
+            "fromID": "115640",
+            "toID": "115638",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154148",
+            "fromID": "27256",
+            "toID": "115641",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154149",
+            "fromID": "115641",
+            "toID": "27272",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154150",
+            "fromID": "115624",
+            "toID": "115642",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154151",
+            "fromID": "115642",
+            "toID": "27267",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154152",
+            "fromID": "27271",
+            "toID": "115643",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154153",
+            "fromID": "115643",
+            "toID": "27276",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154154",
+            "fromID": "27284",
+            "toID": "115644",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154155",
+            "fromID": "115644",
+            "toID": "27289",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154156",
+            "fromID": "27289",
+            "toID": "115645",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154157",
+            "fromID": "115645",
+            "toID": "27292",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "27253",
+            "personID": "488",
+            "timestamp": "2014-02-28 12:21:18",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27256",
+            "personID": "488",
+            "timestamp": "2014-02-28 12:21:18",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27261",
+            "personID": "488",
+            "timestamp": "2014-02-28 12:21:18",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27266",
+            "personID": "488",
+            "timestamp": "2014-02-28 12:21:18",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27269",
+            "personID": "488",
+            "timestamp": "2014-02-28 12:21:18",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27271",
+            "personID": "488",
+            "timestamp": "2014-02-28 12:21:18",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27272",
+            "personID": "488",
+            "timestamp": "2014-02-28 12:21:18",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27276",
+            "personID": "488",
+            "timestamp": "2014-02-28 12:21:18",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27279",
+            "personID": "488",
+            "timestamp": "2014-02-28 12:21:18",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27284",
+            "personID": "488",
+            "timestamp": "2014-02-28 12:21:18",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27289",
+            "personID": "488",
+            "timestamp": "2014-02-28 12:21:18",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27292",
+            "personID": "488",
+            "timestamp": "2014-02-28 12:21:18",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27295",
+            "personID": "488",
+            "timestamp": "2014-02-28 12:21:18",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27253",
+            "personID": "0",
+            "timestamp": "2015-12-03 10:43:38",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27256",
+            "personID": "0",
+            "timestamp": "2015-12-03 10:43:38",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27261",
+            "personID": "0",
+            "timestamp": "2015-12-03 10:43:38",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27266",
+            "personID": "0",
+            "timestamp": "2015-12-03 10:43:38",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27269",
+            "personID": "0",
+            "timestamp": "2015-12-03 10:43:38",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27271",
+            "personID": "0",
+            "timestamp": "2015-12-03 10:43:38",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27272",
+            "personID": "0",
+            "timestamp": "2015-12-03 10:43:38",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27276",
+            "personID": "0",
+            "timestamp": "2015-12-03 10:43:38",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27279",
+            "personID": "0",
+            "timestamp": "2015-12-03 10:43:38",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27284",
+            "personID": "0",
+            "timestamp": "2015-12-03 10:43:38",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27289",
+            "personID": "0",
+            "timestamp": "2015-12-03 10:43:38",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27292",
+            "personID": "0",
+            "timestamp": "2015-12-03 10:43:38",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27295",
+            "personID": "0",
+            "timestamp": "2015-12-03 10:43:38",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}
