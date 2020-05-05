@@ -251,7 +251,7 @@ tab_data = []
 for i in range(len(debate_names)):
     print("Calculating data for " + debate_names[i])
     # deep copy needed because otherwise issues with how Python appends objects arises (always calls from same memory address
-    debatedata = copy.deepcopy(mainController.calculate_tab_data(debate_names[i], dataframes[i]))
+    debatedata = copy.deepcopy(mainController.calculate_tab_data(debate_names[i]))
     tab_data.append(debatedata)
 
 

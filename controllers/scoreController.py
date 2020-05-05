@@ -50,7 +50,7 @@ def get_adjusted_percentage(value, min, max, avg):
     else:
         # else get percentage between avg & max
         percentage = get_percentage_in_range(value, avg, max)
-        return round(percentage/2, 2)
+        return round((percentage/2)+50, 2)
 
 
 def get_points_for_percentage(percentage, multiplier):
@@ -77,28 +77,32 @@ def calculate_speaker_scores(debate_data, standards, speakers_list, debateName):
         temp = debate_context["supporting"]
         if temp["max"] > 100:
             temp["max"] = 100
-        percentage = get_adjusted_percentage(speaker["supporting"], temp["min"], temp["max"], temp["avg"])
+        supporting_perc = round(speaker["supporting"]/speaker["total_arg"]*100, 2)
+        percentage = get_adjusted_percentage(supporting_perc, temp["min"], temp["max"], temp["avg"])
         score += get_points_for_percentage(percentage, 1.5)
 
         # supported arguments made - high
         temp = debate_context["supported"]
         if temp["max"] > 100:
             temp["max"] = 100
-        percentage = get_adjusted_percentage(speaker["supported"], temp["min"], temp["max"], temp["avg"])
+        supported_perc = round(speaker["supported"]/speaker["total_arg"]*100, 2)
+        percentage = get_adjusted_percentage(supported_perc, temp["min"], temp["max"], temp["avg"])
         score += get_points_for_percentage(percentage, 1.5)
 
         # countering arguments made - high
         temp = debate_context["countering"]
         if temp["max"] > 100:
             temp["max"] = 100
-        percentage = get_adjusted_percentage(speaker["countering"], temp["min"], temp["max"], temp["avg"])
+        countering_perc = round(speaker["countering"]/speaker["total_arg"]*100, 2)
+        percentage = get_adjusted_percentage(countering_perc, temp["min"], temp["max"], temp["avg"])
         score += get_points_for_percentage(percentage, 1.5)
 
         # countered arguments made - high NEGATIVE
         temp = debate_context["countered"]
         if temp["max"] > 100:
             temp["max"] = 100
-        percentage = get_adjusted_percentage(speaker["countered"], temp["min"], temp["max"], temp["avg"])
+        countered_perc = round(speaker["countered"]/speaker["total_arg"]*100, 2)
+        percentage = get_adjusted_percentage(countered_perc, temp["min"], temp["max"], temp["avg"])
         score -= get_points_for_percentage(percentage, 1.5)
 
         if score < 0:

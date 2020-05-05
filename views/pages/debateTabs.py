@@ -40,12 +40,12 @@ def get_debate_tab(debateName, data):
                     dbc.CardBody([
                         daq.Thermometer(
                             min=0,
-                            max=30,
+                            max=100,
                             value=data["score"],
                             scale={
                                 'start': 0, 'interval': 10,
                                 'labelInterval': 1,
-                                'custom': {'18.68': 'Average Score', }
+                                'custom': {'44.27': 'Average Score', }
                             },
                             # color={"gradient": True, "ranges": {"green": [0, 60], "yellow": [60, 80], "red": [80, 100]}},
                         ),
