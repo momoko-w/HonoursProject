@@ -1,1 +1,268 @@
-{"nodes":[{"nodeID":"46559","text":"MB : is the concept of shame, is stigma and guilt, and responsibility I suppose \u2013 but, is shame particularly, is that useful in this context?","type":"L","timestamp":"2015-01-08 15:57:36"},{"nodeID":"46562","text":"this is about compassion, social justice, giving these families a chance and no longer writing them off and leaving them on a social scrapheap.","type":"I","timestamp":"2015-01-08 15:57:36"},{"nodeID":"46564","text":"CG : I think there\u2019s some political rhetoric flying around that I would not choose to be using.","type":"L","timestamp":"2015-01-08 15:57:36"},{"nodeID":"46566","text":"CG : I think this is about compassion, social justice, giving these families a chance and no longer writing them off and leaving them on a social scrapheap.","type":"L","timestamp":"2015-01-08 15:57:36"},{"nodeID":"118311","text":"the concept of shame, stigma and guilt, and responsibility and shame particularly, is \/ is not useful in this context","type":"I","timestamp":"2015-12-08 13:20:32"},{"nodeID":"118312","text":"Pure Questioning","type":"YA","timestamp":"2015-12-08 13:20:32","scheme":"PureQuestioning","schemeID":"91"},{"nodeID":"118313","text":"there\u2019s some political rhetoric flying around that CG would not choose to be using.","type":"I","timestamp":"2015-12-08 13:20:32"},{"nodeID":"118314","text":"Asserting","type":"YA","timestamp":"2015-12-08 13:20:32","scheme":"Asserting","schemeID":"74"},{"nodeID":"118315","text":"Asserting","type":"YA","timestamp":"2015-12-08 13:20:33","scheme":"Asserting","schemeID":"74"},{"nodeID":"118316","text":"TA","type":"TA","timestamp":"2015-12-08 13:20:33"},{"nodeID":"118317","text":"TA","type":"TA","timestamp":"2015-12-08 13:20:33"},{"nodeID":"118318","text":"Default Inference","type":"RA","timestamp":"2015-12-08 13:20:33","scheme":"Default Inference","schemeID":"72"},{"nodeID":"118319","text":"Arguing","type":"YA","timestamp":"2015-12-08 13:20:33","scheme":"Arguing","schemeID":"80"},{"nodeID":"118320","text":"Default Rephrase","type":"MA","timestamp":"2015-12-08 13:20:33","scheme":"Default Rephrase","schemeID":"144"},{"nodeID":"118321","text":"Default Illocuting","type":"YA","timestamp":"2015-12-08 13:20:33","scheme":"Default Illocuting","schemeID":"168"}],"edges":[{"edgeID":"158559","fromID":"46559","toID":"118312","formEdgeID":null},{"edgeID":"158564","fromID":"46559","toID":"118316","formEdgeID":null},{"edgeID":"158568","fromID":"46562","toID":"118318","formEdgeID":null},{"edgeID":"158561","fromID":"46564","toID":"118314","formEdgeID":null},{"edgeID":"158566","fromID":"46564","toID":"118317","formEdgeID":null},{"edgeID":"158563","fromID":"46566","toID":"118315","formEdgeID":null},{"edgeID":"158558","fromID":"118312","toID":"118311","formEdgeID":null},{"edgeID":"158572","fromID":"118313","toID":"118320","formEdgeID":null},{"edgeID":"158560","fromID":"118314","toID":"118313","formEdgeID":null},{"edgeID":"158562","fromID":"118315","toID":"46562","formEdgeID":null},{"edgeID":"158565","fromID":"118316","toID":"46564","formEdgeID":null},{"edgeID":"158574","fromID":"118316","toID":"118321","formEdgeID":null},{"edgeID":"158567","fromID":"118317","toID":"46566","formEdgeID":null},{"edgeID":"158570","fromID":"118317","toID":"118319","formEdgeID":null},{"edgeID":"158569","fromID":"118318","toID":"118313","formEdgeID":null},{"edgeID":"158571","fromID":"118319","toID":"118318","formEdgeID":null},{"edgeID":"158573","fromID":"118320","toID":"118311","formEdgeID":null},{"edgeID":"158575","fromID":"118321","toID":"118320","formEdgeID":null}],"locutions":[{"nodeID":"46559","personID":"405","timestamp":"2015-01-08 15:57:36","start":null,"end":null,"source":null},{"nodeID":"46564","personID":"622","timestamp":"2015-01-08 15:57:36","start":null,"end":null,"source":null},{"nodeID":"46566","personID":"622","timestamp":"2015-01-08 15:57:36","start":null,"end":null,"source":null},{"nodeID":"46559","personID":"405","timestamp":"2015-12-08 13:20:34","start":null,"end":null,"source":null},{"nodeID":"46564","personID":"622","timestamp":"2015-12-08 13:20:34","start":null,"end":null,"source":null},{"nodeID":"46566","personID":"622","timestamp":"2015-12-08 13:20:34","start":null,"end":null,"source":null}]}
+{
+    "nodes": [
+        {
+            "nodeID": "46559",
+            "text": "MB : is the concept of shame, is stigma and guilt, and responsibility I suppose \u2013 but, is shame particularly, is that useful in this context?",
+            "type": "L",
+            "timestamp": "2015-01-08 15:57:36"
+        },
+        {
+            "nodeID": "46562",
+            "text": "this is about compassion, social justice, giving these families a chance and no longer writing them off and leaving them on a social scrapheap.",
+            "type": "I",
+            "timestamp": "2015-01-08 15:57:36"
+        },
+        {
+            "nodeID": "46564",
+            "text": "CG : I think there\u2019s some political rhetoric flying around that I would not choose to be using.",
+            "type": "L",
+            "timestamp": "2015-01-08 15:57:36"
+        },
+        {
+            "nodeID": "46566",
+            "text": "CG : I think this is about compassion, social justice, giving these families a chance and no longer writing them off and leaving them on a social scrapheap.",
+            "type": "L",
+            "timestamp": "2015-01-08 15:57:36"
+        },
+        {
+            "nodeID": "118311",
+            "text": "the concept of shame, stigma and guilt, and responsibility and shame particularly, is \/ is not useful in this context",
+            "type": "I",
+            "timestamp": "2015-12-08 13:20:32"
+        },
+        {
+            "nodeID": "118312",
+            "text": "Pure Questioning",
+            "type": "YA",
+            "timestamp": "2015-12-08 13:20:32",
+            "scheme": "PureQuestioning",
+            "schemeID": "91"
+        },
+        {
+            "nodeID": "118313",
+            "text": "there\u2019s some political rhetoric flying around that CG would not choose to be using.",
+            "type": "I",
+            "timestamp": "2015-12-08 13:20:32"
+        },
+        {
+            "nodeID": "118314",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-08 13:20:32",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "118315",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-08 13:20:33",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "118316",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-08 13:20:33"
+        },
+        {
+            "nodeID": "118317",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-08 13:20:33"
+        },
+        {
+            "nodeID": "118318",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2015-12-08 13:20:33",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "118319",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2015-12-08 13:20:33",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "118320",
+            "text": "Default Rephrase",
+            "type": "MA",
+            "timestamp": "2015-12-08 13:20:33",
+            "scheme": "Default Rephrase",
+            "schemeID": "144"
+        },
+        {
+            "nodeID": "118321",
+            "text": "Default Illocuting",
+            "type": "YA",
+            "timestamp": "2015-12-08 13:20:33",
+            "scheme": "Default Illocuting",
+            "schemeID": "168"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "158559",
+            "fromID": "46559",
+            "toID": "118312",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158564",
+            "fromID": "46559",
+            "toID": "118316",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158568",
+            "fromID": "46562",
+            "toID": "118318",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158561",
+            "fromID": "46564",
+            "toID": "118314",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158566",
+            "fromID": "46564",
+            "toID": "118317",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158563",
+            "fromID": "46566",
+            "toID": "118315",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158558",
+            "fromID": "118312",
+            "toID": "118311",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158572",
+            "fromID": "118313",
+            "toID": "118320",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158560",
+            "fromID": "118314",
+            "toID": "118313",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158562",
+            "fromID": "118315",
+            "toID": "46562",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158565",
+            "fromID": "118316",
+            "toID": "46564",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158574",
+            "fromID": "118316",
+            "toID": "118321",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158567",
+            "fromID": "118317",
+            "toID": "46566",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158570",
+            "fromID": "118317",
+            "toID": "118319",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158569",
+            "fromID": "118318",
+            "toID": "118313",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158571",
+            "fromID": "118319",
+            "toID": "118318",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158573",
+            "fromID": "118320",
+            "toID": "118311",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158575",
+            "fromID": "118321",
+            "toID": "118320",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "46559",
+            "personID": "405",
+            "timestamp": "2015-01-08 15:57:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46564",
+            "personID": "622",
+            "timestamp": "2015-01-08 15:57:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46566",
+            "personID": "622",
+            "timestamp": "2015-01-08 15:57:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46559",
+            "personID": "405",
+            "timestamp": "2015-12-08 13:20:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46564",
+            "personID": "622",
+            "timestamp": "2015-12-08 13:20:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46566",
+            "personID": "622",
+            "timestamp": "2015-12-08 13:20:34",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

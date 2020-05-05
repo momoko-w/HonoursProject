@@ -15,7 +15,7 @@ def generateNavBar():
                     [
                         dbc.Col(html.Img(src=app.get_asset_url('LOGO.png'), height="30px")),
                         dbc.Col(
-                            dbc.NavbarBrand("Debate Visualiser", className="ml-2")
+                            dbc.NavbarBrand("Debate Wiz", className="ml-2")
                         ),
                     ],
                     align="center",
@@ -52,6 +52,11 @@ def generateMainHeader(text, id):
     )
 
     return heading
+
+
+def generate_modal_button(id):
+    button = dbc.Button("Info", id=id, color="info", className="mt-1", size="sm")
+    return button
 
 
 def create_accordion_item(i, title, content):

@@ -1,1 +1,787 @@
-{"nodes":[{"nodeID":"180449","text":"Kenan : if foreign powers intervene in Syria, if there is a possibility of a nondemocratic, another authoritarian, another dictator, another Islamist government","type":"L","timestamp":"2016-07-07 15:08:28"},{"nodeID":"180450","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:08:28","scheme":"Asserting","schemeID":"74"},{"nodeID":"180451","text":"if foreign powers intervene in Syria, if there is a possibility of a nondemocratic, another authoritarian, another dictator, another Islamist government","type":"I","timestamp":"2016-07-07 15:08:28"},{"nodeID":"180452","text":"Rory: Kenan : if foreign powers intervene in Syria, if there is a possibility of a nondemocratic, another authoritarian, another dictator, another Islamist government","type":"L","timestamp":"2016-07-07 15:08:28"},{"nodeID":"180453","text":"Kenan : doesn't it make sense, in your view, to continue to intervene to shape that future","type":"L","timestamp":"2016-07-07 15:08:28"},{"nodeID":"180454","text":"Rhetorical Questioning","type":"YA","timestamp":"2016-07-07 15:08:28","scheme":"RhetoricalQuestioning","schemeID":"85"},{"nodeID":"180455","text":"it makes sense, in Alan Mendozas view, to continue to intervene to shape that future","type":"I","timestamp":"2016-07-07 15:08:28"},{"nodeID":"180456","text":"Rory: Kenan : doesn't it make sense, in your view, to continue to intervene to shape that future","type":"L","timestamp":"2016-07-07 15:08:28"},{"nodeID":"180457","text":"Kenan : so there aren't, for instance, more massacres in the future, imposed by an authoritarian government","type":"L","timestamp":"2016-07-07 15:08:28"},{"nodeID":"180458","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:08:29","scheme":"Asserting","schemeID":"74"},{"nodeID":"180459","text":"so there aren't, for instance, more massacres in the future, imposed by an authoritarian government","type":"I","timestamp":"2016-07-07 15:08:29"},{"nodeID":"180460","text":"Rory: Kenan : so there aren't, for instance, more massacres in the future, imposed by an authoritarian government","type":"L","timestamp":"2016-07-07 15:08:29"},{"nodeID":"180461","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:08:29","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180462","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:08:29","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180463","text":"Default Inference","type":"RA","timestamp":"2016-07-07 15:08:29","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180464","text":"Arguing","type":"YA","timestamp":"2016-07-07 15:08:29","scheme":"Arguing","schemeID":"80"},{"nodeID":"180465","text":"Alan : If you look at two recent examples of governmental changes in the Middle East, it is quite interesting what has happened","type":"L","timestamp":"2016-07-07 15:08:29"},{"nodeID":"180466","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:08:29","scheme":"Asserting","schemeID":"74"},{"nodeID":"180467","text":"If you look at two recent examples of governmental changes in the Middle East, it is quite interesting what has happened","type":"I","timestamp":"2016-07-07 15:08:29"},{"nodeID":"180468","text":"Rory: Alan : If you look at two recent examples of governmental changes in the Middle East, it is quite interesting what has happened","type":"L","timestamp":"2016-07-07 15:08:29"},{"nodeID":"180469","text":"Alan : Let's look at Libya, the West intervened quite rightly to stop atrocities and then Libya determined its future","type":"L","timestamp":"2016-07-07 15:08:29"},{"nodeID":"180470","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:08:30","scheme":"Asserting","schemeID":"74"},{"nodeID":"180471","text":"Let's look at Libya, the West intervened quite rightly to stop atrocities and then Libya determined its future","type":"I","timestamp":"2016-07-07 15:08:30"},{"nodeID":"180472","text":"Rory: Alan : Let's look at Libya, the West intervened quite rightly to stop atrocities and then Libya determined its future","type":"L","timestamp":"2016-07-07 15:08:30"},{"nodeID":"180473","text":"Alan : yes it's unclear, but at the moment things are looking positive in terms of how Libyans have embraced that opportunity and gone forward","type":"L","timestamp":"2016-07-07 15:08:30"},{"nodeID":"180474","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:08:30","scheme":"Asserting","schemeID":"74"},{"nodeID":"180475","text":"yes it's unclear, but at the moment things are looking positive in terms of how Libyans have embraced that opportunity and gone forward","type":"I","timestamp":"2016-07-07 15:08:30"},{"nodeID":"180476","text":"Rory: Alan : yes it's unclear, but at the moment things are looking positive in terms of how Libyans have embraced that opportunity and gone forward","type":"L","timestamp":"2016-07-07 15:08:30"},{"nodeID":"180477","text":"Alan : If you compare that with Egypt, where the West didn't intervene, if you look at what has happened there at the government that has emerged, and also the percentage of people voting there","type":"L","timestamp":"2016-07-07 15:08:30"},{"nodeID":"180478","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:08:30","scheme":"Asserting","schemeID":"74"},{"nodeID":"180479","text":"If you compare that with Egypt, where the West didn't intervene, if you look at what has happened there at the government that has emerged, and also the percentage of people voting there","type":"I","timestamp":"2016-07-07 15:08:30"},{"nodeID":"180480","text":"Rory: Alan : If you compare that with Egypt, where the West didn't intervene, if you look at what has happened there at the government that has emerged, and also the percentage of people voting there","type":"L","timestamp":"2016-07-07 15:08:30"},{"nodeID":"180481","text":"Alan : I think you will see that the very act of intervention itself leads to greater participation","type":"L","timestamp":"2016-07-07 15:08:30"},{"nodeID":"180482","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:08:30","scheme":"Asserting","schemeID":"74"},{"nodeID":"180483","text":"I think you will see that the very act of intervention itself leads to greater participation","type":"I","timestamp":"2016-07-07 15:08:31"},{"nodeID":"180484","text":"Rory: Alan : I think you will see that the very act of intervention itself leads to greater participation","type":"L","timestamp":"2016-07-07 15:08:31"},{"nodeID":"180485","text":"Kenan : Would you have preferred the west to intervene in Egypt","type":"L","timestamp":"2016-07-07 15:08:31"},{"nodeID":"180486","text":"Assertive Questioning","type":"YA","timestamp":"2016-07-07 15:08:31","scheme":"AssertiveQuestioning","schemeID":"73"},{"nodeID":"180487","text":"Alan Mendoza would have preferred the west to intervene in Egypt","type":"I","timestamp":"2016-07-07 15:08:31"},{"nodeID":"180488","text":"Rory: Kenan : Would you have preferred the west to intervene in Egypt?","type":"L","timestamp":"2016-07-07 15:08:31"},{"nodeID":"180489","text":"Alan : They continent. Different case in point","type":"L","timestamp":"2016-07-07 15:08:31"},{"nodeID":"180490","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:08:31","scheme":"Asserting","schemeID":"74"},{"nodeID":"180491","text":"They couldn't intervene. Different case in point","type":"I","timestamp":"2016-07-07 15:08:31"},{"nodeID":"180492","text":"Rory: Alan : They continent. Different case in point","type":"L","timestamp":"2016-07-07 15:08:31"},{"nodeID":"180493","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:08:31","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180494","text":"Default Conflict","type":"CA","timestamp":"2016-07-07 15:08:31","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"180495","text":"Disagreeing","type":"YA","timestamp":"2016-07-07 15:08:31","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"180496","text":"Example","type":"RA","timestamp":"2016-07-07 15:08:32","scheme":"Example","schemeID":"14"},{"nodeID":"180497","text":"Example","type":"RA","timestamp":"2016-07-07 15:08:32","scheme":"Example","schemeID":"14"},{"nodeID":"180498","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:08:32","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180499","text":"Arguing","type":"YA","timestamp":"2016-07-07 15:08:32","scheme":"Arguing","schemeID":"80"},{"nodeID":"180500","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:08:32","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180501","text":"Default Inference","type":"RA","timestamp":"2016-07-07 15:08:32","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180502","text":"Arguing","type":"YA","timestamp":"2016-07-07 15:08:32","scheme":"Arguing","schemeID":"80"},{"nodeID":"180503","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:08:32","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180504","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:08:32","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180505","text":"Arguing","type":"YA","timestamp":"2016-07-07 15:08:32","scheme":"Arguing","schemeID":"80"},{"nodeID":"180506","text":"Default Inference","type":"RA","timestamp":"2016-07-07 15:08:32","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180507","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:08:32","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180508","text":"Arguing","type":"YA","timestamp":"2016-07-07 15:08:33","scheme":"Arguing","schemeID":"80"}],"edges":[{"edgeID":"220547","fromID":"180449","toID":"180450","formEdgeID":null},{"edgeID":"220552","fromID":"180449","toID":"180461","formEdgeID":null},{"edgeID":"220546","fromID":"180450","toID":"180451","formEdgeID":null},{"edgeID":"220549","fromID":"180453","toID":"180454","formEdgeID":null},{"edgeID":"220554","fromID":"180453","toID":"180462","formEdgeID":null},{"edgeID":"220548","fromID":"180454","toID":"180455","formEdgeID":null},{"edgeID":"220551","fromID":"180457","toID":"180458","formEdgeID":null},{"edgeID":"220550","fromID":"180458","toID":"180459","formEdgeID":null},{"edgeID":"220556","fromID":"180459","toID":"180463","formEdgeID":null},{"edgeID":"220553","fromID":"180461","toID":"180453","formEdgeID":null},{"edgeID":"220555","fromID":"180462","toID":"180457","formEdgeID":null},{"edgeID":"220558","fromID":"180462","toID":"180464","formEdgeID":null},{"edgeID":"220557","fromID":"180463","toID":"180455","formEdgeID":null},{"edgeID":"220559","fromID":"180464","toID":"180463","formEdgeID":null},{"edgeID":"220561","fromID":"180465","toID":"180466","formEdgeID":null},{"edgeID":"220584","fromID":"180465","toID":"180498","formEdgeID":null},{"edgeID":"220596","fromID":"180465","toID":"180504","formEdgeID":null},{"edgeID":"220602","fromID":"180465","toID":"180507","formEdgeID":null},{"edgeID":"220560","fromID":"180466","toID":"180467","formEdgeID":null},{"edgeID":"220600","fromID":"180467","toID":"180506","formEdgeID":null},{"edgeID":"220563","fromID":"180469","toID":"180470","formEdgeID":null},{"edgeID":"220588","fromID":"180469","toID":"180500","formEdgeID":null},{"edgeID":"220562","fromID":"180470","toID":"180471","formEdgeID":null},{"edgeID":"220580","fromID":"180471","toID":"180496","formEdgeID":null},{"edgeID":"220565","fromID":"180473","toID":"180474","formEdgeID":null},{"edgeID":"220564","fromID":"180474","toID":"180475","formEdgeID":null},{"edgeID":"220590","fromID":"180475","toID":"180501","formEdgeID":null},{"edgeID":"220567","fromID":"180477","toID":"180478","formEdgeID":null},{"edgeID":"220566","fromID":"180478","toID":"180479","formEdgeID":null},{"edgeID":"220582","fromID":"180479","toID":"180497","formEdgeID":null},{"edgeID":"220569","fromID":"180481","toID":"180482","formEdgeID":null},{"edgeID":"220594","fromID":"180481","toID":"180503","formEdgeID":null},{"edgeID":"220568","fromID":"180482","toID":"180483","formEdgeID":null},{"edgeID":"220571","fromID":"180485","toID":"180486","formEdgeID":null},{"edgeID":"220574","fromID":"180485","toID":"180493","formEdgeID":null},{"edgeID":"220570","fromID":"180486","toID":"180487","formEdgeID":null},{"edgeID":"220573","fromID":"180489","toID":"180490","formEdgeID":null},{"edgeID":"220572","fromID":"180490","toID":"180491","formEdgeID":null},{"edgeID":"220576","fromID":"180491","toID":"180494","formEdgeID":null},{"edgeID":"220575","fromID":"180493","toID":"180489","formEdgeID":null},{"edgeID":"220578","fromID":"180493","toID":"180495","formEdgeID":null},{"edgeID":"220577","fromID":"180494","toID":"180487","formEdgeID":null},{"edgeID":"220579","fromID":"180495","toID":"180494","formEdgeID":null},{"edgeID":"220581","fromID":"180496","toID":"180467","formEdgeID":null},{"edgeID":"220583","fromID":"180497","toID":"180467","formEdgeID":null},{"edgeID":"220585","fromID":"180498","toID":"180477","formEdgeID":null},{"edgeID":"220586","fromID":"180498","toID":"180499","formEdgeID":null},{"edgeID":"220587","fromID":"180499","toID":"180497","formEdgeID":null},{"edgeID":"220589","fromID":"180500","toID":"180473","formEdgeID":null},{"edgeID":"220592","fromID":"180500","toID":"180502","formEdgeID":null},{"edgeID":"220591","fromID":"180501","toID":"180471","formEdgeID":null},{"edgeID":"220593","fromID":"180502","toID":"180501","formEdgeID":null},{"edgeID":"220595","fromID":"180503","toID":"180485","formEdgeID":null},{"edgeID":"220597","fromID":"180504","toID":"180469","formEdgeID":null},{"edgeID":"220598","fromID":"180504","toID":"180505","formEdgeID":null},{"edgeID":"220599","fromID":"180505","toID":"180496","formEdgeID":null},{"edgeID":"220601","fromID":"180506","toID":"180483","formEdgeID":null},{"edgeID":"220603","fromID":"180507","toID":"180481","formEdgeID":null},{"edgeID":"220604","fromID":"180507","toID":"180508","formEdgeID":null},{"edgeID":"220605","fromID":"180508","toID":"180506","formEdgeID":null}],"locutions":[]}
+{
+    "nodes": [
+        {
+            "nodeID": "180449",
+            "text": "Kenan : if foreign powers intervene in Syria, if there is a possibility of a nondemocratic, another authoritarian, another dictator, another Islamist government",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:28"
+        },
+        {
+            "nodeID": "180450",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:28",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180451",
+            "text": "if foreign powers intervene in Syria, if there is a possibility of a nondemocratic, another authoritarian, another dictator, another Islamist government",
+            "type": "I",
+            "timestamp": "2016-07-07 15:08:28"
+        },
+        {
+            "nodeID": "180452",
+            "text": "Rory: Kenan : if foreign powers intervene in Syria, if there is a possibility of a nondemocratic, another authoritarian, another dictator, another Islamist government",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:28"
+        },
+        {
+            "nodeID": "180453",
+            "text": "Kenan : doesn't it make sense, in your view, to continue to intervene to shape that future",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:28"
+        },
+        {
+            "nodeID": "180454",
+            "text": "Rhetorical Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:28",
+            "scheme": "RhetoricalQuestioning",
+            "schemeID": "85"
+        },
+        {
+            "nodeID": "180455",
+            "text": "it makes sense, in Alan Mendozas view, to continue to intervene to shape that future",
+            "type": "I",
+            "timestamp": "2016-07-07 15:08:28"
+        },
+        {
+            "nodeID": "180456",
+            "text": "Rory: Kenan : doesn't it make sense, in your view, to continue to intervene to shape that future",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:28"
+        },
+        {
+            "nodeID": "180457",
+            "text": "Kenan : so there aren't, for instance, more massacres in the future, imposed by an authoritarian government",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:28"
+        },
+        {
+            "nodeID": "180458",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:29",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180459",
+            "text": "so there aren't, for instance, more massacres in the future, imposed by an authoritarian government",
+            "type": "I",
+            "timestamp": "2016-07-07 15:08:29"
+        },
+        {
+            "nodeID": "180460",
+            "text": "Rory: Kenan : so there aren't, for instance, more massacres in the future, imposed by an authoritarian government",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:29"
+        },
+        {
+            "nodeID": "180461",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:08:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180462",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:08:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180463",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-07 15:08:29",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180464",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:29",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180465",
+            "text": "Alan : If you look at two recent examples of governmental changes in the Middle East, it is quite interesting what has happened",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:29"
+        },
+        {
+            "nodeID": "180466",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:29",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180467",
+            "text": "If you look at two recent examples of governmental changes in the Middle East, it is quite interesting what has happened",
+            "type": "I",
+            "timestamp": "2016-07-07 15:08:29"
+        },
+        {
+            "nodeID": "180468",
+            "text": "Rory: Alan : If you look at two recent examples of governmental changes in the Middle East, it is quite interesting what has happened",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:29"
+        },
+        {
+            "nodeID": "180469",
+            "text": "Alan : Let's look at Libya, the West intervened quite rightly to stop atrocities and then Libya determined its future",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:29"
+        },
+        {
+            "nodeID": "180470",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:30",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180471",
+            "text": "Let's look at Libya, the West intervened quite rightly to stop atrocities and then Libya determined its future",
+            "type": "I",
+            "timestamp": "2016-07-07 15:08:30"
+        },
+        {
+            "nodeID": "180472",
+            "text": "Rory: Alan : Let's look at Libya, the West intervened quite rightly to stop atrocities and then Libya determined its future",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:30"
+        },
+        {
+            "nodeID": "180473",
+            "text": "Alan : yes it's unclear, but at the moment things are looking positive in terms of how Libyans have embraced that opportunity and gone forward",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:30"
+        },
+        {
+            "nodeID": "180474",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:30",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180475",
+            "text": "yes it's unclear, but at the moment things are looking positive in terms of how Libyans have embraced that opportunity and gone forward",
+            "type": "I",
+            "timestamp": "2016-07-07 15:08:30"
+        },
+        {
+            "nodeID": "180476",
+            "text": "Rory: Alan : yes it's unclear, but at the moment things are looking positive in terms of how Libyans have embraced that opportunity and gone forward",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:30"
+        },
+        {
+            "nodeID": "180477",
+            "text": "Alan : If you compare that with Egypt, where the West didn't intervene, if you look at what has happened there at the government that has emerged, and also the percentage of people voting there",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:30"
+        },
+        {
+            "nodeID": "180478",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:30",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180479",
+            "text": "If you compare that with Egypt, where the West didn't intervene, if you look at what has happened there at the government that has emerged, and also the percentage of people voting there",
+            "type": "I",
+            "timestamp": "2016-07-07 15:08:30"
+        },
+        {
+            "nodeID": "180480",
+            "text": "Rory: Alan : If you compare that with Egypt, where the West didn't intervene, if you look at what has happened there at the government that has emerged, and also the percentage of people voting there",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:30"
+        },
+        {
+            "nodeID": "180481",
+            "text": "Alan : I think you will see that the very act of intervention itself leads to greater participation",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:30"
+        },
+        {
+            "nodeID": "180482",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:30",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180483",
+            "text": "I think you will see that the very act of intervention itself leads to greater participation",
+            "type": "I",
+            "timestamp": "2016-07-07 15:08:31"
+        },
+        {
+            "nodeID": "180484",
+            "text": "Rory: Alan : I think you will see that the very act of intervention itself leads to greater participation",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:31"
+        },
+        {
+            "nodeID": "180485",
+            "text": "Kenan : Would you have preferred the west to intervene in Egypt",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:31"
+        },
+        {
+            "nodeID": "180486",
+            "text": "Assertive Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:31",
+            "scheme": "AssertiveQuestioning",
+            "schemeID": "73"
+        },
+        {
+            "nodeID": "180487",
+            "text": "Alan Mendoza would have preferred the west to intervene in Egypt",
+            "type": "I",
+            "timestamp": "2016-07-07 15:08:31"
+        },
+        {
+            "nodeID": "180488",
+            "text": "Rory: Kenan : Would you have preferred the west to intervene in Egypt?",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:31"
+        },
+        {
+            "nodeID": "180489",
+            "text": "Alan : They continent. Different case in point",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:31"
+        },
+        {
+            "nodeID": "180490",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:31",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180491",
+            "text": "They couldn't intervene. Different case in point",
+            "type": "I",
+            "timestamp": "2016-07-07 15:08:31"
+        },
+        {
+            "nodeID": "180492",
+            "text": "Rory: Alan : They continent. Different case in point",
+            "type": "L",
+            "timestamp": "2016-07-07 15:08:31"
+        },
+        {
+            "nodeID": "180493",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:08:31",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180494",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-07 15:08:31",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "180495",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:31",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "180496",
+            "text": "Example",
+            "type": "RA",
+            "timestamp": "2016-07-07 15:08:32",
+            "scheme": "Example",
+            "schemeID": "14"
+        },
+        {
+            "nodeID": "180497",
+            "text": "Example",
+            "type": "RA",
+            "timestamp": "2016-07-07 15:08:32",
+            "scheme": "Example",
+            "schemeID": "14"
+        },
+        {
+            "nodeID": "180498",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:08:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180499",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:32",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180500",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:08:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180501",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-07 15:08:32",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180502",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:32",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180503",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:08:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180504",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:08:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180505",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:32",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180506",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-07 15:08:32",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180507",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:08:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180508",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:08:33",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "220547",
+            "fromID": "180449",
+            "toID": "180450",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220552",
+            "fromID": "180449",
+            "toID": "180461",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220546",
+            "fromID": "180450",
+            "toID": "180451",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220549",
+            "fromID": "180453",
+            "toID": "180454",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220554",
+            "fromID": "180453",
+            "toID": "180462",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220548",
+            "fromID": "180454",
+            "toID": "180455",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220551",
+            "fromID": "180457",
+            "toID": "180458",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220550",
+            "fromID": "180458",
+            "toID": "180459",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220556",
+            "fromID": "180459",
+            "toID": "180463",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220553",
+            "fromID": "180461",
+            "toID": "180453",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220555",
+            "fromID": "180462",
+            "toID": "180457",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220558",
+            "fromID": "180462",
+            "toID": "180464",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220557",
+            "fromID": "180463",
+            "toID": "180455",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220559",
+            "fromID": "180464",
+            "toID": "180463",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220561",
+            "fromID": "180465",
+            "toID": "180466",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220584",
+            "fromID": "180465",
+            "toID": "180498",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220596",
+            "fromID": "180465",
+            "toID": "180504",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220602",
+            "fromID": "180465",
+            "toID": "180507",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220560",
+            "fromID": "180466",
+            "toID": "180467",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220600",
+            "fromID": "180467",
+            "toID": "180506",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220563",
+            "fromID": "180469",
+            "toID": "180470",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220588",
+            "fromID": "180469",
+            "toID": "180500",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220562",
+            "fromID": "180470",
+            "toID": "180471",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220580",
+            "fromID": "180471",
+            "toID": "180496",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220565",
+            "fromID": "180473",
+            "toID": "180474",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220564",
+            "fromID": "180474",
+            "toID": "180475",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220590",
+            "fromID": "180475",
+            "toID": "180501",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220567",
+            "fromID": "180477",
+            "toID": "180478",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220566",
+            "fromID": "180478",
+            "toID": "180479",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220582",
+            "fromID": "180479",
+            "toID": "180497",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220569",
+            "fromID": "180481",
+            "toID": "180482",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220594",
+            "fromID": "180481",
+            "toID": "180503",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220568",
+            "fromID": "180482",
+            "toID": "180483",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220571",
+            "fromID": "180485",
+            "toID": "180486",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220574",
+            "fromID": "180485",
+            "toID": "180493",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220570",
+            "fromID": "180486",
+            "toID": "180487",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220573",
+            "fromID": "180489",
+            "toID": "180490",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220572",
+            "fromID": "180490",
+            "toID": "180491",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220576",
+            "fromID": "180491",
+            "toID": "180494",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220575",
+            "fromID": "180493",
+            "toID": "180489",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220578",
+            "fromID": "180493",
+            "toID": "180495",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220577",
+            "fromID": "180494",
+            "toID": "180487",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220579",
+            "fromID": "180495",
+            "toID": "180494",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220581",
+            "fromID": "180496",
+            "toID": "180467",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220583",
+            "fromID": "180497",
+            "toID": "180467",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220585",
+            "fromID": "180498",
+            "toID": "180477",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220586",
+            "fromID": "180498",
+            "toID": "180499",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220587",
+            "fromID": "180499",
+            "toID": "180497",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220589",
+            "fromID": "180500",
+            "toID": "180473",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220592",
+            "fromID": "180500",
+            "toID": "180502",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220591",
+            "fromID": "180501",
+            "toID": "180471",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220593",
+            "fromID": "180502",
+            "toID": "180501",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220595",
+            "fromID": "180503",
+            "toID": "180485",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220597",
+            "fromID": "180504",
+            "toID": "180469",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220598",
+            "fromID": "180504",
+            "toID": "180505",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220599",
+            "fromID": "180505",
+            "toID": "180496",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220601",
+            "fromID": "180506",
+            "toID": "180483",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220603",
+            "fromID": "180507",
+            "toID": "180481",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220604",
+            "fromID": "180507",
+            "toID": "180508",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220605",
+            "fromID": "180508",
+            "toID": "180506",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": []
+}

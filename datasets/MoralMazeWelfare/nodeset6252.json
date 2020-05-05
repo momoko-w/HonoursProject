@@ -1,1 +1,506 @@
-{"nodes":[{"nodeID":"42298","text":"Romin is overstating Romin's case, and at the same time treating young people as though they won\u2019t cope with living in a garret, bit of poverty but I\u2019ll get by","type":"I","timestamp":"2014-11-13 13:35:10"},{"nodeID":"42300","text":"Claire : Are you not overstating your case, and at the same time treating young people as though they won\u2019t cope with living in a garret, bit of poverty but I\u2019ll get by","type":"L","timestamp":"2014-11-13 13:35:11"},{"nodeID":"42301","text":"abolishing housing benefit for under 25s will lead to homelessness, hidden homelessness, sofa surfing, staying with the wrong people","type":"I","timestamp":"2014-11-13 13:35:11"},{"nodeID":"42303","text":"Romin : Will abolishing housing benefit for under 25s lead to homelessness? And by which I mean hidden homelessness, sofa surfing, staying with the wrong people","type":"L","timestamp":"2014-11-13 13:35:11"},{"nodeID":"42310","text":"one of the big initiatives that Romin's looking at, is the troubled families initiative; this idea that this hardcore of really difficult families that we need to look at","type":"I","timestamp":"2014-11-13 13:35:11"},{"nodeID":"42315","text":"Romin : you know, one of the big initiatives that we\u2019re looking at, is the troubled families initiative; this idea that this hardcore of really difficult families that we need to look at","type":"L","timestamp":"2014-11-13 13:35:11"},{"nodeID":"42319","text":"xxx is going to happen if maybe there are certain members of that household who should leave, but unfortunately they can\u2019t leave because there\u2019s going to be no support for them","type":"I","timestamp":"2014-11-13 13:35:11"},{"nodeID":"42321","text":"Romin : What\u2019s going to happen if maybe there are certain members of that household who should leave, but unfortunately they can\u2019t leave because there\u2019s going to be no support for them?","type":"L","timestamp":"2014-11-13 13:35:11"},{"nodeID":"116256","text":"Assertive Questioning","type":"YA","timestamp":"2015-12-03 22:49:23","scheme":"AssertiveQuestioning","schemeID":"73"},{"nodeID":"116257","text":"Assertive Questioning","type":"YA","timestamp":"2015-12-03 22:49:23","scheme":"AssertiveQuestioning","schemeID":"73"},{"nodeID":"116258","text":"TA","type":"TA","timestamp":"2015-12-03 22:49:23"},{"nodeID":"116259","text":"Asserting","type":"YA","timestamp":"2015-12-03 22:49:23","scheme":"Asserting","schemeID":"74"},{"nodeID":"116260","text":"TA","type":"TA","timestamp":"2015-12-03 22:49:23"},{"nodeID":"116261","text":"Default Inference","type":"RA","timestamp":"2015-12-03 22:49:24","scheme":"Default Inference","schemeID":"72"},{"nodeID":"116262","text":"Arguing","type":"YA","timestamp":"2015-12-03 22:49:24","scheme":"Arguing","schemeID":"80"},{"nodeID":"116263","text":"Rhetorical Questioning","type":"YA","timestamp":"2015-12-03 22:49:24","scheme":"RhetoricalQuestioning","schemeID":"85"},{"nodeID":"116264","text":"TA","type":"TA","timestamp":"2015-12-03 22:49:24"},{"nodeID":"116265","text":"Default Conflict","type":"CA","timestamp":"2015-12-03 22:49:24","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"116266","text":"Disagreeing","type":"YA","timestamp":"2015-12-03 22:49:24","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"116267","text":"abolishing housing benefit for under 25s will lead to staying with your mates","type":"I","timestamp":"2015-12-03 22:49:24"},{"nodeID":"116268","text":"Assertive Questioning","type":"YA","timestamp":"2015-12-03 22:49:24","scheme":"AssertiveQuestioning","schemeID":"73"},{"nodeID":"116269","text":"Claire : Staying with your mates?","type":"L","timestamp":"2015-12-03 22:49:24"},{"nodeID":"116270","text":"M: Claire : Staying with your mates?","type":"L","timestamp":"2015-12-03 22:49:24"},{"nodeID":"116271","text":"Default Transition","type":"TA","timestamp":"2015-12-03 22:49:24","scheme":"Default Transition","schemeID":"82"},{"nodeID":"116272","text":"Default Rephrase","type":"MA","timestamp":"2015-12-03 22:49:24","scheme":"Default Rephrase","schemeID":"144"},{"nodeID":"116273","text":"Default Illocuting","type":"YA","timestamp":"2015-12-03 22:49:24","scheme":"Default Illocuting","schemeID":"168"},{"nodeID":"116274","text":"you have to ask yourself, \u201cWho are those mates?\u201d","type":"I","timestamp":"2015-12-03 22:49:24"},{"nodeID":"116275","text":"Asserting","type":"YA","timestamp":"2015-12-03 22:49:24","scheme":"Asserting","schemeID":"74"},{"nodeID":"116276","text":"Romin : Well you have to ask yourself, \u201cWho are those mates?\u201d","type":"L","timestamp":"2015-12-03 22:49:24"},{"nodeID":"116277","text":"M: Romin : Well you have to ask yourself, \u201cWho are those mates?\u201d","type":"L","timestamp":"2015-12-03 22:49:24"},{"nodeID":"116278","text":"Default Transition","type":"TA","timestamp":"2015-12-03 22:49:24","scheme":"Default Transition","schemeID":"82"}],"edges":[{"edgeID":"155120","fromID":"116256","toID":"42298","formEdgeID":null},{"edgeID":"155121","fromID":"42300","toID":"116256","formEdgeID":null},{"edgeID":"155122","fromID":"116257","toID":"42301","formEdgeID":null},{"edgeID":"155123","fromID":"42303","toID":"116257","formEdgeID":null},{"edgeID":"155124","fromID":"42300","toID":"116258","formEdgeID":null},{"edgeID":"155125","fromID":"116258","toID":"42303","formEdgeID":null},{"edgeID":"155126","fromID":"116259","toID":"42310","formEdgeID":null},{"edgeID":"155127","fromID":"42315","toID":"116259","formEdgeID":null},{"edgeID":"155128","fromID":"42303","toID":"116260","formEdgeID":null},{"edgeID":"155129","fromID":"116260","toID":"42315","formEdgeID":null},{"edgeID":"155130","fromID":"42301","toID":"116261","formEdgeID":null},{"edgeID":"155131","fromID":"116261","toID":"42310","formEdgeID":null},{"edgeID":"155132","fromID":"116260","toID":"116262","formEdgeID":null},{"edgeID":"155133","fromID":"116262","toID":"116261","formEdgeID":null},{"edgeID":"155134","fromID":"116263","toID":"42319","formEdgeID":null},{"edgeID":"155135","fromID":"42321","toID":"116263","formEdgeID":null},{"edgeID":"155136","fromID":"42315","toID":"116264","formEdgeID":null},{"edgeID":"155137","fromID":"116264","toID":"42321","formEdgeID":null},{"edgeID":"155138","fromID":"42301","toID":"116265","formEdgeID":null},{"edgeID":"155139","fromID":"116265","toID":"42298","formEdgeID":null},{"edgeID":"155140","fromID":"116258","toID":"116266","formEdgeID":null},{"edgeID":"155141","fromID":"116266","toID":"116265","formEdgeID":null},{"edgeID":"155142","fromID":"116268","toID":"116267","formEdgeID":null},{"edgeID":"155143","fromID":"116269","toID":"116268","formEdgeID":null},{"edgeID":"155144","fromID":"42303","toID":"116271","formEdgeID":null},{"edgeID":"155145","fromID":"116271","toID":"116269","formEdgeID":null},{"edgeID":"155146","fromID":"116267","toID":"116272","formEdgeID":null},{"edgeID":"155147","fromID":"116272","toID":"42301","formEdgeID":null},{"edgeID":"155148","fromID":"116271","toID":"116273","formEdgeID":null},{"edgeID":"155149","fromID":"116273","toID":"116272","formEdgeID":null},{"edgeID":"155150","fromID":"116275","toID":"116274","formEdgeID":null},{"edgeID":"155151","fromID":"116276","toID":"116275","formEdgeID":null},{"edgeID":"155152","fromID":"116269","toID":"116278","formEdgeID":null},{"edgeID":"155153","fromID":"116278","toID":"116276","formEdgeID":null}],"locutions":[{"nodeID":"42300","personID":"511","timestamp":"2014-11-13 13:35:11","start":null,"end":null,"source":null},{"nodeID":"42303","personID":"582","timestamp":"2014-11-13 13:35:11","start":null,"end":null,"source":null},{"nodeID":"42315","personID":"582","timestamp":"2014-11-13 13:35:11","start":null,"end":null,"source":null},{"nodeID":"42321","personID":"582","timestamp":"2014-11-13 13:35:11","start":null,"end":null,"source":null},{"nodeID":"42300","personID":"511","timestamp":"2015-12-03 22:49:25","start":null,"end":null,"source":null},{"nodeID":"42303","personID":"582","timestamp":"2015-12-03 22:49:25","start":null,"end":null,"source":null},{"nodeID":"42315","personID":"582","timestamp":"2015-12-03 22:49:25","start":null,"end":null,"source":null},{"nodeID":"42321","personID":"582","timestamp":"2015-12-03 22:49:25","start":null,"end":null,"source":null},{"nodeID":"116269","personID":"511","timestamp":"2015-12-03 22:49:25","start":null,"end":null,"source":null},{"nodeID":"116276","personID":"582","timestamp":"2015-12-03 22:49:25","start":null,"end":null,"source":null}]}
+{
+    "nodes": [
+        {
+            "nodeID": "42298",
+            "text": "Romin is overstating Romin's case, and at the same time treating young people as though they won\u2019t cope with living in a garret, bit of poverty but I\u2019ll get by",
+            "type": "I",
+            "timestamp": "2014-11-13 13:35:10"
+        },
+        {
+            "nodeID": "42300",
+            "text": "Claire : Are you not overstating your case, and at the same time treating young people as though they won\u2019t cope with living in a garret, bit of poverty but I\u2019ll get by",
+            "type": "L",
+            "timestamp": "2014-11-13 13:35:11"
+        },
+        {
+            "nodeID": "42301",
+            "text": "abolishing housing benefit for under 25s will lead to homelessness, hidden homelessness, sofa surfing, staying with the wrong people",
+            "type": "I",
+            "timestamp": "2014-11-13 13:35:11"
+        },
+        {
+            "nodeID": "42303",
+            "text": "Romin : Will abolishing housing benefit for under 25s lead to homelessness? And by which I mean hidden homelessness, sofa surfing, staying with the wrong people",
+            "type": "L",
+            "timestamp": "2014-11-13 13:35:11"
+        },
+        {
+            "nodeID": "42310",
+            "text": "one of the big initiatives that Romin's looking at, is the troubled families initiative; this idea that this hardcore of really difficult families that we need to look at",
+            "type": "I",
+            "timestamp": "2014-11-13 13:35:11"
+        },
+        {
+            "nodeID": "42315",
+            "text": "Romin : you know, one of the big initiatives that we\u2019re looking at, is the troubled families initiative; this idea that this hardcore of really difficult families that we need to look at",
+            "type": "L",
+            "timestamp": "2014-11-13 13:35:11"
+        },
+        {
+            "nodeID": "42319",
+            "text": "xxx is going to happen if maybe there are certain members of that household who should leave, but unfortunately they can\u2019t leave because there\u2019s going to be no support for them",
+            "type": "I",
+            "timestamp": "2014-11-13 13:35:11"
+        },
+        {
+            "nodeID": "42321",
+            "text": "Romin : What\u2019s going to happen if maybe there are certain members of that household who should leave, but unfortunately they can\u2019t leave because there\u2019s going to be no support for them?",
+            "type": "L",
+            "timestamp": "2014-11-13 13:35:11"
+        },
+        {
+            "nodeID": "116256",
+            "text": "Assertive Questioning",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:49:23",
+            "scheme": "AssertiveQuestioning",
+            "schemeID": "73"
+        },
+        {
+            "nodeID": "116257",
+            "text": "Assertive Questioning",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:49:23",
+            "scheme": "AssertiveQuestioning",
+            "schemeID": "73"
+        },
+        {
+            "nodeID": "116258",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-03 22:49:23"
+        },
+        {
+            "nodeID": "116259",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:49:23",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "116260",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-03 22:49:23"
+        },
+        {
+            "nodeID": "116261",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2015-12-03 22:49:24",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "116262",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:49:24",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "116263",
+            "text": "Rhetorical Questioning",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:49:24",
+            "scheme": "RhetoricalQuestioning",
+            "schemeID": "85"
+        },
+        {
+            "nodeID": "116264",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-03 22:49:24"
+        },
+        {
+            "nodeID": "116265",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2015-12-03 22:49:24",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "116266",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:49:24",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "116267",
+            "text": "abolishing housing benefit for under 25s will lead to staying with your mates",
+            "type": "I",
+            "timestamp": "2015-12-03 22:49:24"
+        },
+        {
+            "nodeID": "116268",
+            "text": "Assertive Questioning",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:49:24",
+            "scheme": "AssertiveQuestioning",
+            "schemeID": "73"
+        },
+        {
+            "nodeID": "116269",
+            "text": "Claire : Staying with your mates?",
+            "type": "L",
+            "timestamp": "2015-12-03 22:49:24"
+        },
+        {
+            "nodeID": "116270",
+            "text": "M: Claire : Staying with your mates?",
+            "type": "L",
+            "timestamp": "2015-12-03 22:49:24"
+        },
+        {
+            "nodeID": "116271",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-03 22:49:24",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "116272",
+            "text": "Default Rephrase",
+            "type": "MA",
+            "timestamp": "2015-12-03 22:49:24",
+            "scheme": "Default Rephrase",
+            "schemeID": "144"
+        },
+        {
+            "nodeID": "116273",
+            "text": "Default Illocuting",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:49:24",
+            "scheme": "Default Illocuting",
+            "schemeID": "168"
+        },
+        {
+            "nodeID": "116274",
+            "text": "you have to ask yourself, \u201cWho are those mates?\u201d",
+            "type": "I",
+            "timestamp": "2015-12-03 22:49:24"
+        },
+        {
+            "nodeID": "116275",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:49:24",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "116276",
+            "text": "Romin : Well you have to ask yourself, \u201cWho are those mates?\u201d",
+            "type": "L",
+            "timestamp": "2015-12-03 22:49:24"
+        },
+        {
+            "nodeID": "116277",
+            "text": "M: Romin : Well you have to ask yourself, \u201cWho are those mates?\u201d",
+            "type": "L",
+            "timestamp": "2015-12-03 22:49:24"
+        },
+        {
+            "nodeID": "116278",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-03 22:49:24",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "155120",
+            "fromID": "116256",
+            "toID": "42298",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155121",
+            "fromID": "42300",
+            "toID": "116256",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155122",
+            "fromID": "116257",
+            "toID": "42301",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155123",
+            "fromID": "42303",
+            "toID": "116257",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155124",
+            "fromID": "42300",
+            "toID": "116258",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155125",
+            "fromID": "116258",
+            "toID": "42303",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155126",
+            "fromID": "116259",
+            "toID": "42310",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155127",
+            "fromID": "42315",
+            "toID": "116259",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155128",
+            "fromID": "42303",
+            "toID": "116260",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155129",
+            "fromID": "116260",
+            "toID": "42315",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155130",
+            "fromID": "42301",
+            "toID": "116261",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155131",
+            "fromID": "116261",
+            "toID": "42310",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155132",
+            "fromID": "116260",
+            "toID": "116262",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155133",
+            "fromID": "116262",
+            "toID": "116261",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155134",
+            "fromID": "116263",
+            "toID": "42319",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155135",
+            "fromID": "42321",
+            "toID": "116263",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155136",
+            "fromID": "42315",
+            "toID": "116264",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155137",
+            "fromID": "116264",
+            "toID": "42321",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155138",
+            "fromID": "42301",
+            "toID": "116265",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155139",
+            "fromID": "116265",
+            "toID": "42298",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155140",
+            "fromID": "116258",
+            "toID": "116266",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155141",
+            "fromID": "116266",
+            "toID": "116265",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155142",
+            "fromID": "116268",
+            "toID": "116267",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155143",
+            "fromID": "116269",
+            "toID": "116268",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155144",
+            "fromID": "42303",
+            "toID": "116271",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155145",
+            "fromID": "116271",
+            "toID": "116269",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155146",
+            "fromID": "116267",
+            "toID": "116272",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155147",
+            "fromID": "116272",
+            "toID": "42301",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155148",
+            "fromID": "116271",
+            "toID": "116273",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155149",
+            "fromID": "116273",
+            "toID": "116272",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155150",
+            "fromID": "116275",
+            "toID": "116274",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155151",
+            "fromID": "116276",
+            "toID": "116275",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155152",
+            "fromID": "116269",
+            "toID": "116278",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155153",
+            "fromID": "116278",
+            "toID": "116276",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "42300",
+            "personID": "511",
+            "timestamp": "2014-11-13 13:35:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "42303",
+            "personID": "582",
+            "timestamp": "2014-11-13 13:35:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "42315",
+            "personID": "582",
+            "timestamp": "2014-11-13 13:35:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "42321",
+            "personID": "582",
+            "timestamp": "2014-11-13 13:35:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "42300",
+            "personID": "511",
+            "timestamp": "2015-12-03 22:49:25",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "42303",
+            "personID": "582",
+            "timestamp": "2015-12-03 22:49:25",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "42315",
+            "personID": "582",
+            "timestamp": "2015-12-03 22:49:25",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "42321",
+            "personID": "582",
+            "timestamp": "2015-12-03 22:49:25",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "116269",
+            "personID": "511",
+            "timestamp": "2015-12-03 22:49:25",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "116276",
+            "personID": "582",
+            "timestamp": "2015-12-03 22:49:25",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

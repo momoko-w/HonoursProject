@@ -1,1 +1,535 @@
-{"nodes":[{"nodeID":"179204","text":"Clifford :  is it there a level of atrocity in Syria by the Assad regime that would persuade you to change your mind","type":"L","timestamp":"2016-07-05 13:25:29"},{"nodeID":"179205","text":"Assertive Questioning","type":"YA","timestamp":"2016-07-05 13:25:30","scheme":"AssertiveQuestioning","schemeID":"73"},{"nodeID":"179206","text":"there isn't a level of atrocity in Syria by the Assad regime that would persuade Karl Sharro to change his mind","type":"I","timestamp":"2016-07-05 13:25:30"},{"nodeID":"179207","text":"Rory: Clifford :  is it there a level of atrocity in Syria by the Assad regime that would persuade you to change your mind","type":"L","timestamp":"2016-07-05 13:25:30"},{"nodeID":"179208","text":"Karl :  I don't come to this with a distant abstract kind of approach","type":"L","timestamp":"2016-07-05 13:25:30"},{"nodeID":"179209","text":"Asserting","type":"YA","timestamp":"2016-07-05 13:25:30","scheme":"Asserting","schemeID":"74"},{"nodeID":"179210","text":"karl Sharro doesn't come to this with a distant abstract kind of approach","type":"I","timestamp":"2016-07-05 13:25:30"},{"nodeID":"179211","text":"Rory: Karl :  I don't come to this with a distant abstract kind of approach","type":"L","timestamp":"2016-07-05 13:25:30"},{"nodeID":"179212","text":"Karl :  it is not that I am cold to the atrocities that are happening over there","type":"L","timestamp":"2016-07-05 13:25:30"},{"nodeID":"179213","text":"Asserting","type":"YA","timestamp":"2016-07-05 13:25:30","scheme":"Asserting","schemeID":"74"},{"nodeID":"179214","text":"Karl Sharro is not cold to the atrocities that are happening over there","type":"I","timestamp":"2016-07-05 13:25:30"},{"nodeID":"179215","text":"Rory: Karl :  it is not that I am cold to the atrocities that are happening over there","type":"L","timestamp":"2016-07-05 13:25:30"},{"nodeID":"179216","text":"Karl : it has been happening for a year and a half","type":"L","timestamp":"2016-07-05 13:25:30"},{"nodeID":"179217","text":"Asserting","type":"YA","timestamp":"2016-07-05 13:25:31","scheme":"Asserting","schemeID":"74"},{"nodeID":"179218","text":"it has been happening for a year and a half","type":"I","timestamp":"2016-07-05 13:25:31"},{"nodeID":"179219","text":"Rory: Karl : quite frankly it has been happening for a year and a half","type":"L","timestamp":"2016-07-05 13:25:31"},{"nodeID":"179220","text":"Karl : we have grown sadly accustomed to the level of atrocities","type":"L","timestamp":"2016-07-05 13:25:31"},{"nodeID":"179221","text":"Asserting","type":"YA","timestamp":"2016-07-05 13:25:31","scheme":"Asserting","schemeID":"74"},{"nodeID":"179222","text":"we have grown sadly accustomed to the level of atrocities","type":"I","timestamp":"2016-07-05 13:25:31"},{"nodeID":"179223","text":"Rory: Karl : we have grown sadly accustomed to the level of atrocities","type":"L","timestamp":"2016-07-05 13:25:31"},{"nodeID":"179224","text":"Karl :  we have in these moments, that's where we have to draw on our moral strength and convictions","type":"L","timestamp":"2016-07-05 13:25:31"},{"nodeID":"179225","text":"Asserting","type":"YA","timestamp":"2016-07-05 13:25:31","scheme":"Asserting","schemeID":"74"},{"nodeID":"179226","text":"we have in these moments, that's where we have to draw on our moral strength and convictions","type":"I","timestamp":"2016-07-05 13:25:31"},{"nodeID":"179227","text":"Rory: Karl :  we have in these moments, that's where we have to draw on our moral strength and convictions","type":"L","timestamp":"2016-07-05 13:25:31"},{"nodeID":"179228","text":"Default Transition","type":"TA","timestamp":"2016-07-05 13:25:31","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179229","text":"Default Inference","type":"RA","timestamp":"2016-07-05 13:25:32","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179230","text":"Default Inference","type":"RA","timestamp":"2016-07-05 13:25:32","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179231","text":"Default Transition","type":"TA","timestamp":"2016-07-05 13:25:32","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179232","text":"Arguing","type":"YA","timestamp":"2016-07-05 13:25:32","scheme":"Arguing","schemeID":"80"},{"nodeID":"179233","text":"Default Transition","type":"TA","timestamp":"2016-07-05 13:25:32","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179234","text":"Arguing","type":"YA","timestamp":"2016-07-05 13:25:32","scheme":"Arguing","schemeID":"80"},{"nodeID":"179235","text":"Default Conflict","type":"CA","timestamp":"2016-07-05 13:25:32","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"179236","text":"Disagreeing","type":"YA","timestamp":"2016-07-05 13:25:32","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"179237","text":"Default Transition","type":"TA","timestamp":"2016-07-05 13:25:32","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179238","text":"Default Inference","type":"RA","timestamp":"2016-07-05 13:25:32","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179239","text":"Arguing","type":"YA","timestamp":"2016-07-05 13:25:32","scheme":"Arguing","schemeID":"80"},{"nodeID":"179240","text":"Default Transition","type":"TA","timestamp":"2016-07-05 13:25:32","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179241","text":"Default Inference","type":"RA","timestamp":"2016-07-05 13:25:33","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179242","text":"Arguing","type":"YA","timestamp":"2016-07-05 13:25:33","scheme":"Arguing","schemeID":"80"}],"edges":[{"edgeID":"219106","fromID":"179204","toID":"179205","formEdgeID":null},{"edgeID":"219117","fromID":"179204","toID":"179228","formEdgeID":null},{"edgeID":"219105","fromID":"179205","toID":"179206","formEdgeID":null},{"edgeID":"219108","fromID":"179208","toID":"179209","formEdgeID":null},{"edgeID":"219135","fromID":"179208","toID":"179237","formEdgeID":null},{"edgeID":"219141","fromID":"179208","toID":"179240","formEdgeID":null},{"edgeID":"219107","fromID":"179209","toID":"179210","formEdgeID":null},{"edgeID":"219131","fromID":"179210","toID":"179235","formEdgeID":null},{"edgeID":"219110","fromID":"179212","toID":"179213","formEdgeID":null},{"edgeID":"219123","fromID":"179212","toID":"179231","formEdgeID":null},{"edgeID":"219127","fromID":"179212","toID":"179233","formEdgeID":null},{"edgeID":"219109","fromID":"179213","toID":"179214","formEdgeID":null},{"edgeID":"219137","fromID":"179214","toID":"179238","formEdgeID":null},{"edgeID":"219112","fromID":"179216","toID":"179217","formEdgeID":null},{"edgeID":"219111","fromID":"179217","toID":"179218","formEdgeID":null},{"edgeID":"219119","fromID":"179218","toID":"179229","formEdgeID":null},{"edgeID":"219114","fromID":"179220","toID":"179221","formEdgeID":null},{"edgeID":"219113","fromID":"179221","toID":"179222","formEdgeID":null},{"edgeID":"219121","fromID":"179222","toID":"179230","formEdgeID":null},{"edgeID":"219116","fromID":"179224","toID":"179225","formEdgeID":null},{"edgeID":"219115","fromID":"179225","toID":"179226","formEdgeID":null},{"edgeID":"219143","fromID":"179226","toID":"179241","formEdgeID":null},{"edgeID":"219118","fromID":"179228","toID":"179208","formEdgeID":null},{"edgeID":"219133","fromID":"179228","toID":"179236","formEdgeID":null},{"edgeID":"219120","fromID":"179229","toID":"179214","formEdgeID":null},{"edgeID":"219122","fromID":"179230","toID":"179214","formEdgeID":null},{"edgeID":"219124","fromID":"179231","toID":"179216","formEdgeID":null},{"edgeID":"219125","fromID":"179231","toID":"179232","formEdgeID":null},{"edgeID":"219126","fromID":"179232","toID":"179229","formEdgeID":null},{"edgeID":"219128","fromID":"179233","toID":"179220","formEdgeID":null},{"edgeID":"219129","fromID":"179233","toID":"179234","formEdgeID":null},{"edgeID":"219130","fromID":"179234","toID":"179230","formEdgeID":null},{"edgeID":"219132","fromID":"179235","toID":"179206","formEdgeID":null},{"edgeID":"219134","fromID":"179236","toID":"179235","formEdgeID":null},{"edgeID":"219136","fromID":"179237","toID":"179212","formEdgeID":null},{"edgeID":"219139","fromID":"179237","toID":"179239","formEdgeID":null},{"edgeID":"219138","fromID":"179238","toID":"179210","formEdgeID":null},{"edgeID":"219140","fromID":"179239","toID":"179238","formEdgeID":null},{"edgeID":"219142","fromID":"179240","toID":"179224","formEdgeID":null},{"edgeID":"219145","fromID":"179240","toID":"179242","formEdgeID":null},{"edgeID":"219144","fromID":"179241","toID":"179210","formEdgeID":null},{"edgeID":"219146","fromID":"179242","toID":"179241","formEdgeID":null}],"locutions":[]}
+{
+    "nodes": [
+        {
+            "nodeID": "179204",
+            "text": "Clifford :  is it there a level of atrocity in Syria by the Assad regime that would persuade you to change your mind",
+            "type": "L",
+            "timestamp": "2016-07-05 13:25:29"
+        },
+        {
+            "nodeID": "179205",
+            "text": "Assertive Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-05 13:25:30",
+            "scheme": "AssertiveQuestioning",
+            "schemeID": "73"
+        },
+        {
+            "nodeID": "179206",
+            "text": "there isn't a level of atrocity in Syria by the Assad regime that would persuade Karl Sharro to change his mind",
+            "type": "I",
+            "timestamp": "2016-07-05 13:25:30"
+        },
+        {
+            "nodeID": "179207",
+            "text": "Rory: Clifford :  is it there a level of atrocity in Syria by the Assad regime that would persuade you to change your mind",
+            "type": "L",
+            "timestamp": "2016-07-05 13:25:30"
+        },
+        {
+            "nodeID": "179208",
+            "text": "Karl :  I don't come to this with a distant abstract kind of approach",
+            "type": "L",
+            "timestamp": "2016-07-05 13:25:30"
+        },
+        {
+            "nodeID": "179209",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 13:25:30",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179210",
+            "text": "karl Sharro doesn't come to this with a distant abstract kind of approach",
+            "type": "I",
+            "timestamp": "2016-07-05 13:25:30"
+        },
+        {
+            "nodeID": "179211",
+            "text": "Rory: Karl :  I don't come to this with a distant abstract kind of approach",
+            "type": "L",
+            "timestamp": "2016-07-05 13:25:30"
+        },
+        {
+            "nodeID": "179212",
+            "text": "Karl :  it is not that I am cold to the atrocities that are happening over there",
+            "type": "L",
+            "timestamp": "2016-07-05 13:25:30"
+        },
+        {
+            "nodeID": "179213",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 13:25:30",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179214",
+            "text": "Karl Sharro is not cold to the atrocities that are happening over there",
+            "type": "I",
+            "timestamp": "2016-07-05 13:25:30"
+        },
+        {
+            "nodeID": "179215",
+            "text": "Rory: Karl :  it is not that I am cold to the atrocities that are happening over there",
+            "type": "L",
+            "timestamp": "2016-07-05 13:25:30"
+        },
+        {
+            "nodeID": "179216",
+            "text": "Karl : it has been happening for a year and a half",
+            "type": "L",
+            "timestamp": "2016-07-05 13:25:30"
+        },
+        {
+            "nodeID": "179217",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 13:25:31",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179218",
+            "text": "it has been happening for a year and a half",
+            "type": "I",
+            "timestamp": "2016-07-05 13:25:31"
+        },
+        {
+            "nodeID": "179219",
+            "text": "Rory: Karl : quite frankly it has been happening for a year and a half",
+            "type": "L",
+            "timestamp": "2016-07-05 13:25:31"
+        },
+        {
+            "nodeID": "179220",
+            "text": "Karl : we have grown sadly accustomed to the level of atrocities",
+            "type": "L",
+            "timestamp": "2016-07-05 13:25:31"
+        },
+        {
+            "nodeID": "179221",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 13:25:31",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179222",
+            "text": "we have grown sadly accustomed to the level of atrocities",
+            "type": "I",
+            "timestamp": "2016-07-05 13:25:31"
+        },
+        {
+            "nodeID": "179223",
+            "text": "Rory: Karl : we have grown sadly accustomed to the level of atrocities",
+            "type": "L",
+            "timestamp": "2016-07-05 13:25:31"
+        },
+        {
+            "nodeID": "179224",
+            "text": "Karl :  we have in these moments, that's where we have to draw on our moral strength and convictions",
+            "type": "L",
+            "timestamp": "2016-07-05 13:25:31"
+        },
+        {
+            "nodeID": "179225",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 13:25:31",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179226",
+            "text": "we have in these moments, that's where we have to draw on our moral strength and convictions",
+            "type": "I",
+            "timestamp": "2016-07-05 13:25:31"
+        },
+        {
+            "nodeID": "179227",
+            "text": "Rory: Karl :  we have in these moments, that's where we have to draw on our moral strength and convictions",
+            "type": "L",
+            "timestamp": "2016-07-05 13:25:31"
+        },
+        {
+            "nodeID": "179228",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 13:25:31",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179229",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-05 13:25:32",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179230",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-05 13:25:32",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179231",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 13:25:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179232",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-05 13:25:32",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179233",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 13:25:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179234",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-05 13:25:32",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179235",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-05 13:25:32",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "179236",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-05 13:25:32",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "179237",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 13:25:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179238",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-05 13:25:32",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179239",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-05 13:25:32",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179240",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 13:25:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179241",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-05 13:25:33",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179242",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-05 13:25:33",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "219106",
+            "fromID": "179204",
+            "toID": "179205",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219117",
+            "fromID": "179204",
+            "toID": "179228",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219105",
+            "fromID": "179205",
+            "toID": "179206",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219108",
+            "fromID": "179208",
+            "toID": "179209",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219135",
+            "fromID": "179208",
+            "toID": "179237",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219141",
+            "fromID": "179208",
+            "toID": "179240",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219107",
+            "fromID": "179209",
+            "toID": "179210",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219131",
+            "fromID": "179210",
+            "toID": "179235",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219110",
+            "fromID": "179212",
+            "toID": "179213",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219123",
+            "fromID": "179212",
+            "toID": "179231",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219127",
+            "fromID": "179212",
+            "toID": "179233",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219109",
+            "fromID": "179213",
+            "toID": "179214",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219137",
+            "fromID": "179214",
+            "toID": "179238",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219112",
+            "fromID": "179216",
+            "toID": "179217",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219111",
+            "fromID": "179217",
+            "toID": "179218",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219119",
+            "fromID": "179218",
+            "toID": "179229",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219114",
+            "fromID": "179220",
+            "toID": "179221",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219113",
+            "fromID": "179221",
+            "toID": "179222",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219121",
+            "fromID": "179222",
+            "toID": "179230",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219116",
+            "fromID": "179224",
+            "toID": "179225",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219115",
+            "fromID": "179225",
+            "toID": "179226",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219143",
+            "fromID": "179226",
+            "toID": "179241",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219118",
+            "fromID": "179228",
+            "toID": "179208",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219133",
+            "fromID": "179228",
+            "toID": "179236",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219120",
+            "fromID": "179229",
+            "toID": "179214",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219122",
+            "fromID": "179230",
+            "toID": "179214",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219124",
+            "fromID": "179231",
+            "toID": "179216",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219125",
+            "fromID": "179231",
+            "toID": "179232",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219126",
+            "fromID": "179232",
+            "toID": "179229",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219128",
+            "fromID": "179233",
+            "toID": "179220",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219129",
+            "fromID": "179233",
+            "toID": "179234",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219130",
+            "fromID": "179234",
+            "toID": "179230",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219132",
+            "fromID": "179235",
+            "toID": "179206",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219134",
+            "fromID": "179236",
+            "toID": "179235",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219136",
+            "fromID": "179237",
+            "toID": "179212",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219139",
+            "fromID": "179237",
+            "toID": "179239",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219138",
+            "fromID": "179238",
+            "toID": "179210",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219140",
+            "fromID": "179239",
+            "toID": "179238",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219142",
+            "fromID": "179240",
+            "toID": "179224",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219145",
+            "fromID": "179240",
+            "toID": "179242",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219144",
+            "fromID": "179241",
+            "toID": "179210",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219146",
+            "fromID": "179242",
+            "toID": "179241",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": []
+}

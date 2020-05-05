@@ -1,1 +1,1290 @@
-{"nodes":[{"nodeID":"181132","text":"Clifford : Including diplomacy","type":"L","timestamp":"2016-07-11 14:01:46"},{"nodeID":"181133","text":"Asserting","type":"YA","timestamp":"2016-07-11 14:01:46","scheme":"Asserting","schemeID":"74"},{"nodeID":"181134","text":"Including diplomacy","type":"I","timestamp":"2016-07-11 14:01:46"},{"nodeID":"181135","text":"Rory: Clifford : Including diplomacy","type":"L","timestamp":"2016-07-11 14:01:46"},{"nodeID":"181136","text":"Clifford : Doesn't that require at least in the background a threat of force for it to be effective","type":"L","timestamp":"2016-07-11 14:01:46"},{"nodeID":"181137","text":"Assertive Questioning","type":"YA","timestamp":"2016-07-11 14:01:46","scheme":"AssertiveQuestioning","schemeID":"73"},{"nodeID":"181138","text":"Diplomacy requires at least in the background a threat of force for it to be effective","type":"I","timestamp":"2016-07-11 14:01:46"},{"nodeID":"181139","text":"Rory: Clifford : Doesn't that require at least in the background a threat of force for it to be effective","type":"L","timestamp":"2016-07-11 14:01:47"},{"nodeID":"181140","text":"Default Transition","type":"TA","timestamp":"2016-07-11 14:01:47","scheme":"Default Transition","schemeID":"82"},{"nodeID":"181141","text":"Medhi : Not on every occasion","type":"L","timestamp":"2016-07-11 14:01:47"},{"nodeID":"181142","text":"Asserting","type":"YA","timestamp":"2016-07-11 14:01:47","scheme":"Asserting","schemeID":"74"},{"nodeID":"181143","text":"Not on every occasion","type":"I","timestamp":"2016-07-11 14:01:47"},{"nodeID":"181144","text":"Rory: Medhi : Not on every occasion","type":"L","timestamp":"2016-07-11 14:01:47"},{"nodeID":"181145","text":"Default Transition","type":"TA","timestamp":"2016-07-11 14:01:47","scheme":"Default Transition","schemeID":"82"},{"nodeID":"181146","text":"Default Conflict","type":"CA","timestamp":"2016-07-11 14:01:47","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"181147","text":"Disagreeing","type":"YA","timestamp":"2016-07-11 14:01:47","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"181148","text":"Medhi : there are financial pressures","type":"L","timestamp":"2016-07-11 14:01:47"},{"nodeID":"181149","text":"Asserting","type":"YA","timestamp":"2016-07-11 14:01:47","scheme":"Asserting","schemeID":"74"},{"nodeID":"181150","text":"there are financial pressures","type":"I","timestamp":"2016-07-11 14:01:47"},{"nodeID":"181151","text":"Rory: Medhi : there are financial pressures","type":"L","timestamp":"2016-07-11 14:01:48"},{"nodeID":"181152","text":"Default Transition","type":"TA","timestamp":"2016-07-11 14:01:48","scheme":"Default Transition","schemeID":"82"},{"nodeID":"181153","text":"Default Inference","type":"RA","timestamp":"2016-07-11 14:01:48","scheme":"Default Inference","schemeID":"72"},{"nodeID":"181154","text":"Arguing","type":"YA","timestamp":"2016-07-11 14:01:48","scheme":"Arguing","schemeID":"80"},{"nodeID":"181155","text":"Clifford :  It isn't working","type":"L","timestamp":"2016-07-11 14:01:48"},{"nodeID":"181156","text":"Asserting","type":"YA","timestamp":"2016-07-11 14:01:48","scheme":"Asserting","schemeID":"74"},{"nodeID":"181157","text":"It isn't working","type":"I","timestamp":"2016-07-11 14:01:48"},{"nodeID":"181158","text":"Rory: Clifford :  It isn't working","type":"L","timestamp":"2016-07-11 14:01:48"},{"nodeID":"181159","text":"Default Transition","type":"TA","timestamp":"2016-07-11 14:01:48","scheme":"Default Transition","schemeID":"82"},{"nodeID":"181160","text":"Default Conflict","type":"CA","timestamp":"2016-07-11 14:01:48","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"181161","text":"Disagreeing","type":"YA","timestamp":"2016-07-11 14:01:48","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"181162","text":"Medhi : That doesn't mean it won't work, that's not an argument","type":"L","timestamp":"2016-07-11 14:01:49"},{"nodeID":"181163","text":"Asserting","type":"YA","timestamp":"2016-07-11 14:01:49","scheme":"Asserting","schemeID":"74"},{"nodeID":"181164","text":"That doesn't mean it won't work, that's not an argument","type":"I","timestamp":"2016-07-11 14:01:49"},{"nodeID":"181165","text":"Rory: Medhi : That doesn't mean it won't work, that's not an argument","type":"L","timestamp":"2016-07-11 14:01:49"},{"nodeID":"181166","text":"Default Transition","type":"TA","timestamp":"2016-07-11 14:01:49","scheme":"Default Transition","schemeID":"82"},{"nodeID":"181167","text":"Default Conflict","type":"CA","timestamp":"2016-07-11 14:01:49","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"181168","text":"Disagreeing","type":"YA","timestamp":"2016-07-11 14:01:49","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"181169","text":"Medhi : I would argue, for example, in Syria, the best resolution of Syria is to get the Russians on board","type":"L","timestamp":"2016-07-11 14:01:49"},{"nodeID":"181170","text":"Asserting","type":"YA","timestamp":"2016-07-11 14:01:49","scheme":"Asserting","schemeID":"74"},{"nodeID":"181171","text":"Medhi Hasan would argue, for example, in Syria, the best resolution of Syria is to get the Russians on board","type":"I","timestamp":"2016-07-11 14:01:49"},{"nodeID":"181172","text":"Rory: Medhi : I would argue, for example, in Syria, the best resolution of Syria is to get the Russians on board","type":"L","timestamp":"2016-07-11 14:01:49"},{"nodeID":"181173","text":"Medhi : Should we militarily threaten Russia","type":"L","timestamp":"2016-07-11 14:01:49"},{"nodeID":"181174","text":"Assertive Questioning","type":"YA","timestamp":"2016-07-11 14:01:50","scheme":"AssertiveQuestioning","schemeID":"73"},{"nodeID":"181175","text":"We shouldn't militarily threaten Russia","type":"I","timestamp":"2016-07-11 14:01:50"},{"nodeID":"181176","text":"Rory: Medhi : Should we militarily threaten Russia","type":"L","timestamp":"2016-07-11 14:01:50"},{"nodeID":"181177","text":"Default Transition","type":"TA","timestamp":"2016-07-11 14:01:50","scheme":"Default Transition","schemeID":"82"},{"nodeID":"181178","text":"Default Inference","type":"RA","timestamp":"2016-07-11 14:01:50","scheme":"Default Inference","schemeID":"72"},{"nodeID":"181179","text":"Arguing","type":"YA","timestamp":"2016-07-11 14:01:50","scheme":"Arguing","schemeID":"80"},{"nodeID":"181180","text":"Clifford : I'm saying it isn't working","type":"L","timestamp":"2016-07-11 14:01:50"},{"nodeID":"181181","text":"Asserting","type":"YA","timestamp":"2016-07-11 14:01:50","scheme":"Asserting","schemeID":"74"},{"nodeID":"181182","text":"Rory: Clifford : I'm saying it isn't working","type":"L","timestamp":"2016-07-11 14:01:50"},{"nodeID":"181183","text":"Default Transition","type":"TA","timestamp":"2016-07-11 14:01:50","scheme":"Default Transition","schemeID":"82"},{"nodeID":"181184","text":"Default Transition","type":"TA","timestamp":"2016-07-11 14:01:50","scheme":"Default Transition","schemeID":"82"},{"nodeID":"181185","text":"Default Conflict","type":"CA","timestamp":"2016-07-11 14:01:51","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"181186","text":"Disagreeing","type":"YA","timestamp":"2016-07-11 14:01:51","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"181187","text":"Clifford : We are in a state of stalemate","type":"L","timestamp":"2016-07-11 14:01:51"},{"nodeID":"181188","text":"Asserting","type":"YA","timestamp":"2016-07-11 14:01:51","scheme":"Asserting","schemeID":"74"},{"nodeID":"181189","text":"We are in a state of stalemate","type":"I","timestamp":"2016-07-11 14:01:51"},{"nodeID":"181190","text":"Rory: Clifford : We are in a state of stalemate","type":"L","timestamp":"2016-07-11 14:01:51"},{"nodeID":"181191","text":"Default Transition","type":"TA","timestamp":"2016-07-11 14:01:51","scheme":"Default Transition","schemeID":"82"},{"nodeID":"181192","text":"Default Inference","type":"RA","timestamp":"2016-07-11 14:01:51","scheme":"Default Inference","schemeID":"72"},{"nodeID":"181193","text":"Arguing","type":"YA","timestamp":"2016-07-11 14:01:51","scheme":"Arguing","schemeID":"80"},{"nodeID":"181194","text":"Medhi : But I don't think that means a diplomatic solution is not the solution","type":"L","timestamp":"2016-07-11 14:01:51"},{"nodeID":"181195","text":"Asserting","type":"YA","timestamp":"2016-07-11 14:01:51","scheme":"Asserting","schemeID":"74"},{"nodeID":"181196","text":"But I don't think that means a diplomatic solution is not the solution","type":"I","timestamp":"2016-07-11 14:01:51"},{"nodeID":"181197","text":"Rory: Medhi : But I don't think that means a diplomatic solution is not the solution","type":"L","timestamp":"2016-07-11 14:01:52"},{"nodeID":"181198","text":"Default Transition","type":"TA","timestamp":"2016-07-11 14:01:52","scheme":"Default Transition","schemeID":"82"},{"nodeID":"181199","text":"Default Conflict","type":"CA","timestamp":"2016-07-11 14:01:52","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"181200","text":"Disagreeing","type":"YA","timestamp":"2016-07-11 14:01:52","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"181201","text":"Middle-East-Experts :  the Annan plan for all its flaws is the only game in town, get both sides to lay down their arms and come round the table","type":"L","timestamp":"2016-07-11 14:01:52"},{"nodeID":"181202","text":"Asserting","type":"YA","timestamp":"2016-07-11 14:01:52","scheme":"Asserting","schemeID":"74"},{"nodeID":"181203","text":"the Annan plan for all its flaws is the only game in town, get both sides to lay down their arms and come round the table","type":"I","timestamp":"2016-07-11 14:01:52"},{"nodeID":"181204","text":"Rory: Middle-East-Experts :  the Annan plan for all its flaws is the only game in town, get both sides to lay down their arms and come round the table","type":"L","timestamp":"2016-07-11 14:01:52"},{"nodeID":"181205","text":"Asserting","type":"YA","timestamp":"2016-07-11 14:01:52","scheme":"Asserting","schemeID":"74"},{"nodeID":"181206","text":"Medhi : Middle-East-Experts :  the Annan plan for all its flaws is the only game in town, get both sides to lay down their arms and come round the table","type":"L","timestamp":"2016-07-11 14:01:52"},{"nodeID":"181207","text":"Rory: Medhi : Middle-East-Experts :  the Annan plan for all its flaws is the only game in town, get both sides to lay down their arms and come round the table","type":"L","timestamp":"2016-07-11 14:01:52"},{"nodeID":"181208","text":"Default Transition","type":"TA","timestamp":"2016-07-11 14:01:53","scheme":"Default Transition","schemeID":"82"},{"nodeID":"181209","text":"Expert Opinion","type":"RA","timestamp":"2016-07-11 14:01:53","scheme":"ExpertOpinion","schemeID":"15"},{"nodeID":"181210","text":"Arguing","type":"YA","timestamp":"2016-07-11 14:01:53","scheme":"Arguing","schemeID":"80"},{"nodeID":"181211","text":"In Afghanistan, we were told, we have to beat the Taliban, but actually we have to get round the table with them","type":"I","timestamp":"2016-07-11 14:01:53"},{"nodeID":"181212","text":"Asserting","type":"YA","timestamp":"2016-07-11 14:01:53","scheme":"Asserting","schemeID":"74"},{"nodeID":"181213","text":"Medhi :  In Afghanistan, we were told, we have to beat the Taliban, but actually we have to get round the table with them","type":"L","timestamp":"2016-07-11 14:01:53"},{"nodeID":"181214","text":"Rory: Medhi :  In Afghanistan, we were told, we have to beat the Taliban, but actually we have to get round the table with them","type":"L","timestamp":"2016-07-11 14:01:53"},{"nodeID":"181215","text":"Default Transition","type":"TA","timestamp":"2016-07-11 14:01:53","scheme":"Default Transition","schemeID":"82"},{"nodeID":"181216","text":"Example","type":"RA","timestamp":"2016-07-11 14:01:53","scheme":"Example","schemeID":"14"},{"nodeID":"181217","text":"Arguing","type":"YA","timestamp":"2016-07-11 14:01:53","scheme":"Arguing","schemeID":"80"},{"nodeID":"181218","text":"That could involve innocent civilian deaths","type":"I","timestamp":"2016-07-11 14:01:53"},{"nodeID":"181219","text":"Asserting","type":"YA","timestamp":"2016-07-11 14:01:53","scheme":"Asserting","schemeID":"74"},{"nodeID":"181220","text":"Clifford : That could involve innocent civilian deaths","type":"L","timestamp":"2016-07-11 14:01:54"},{"nodeID":"181221","text":"Rory: Clifford : That could involve innocent civilian deaths","type":"L","timestamp":"2016-07-11 14:01:54"},{"nodeID":"181222","text":"Default Transition","type":"TA","timestamp":"2016-07-11 14:01:54","scheme":"Default Transition","schemeID":"82"},{"nodeID":"181223","text":"Default Conflict","type":"CA","timestamp":"2016-07-11 14:01:54","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"181224","text":"Disagreeing","type":"YA","timestamp":"2016-07-11 14:01:54","scheme":"Disagreeing","schemeID":"78"}],"edges":[{"edgeID":"221215","fromID":"181132","toID":"181133","formEdgeID":null},{"edgeID":"221218","fromID":"181132","toID":"181140","formEdgeID":null},{"edgeID":"221214","fromID":"181133","toID":"181134","formEdgeID":null},{"edgeID":"221217","fromID":"181136","toID":"181137","formEdgeID":null},{"edgeID":"221222","fromID":"181136","toID":"181145","formEdgeID":null},{"edgeID":"221216","fromID":"181137","toID":"181138","formEdgeID":null},{"edgeID":"221219","fromID":"181140","toID":"181136","formEdgeID":null},{"edgeID":"221221","fromID":"181141","toID":"181142","formEdgeID":null},{"edgeID":"221230","fromID":"181141","toID":"181152","formEdgeID":null},{"edgeID":"221220","fromID":"181142","toID":"181143","formEdgeID":null},{"edgeID":"221224","fromID":"181143","toID":"181146","formEdgeID":null},{"edgeID":"221223","fromID":"181145","toID":"181141","formEdgeID":null},{"edgeID":"221226","fromID":"181145","toID":"181147","formEdgeID":null},{"edgeID":"221225","fromID":"181146","toID":"181138","formEdgeID":null},{"edgeID":"221227","fromID":"181147","toID":"181146","formEdgeID":null},{"edgeID":"221229","fromID":"181148","toID":"181149","formEdgeID":null},{"edgeID":"221238","fromID":"181148","toID":"181159","formEdgeID":null},{"edgeID":"221228","fromID":"181149","toID":"181150","formEdgeID":null},{"edgeID":"221232","fromID":"181150","toID":"181153","formEdgeID":null},{"edgeID":"221231","fromID":"181152","toID":"181148","formEdgeID":null},{"edgeID":"221234","fromID":"181152","toID":"181154","formEdgeID":null},{"edgeID":"221233","fromID":"181153","toID":"181143","formEdgeID":null},{"edgeID":"221235","fromID":"181154","toID":"181153","formEdgeID":null},{"edgeID":"221237","fromID":"181155","toID":"181156","formEdgeID":null},{"edgeID":"221246","fromID":"181155","toID":"181166","formEdgeID":null},{"edgeID":"221236","fromID":"181156","toID":"181157","formEdgeID":null},{"edgeID":"221240","fromID":"181157","toID":"181160","formEdgeID":null},{"edgeID":"221268","fromID":"181157","toID":"181185","formEdgeID":null},{"edgeID":"221239","fromID":"181159","toID":"181155","formEdgeID":null},{"edgeID":"221242","fromID":"181159","toID":"181161","formEdgeID":null},{"edgeID":"221241","fromID":"181160","toID":"181150","formEdgeID":null},{"edgeID":"221243","fromID":"181161","toID":"181160","formEdgeID":null},{"edgeID":"221245","fromID":"181162","toID":"181163","formEdgeID":null},{"edgeID":"221264","fromID":"181162","toID":"181183","formEdgeID":null},{"edgeID":"221244","fromID":"181163","toID":"181164","formEdgeID":null},{"edgeID":"221248","fromID":"181164","toID":"181167","formEdgeID":null},{"edgeID":"221247","fromID":"181166","toID":"181162","formEdgeID":null},{"edgeID":"221250","fromID":"181166","toID":"181168","formEdgeID":null},{"edgeID":"221249","fromID":"181167","toID":"181157","formEdgeID":null},{"edgeID":"221251","fromID":"181168","toID":"181167","formEdgeID":null},{"edgeID":"221253","fromID":"181169","toID":"181170","formEdgeID":null},{"edgeID":"221256","fromID":"181169","toID":"181177","formEdgeID":null},{"edgeID":"221266","fromID":"181169","toID":"181184","formEdgeID":null},{"edgeID":"221252","fromID":"181170","toID":"181171","formEdgeID":null},{"edgeID":"221255","fromID":"181173","toID":"181174","formEdgeID":null},{"edgeID":"221254","fromID":"181174","toID":"181175","formEdgeID":null},{"edgeID":"221258","fromID":"181175","toID":"181178","formEdgeID":null},{"edgeID":"221257","fromID":"181177","toID":"181173","formEdgeID":null},{"edgeID":"221260","fromID":"181177","toID":"181179","formEdgeID":null},{"edgeID":"221259","fromID":"181178","toID":"181171","formEdgeID":null},{"edgeID":"221261","fromID":"181179","toID":"181178","formEdgeID":null},{"edgeID":"221263","fromID":"181180","toID":"181181","formEdgeID":null},{"edgeID":"221274","fromID":"181180","toID":"181191","formEdgeID":null},{"edgeID":"221262","fromID":"181181","toID":"181157","formEdgeID":null},{"edgeID":"221265","fromID":"181183","toID":"181169","formEdgeID":null},{"edgeID":"221267","fromID":"181184","toID":"181180","formEdgeID":null},{"edgeID":"221270","fromID":"181184","toID":"181186","formEdgeID":null},{"edgeID":"221269","fromID":"181185","toID":"181171","formEdgeID":null},{"edgeID":"221271","fromID":"181186","toID":"181185","formEdgeID":null},{"edgeID":"221273","fromID":"181187","toID":"181188","formEdgeID":null},{"edgeID":"221282","fromID":"181187","toID":"181198","formEdgeID":null},{"edgeID":"221272","fromID":"181188","toID":"181189","formEdgeID":null},{"edgeID":"221276","fromID":"181189","toID":"181192","formEdgeID":null},{"edgeID":"221275","fromID":"181191","toID":"181187","formEdgeID":null},{"edgeID":"221278","fromID":"181191","toID":"181193","formEdgeID":null},{"edgeID":"221277","fromID":"181192","toID":"181157","formEdgeID":null},{"edgeID":"221279","fromID":"181193","toID":"181192","formEdgeID":null},{"edgeID":"221281","fromID":"181194","toID":"181195","formEdgeID":null},{"edgeID":"221292","fromID":"181194","toID":"181208","formEdgeID":null},{"edgeID":"221300","fromID":"181194","toID":"181215","formEdgeID":null},{"edgeID":"221280","fromID":"181195","toID":"181196","formEdgeID":null},{"edgeID":"221284","fromID":"181196","toID":"181199","formEdgeID":null},{"edgeID":"221283","fromID":"181198","toID":"181194","formEdgeID":null},{"edgeID":"221286","fromID":"181198","toID":"181200","formEdgeID":null},{"edgeID":"221285","fromID":"181199","toID":"181189","formEdgeID":null},{"edgeID":"221287","fromID":"181200","toID":"181199","formEdgeID":null},{"edgeID":"221289","fromID":"181201","toID":"181202","formEdgeID":null},{"edgeID":"221288","fromID":"181202","toID":"181203","formEdgeID":null},{"edgeID":"221294","fromID":"181203","toID":"181209","formEdgeID":null},{"edgeID":"221290","fromID":"181205","toID":"181201","formEdgeID":null},{"edgeID":"221291","fromID":"181206","toID":"181205","formEdgeID":null},{"edgeID":"221293","fromID":"181208","toID":"181206","formEdgeID":null},{"edgeID":"221296","fromID":"181208","toID":"181210","formEdgeID":null},{"edgeID":"221295","fromID":"181209","toID":"181196","formEdgeID":null},{"edgeID":"221297","fromID":"181210","toID":"181209","formEdgeID":null},{"edgeID":"221302","fromID":"181211","toID":"181216","formEdgeID":null},{"edgeID":"221298","fromID":"181212","toID":"181211","formEdgeID":null},{"edgeID":"221299","fromID":"181213","toID":"181212","formEdgeID":null},{"edgeID":"221308","fromID":"181213","toID":"181222","formEdgeID":null},{"edgeID":"221301","fromID":"181215","toID":"181213","formEdgeID":null},{"edgeID":"221304","fromID":"181215","toID":"181217","formEdgeID":null},{"edgeID":"221303","fromID":"181216","toID":"181196","formEdgeID":null},{"edgeID":"221305","fromID":"181217","toID":"181216","formEdgeID":null},{"edgeID":"221310","fromID":"181218","toID":"181223","formEdgeID":null},{"edgeID":"221306","fromID":"181219","toID":"181218","formEdgeID":null},{"edgeID":"221307","fromID":"181220","toID":"181219","formEdgeID":null},{"edgeID":"221309","fromID":"181222","toID":"181220","formEdgeID":null},{"edgeID":"221312","fromID":"181222","toID":"181224","formEdgeID":null},{"edgeID":"221311","fromID":"181223","toID":"181211","formEdgeID":null},{"edgeID":"221313","fromID":"181224","toID":"181223","formEdgeID":null}],"locutions":[{"nodeID":"181206","personID":"1640","timestamp":"2016-07-11 14:01:59","start":null,"end":null,"source":null},{"nodeID":"181213","personID":"1640","timestamp":"2016-07-11 14:01:59","start":null,"end":null,"source":null},{"nodeID":"181220","personID":"4","timestamp":"2016-07-11 14:01:59","start":null,"end":null,"source":null}]}
+{
+    "nodes": [
+        {
+            "nodeID": "181132",
+            "text": "Clifford : Including diplomacy",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:46"
+        },
+        {
+            "nodeID": "181133",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:46",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "181134",
+            "text": "Including diplomacy",
+            "type": "I",
+            "timestamp": "2016-07-11 14:01:46"
+        },
+        {
+            "nodeID": "181135",
+            "text": "Rory: Clifford : Including diplomacy",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:46"
+        },
+        {
+            "nodeID": "181136",
+            "text": "Clifford : Doesn't that require at least in the background a threat of force for it to be effective",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:46"
+        },
+        {
+            "nodeID": "181137",
+            "text": "Assertive Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:46",
+            "scheme": "AssertiveQuestioning",
+            "schemeID": "73"
+        },
+        {
+            "nodeID": "181138",
+            "text": "Diplomacy requires at least in the background a threat of force for it to be effective",
+            "type": "I",
+            "timestamp": "2016-07-11 14:01:46"
+        },
+        {
+            "nodeID": "181139",
+            "text": "Rory: Clifford : Doesn't that require at least in the background a threat of force for it to be effective",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:47"
+        },
+        {
+            "nodeID": "181140",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 14:01:47",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "181141",
+            "text": "Medhi : Not on every occasion",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:47"
+        },
+        {
+            "nodeID": "181142",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:47",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "181143",
+            "text": "Not on every occasion",
+            "type": "I",
+            "timestamp": "2016-07-11 14:01:47"
+        },
+        {
+            "nodeID": "181144",
+            "text": "Rory: Medhi : Not on every occasion",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:47"
+        },
+        {
+            "nodeID": "181145",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 14:01:47",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "181146",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-11 14:01:47",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "181147",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:47",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "181148",
+            "text": "Medhi : there are financial pressures",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:47"
+        },
+        {
+            "nodeID": "181149",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:47",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "181150",
+            "text": "there are financial pressures",
+            "type": "I",
+            "timestamp": "2016-07-11 14:01:47"
+        },
+        {
+            "nodeID": "181151",
+            "text": "Rory: Medhi : there are financial pressures",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:48"
+        },
+        {
+            "nodeID": "181152",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 14:01:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "181153",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-11 14:01:48",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "181154",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:48",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "181155",
+            "text": "Clifford :  It isn't working",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:48"
+        },
+        {
+            "nodeID": "181156",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:48",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "181157",
+            "text": "It isn't working",
+            "type": "I",
+            "timestamp": "2016-07-11 14:01:48"
+        },
+        {
+            "nodeID": "181158",
+            "text": "Rory: Clifford :  It isn't working",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:48"
+        },
+        {
+            "nodeID": "181159",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 14:01:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "181160",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-11 14:01:48",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "181161",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:48",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "181162",
+            "text": "Medhi : That doesn't mean it won't work, that's not an argument",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:49"
+        },
+        {
+            "nodeID": "181163",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:49",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "181164",
+            "text": "That doesn't mean it won't work, that's not an argument",
+            "type": "I",
+            "timestamp": "2016-07-11 14:01:49"
+        },
+        {
+            "nodeID": "181165",
+            "text": "Rory: Medhi : That doesn't mean it won't work, that's not an argument",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:49"
+        },
+        {
+            "nodeID": "181166",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 14:01:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "181167",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-11 14:01:49",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "181168",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:49",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "181169",
+            "text": "Medhi : I would argue, for example, in Syria, the best resolution of Syria is to get the Russians on board",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:49"
+        },
+        {
+            "nodeID": "181170",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:49",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "181171",
+            "text": "Medhi Hasan would argue, for example, in Syria, the best resolution of Syria is to get the Russians on board",
+            "type": "I",
+            "timestamp": "2016-07-11 14:01:49"
+        },
+        {
+            "nodeID": "181172",
+            "text": "Rory: Medhi : I would argue, for example, in Syria, the best resolution of Syria is to get the Russians on board",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:49"
+        },
+        {
+            "nodeID": "181173",
+            "text": "Medhi : Should we militarily threaten Russia",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:49"
+        },
+        {
+            "nodeID": "181174",
+            "text": "Assertive Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:50",
+            "scheme": "AssertiveQuestioning",
+            "schemeID": "73"
+        },
+        {
+            "nodeID": "181175",
+            "text": "We shouldn't militarily threaten Russia",
+            "type": "I",
+            "timestamp": "2016-07-11 14:01:50"
+        },
+        {
+            "nodeID": "181176",
+            "text": "Rory: Medhi : Should we militarily threaten Russia",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:50"
+        },
+        {
+            "nodeID": "181177",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 14:01:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "181178",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-11 14:01:50",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "181179",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:50",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "181180",
+            "text": "Clifford : I'm saying it isn't working",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:50"
+        },
+        {
+            "nodeID": "181181",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:50",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "181182",
+            "text": "Rory: Clifford : I'm saying it isn't working",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:50"
+        },
+        {
+            "nodeID": "181183",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 14:01:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "181184",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 14:01:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "181185",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-11 14:01:51",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "181186",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:51",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "181187",
+            "text": "Clifford : We are in a state of stalemate",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:51"
+        },
+        {
+            "nodeID": "181188",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:51",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "181189",
+            "text": "We are in a state of stalemate",
+            "type": "I",
+            "timestamp": "2016-07-11 14:01:51"
+        },
+        {
+            "nodeID": "181190",
+            "text": "Rory: Clifford : We are in a state of stalemate",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:51"
+        },
+        {
+            "nodeID": "181191",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 14:01:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "181192",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-11 14:01:51",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "181193",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:51",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "181194",
+            "text": "Medhi : But I don't think that means a diplomatic solution is not the solution",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:51"
+        },
+        {
+            "nodeID": "181195",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:51",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "181196",
+            "text": "But I don't think that means a diplomatic solution is not the solution",
+            "type": "I",
+            "timestamp": "2016-07-11 14:01:51"
+        },
+        {
+            "nodeID": "181197",
+            "text": "Rory: Medhi : But I don't think that means a diplomatic solution is not the solution",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:52"
+        },
+        {
+            "nodeID": "181198",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 14:01:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "181199",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-11 14:01:52",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "181200",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:52",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "181201",
+            "text": "Middle-East-Experts :  the Annan plan for all its flaws is the only game in town, get both sides to lay down their arms and come round the table",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:52"
+        },
+        {
+            "nodeID": "181202",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:52",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "181203",
+            "text": "the Annan plan for all its flaws is the only game in town, get both sides to lay down their arms and come round the table",
+            "type": "I",
+            "timestamp": "2016-07-11 14:01:52"
+        },
+        {
+            "nodeID": "181204",
+            "text": "Rory: Middle-East-Experts :  the Annan plan for all its flaws is the only game in town, get both sides to lay down their arms and come round the table",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:52"
+        },
+        {
+            "nodeID": "181205",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:52",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "181206",
+            "text": "Medhi : Middle-East-Experts :  the Annan plan for all its flaws is the only game in town, get both sides to lay down their arms and come round the table",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:52"
+        },
+        {
+            "nodeID": "181207",
+            "text": "Rory: Medhi : Middle-East-Experts :  the Annan plan for all its flaws is the only game in town, get both sides to lay down their arms and come round the table",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:52"
+        },
+        {
+            "nodeID": "181208",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 14:01:53",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "181209",
+            "text": "Expert Opinion",
+            "type": "RA",
+            "timestamp": "2016-07-11 14:01:53",
+            "scheme": "ExpertOpinion",
+            "schemeID": "15"
+        },
+        {
+            "nodeID": "181210",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:53",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "181211",
+            "text": "In Afghanistan, we were told, we have to beat the Taliban, but actually we have to get round the table with them",
+            "type": "I",
+            "timestamp": "2016-07-11 14:01:53"
+        },
+        {
+            "nodeID": "181212",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:53",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "181213",
+            "text": "Medhi :  In Afghanistan, we were told, we have to beat the Taliban, but actually we have to get round the table with them",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:53"
+        },
+        {
+            "nodeID": "181214",
+            "text": "Rory: Medhi :  In Afghanistan, we were told, we have to beat the Taliban, but actually we have to get round the table with them",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:53"
+        },
+        {
+            "nodeID": "181215",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 14:01:53",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "181216",
+            "text": "Example",
+            "type": "RA",
+            "timestamp": "2016-07-11 14:01:53",
+            "scheme": "Example",
+            "schemeID": "14"
+        },
+        {
+            "nodeID": "181217",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:53",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "181218",
+            "text": "That could involve innocent civilian deaths",
+            "type": "I",
+            "timestamp": "2016-07-11 14:01:53"
+        },
+        {
+            "nodeID": "181219",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:53",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "181220",
+            "text": "Clifford : That could involve innocent civilian deaths",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:54"
+        },
+        {
+            "nodeID": "181221",
+            "text": "Rory: Clifford : That could involve innocent civilian deaths",
+            "type": "L",
+            "timestamp": "2016-07-11 14:01:54"
+        },
+        {
+            "nodeID": "181222",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 14:01:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "181223",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-11 14:01:54",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "181224",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-11 14:01:54",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "221215",
+            "fromID": "181132",
+            "toID": "181133",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221218",
+            "fromID": "181132",
+            "toID": "181140",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221214",
+            "fromID": "181133",
+            "toID": "181134",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221217",
+            "fromID": "181136",
+            "toID": "181137",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221222",
+            "fromID": "181136",
+            "toID": "181145",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221216",
+            "fromID": "181137",
+            "toID": "181138",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221219",
+            "fromID": "181140",
+            "toID": "181136",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221221",
+            "fromID": "181141",
+            "toID": "181142",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221230",
+            "fromID": "181141",
+            "toID": "181152",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221220",
+            "fromID": "181142",
+            "toID": "181143",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221224",
+            "fromID": "181143",
+            "toID": "181146",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221223",
+            "fromID": "181145",
+            "toID": "181141",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221226",
+            "fromID": "181145",
+            "toID": "181147",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221225",
+            "fromID": "181146",
+            "toID": "181138",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221227",
+            "fromID": "181147",
+            "toID": "181146",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221229",
+            "fromID": "181148",
+            "toID": "181149",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221238",
+            "fromID": "181148",
+            "toID": "181159",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221228",
+            "fromID": "181149",
+            "toID": "181150",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221232",
+            "fromID": "181150",
+            "toID": "181153",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221231",
+            "fromID": "181152",
+            "toID": "181148",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221234",
+            "fromID": "181152",
+            "toID": "181154",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221233",
+            "fromID": "181153",
+            "toID": "181143",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221235",
+            "fromID": "181154",
+            "toID": "181153",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221237",
+            "fromID": "181155",
+            "toID": "181156",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221246",
+            "fromID": "181155",
+            "toID": "181166",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221236",
+            "fromID": "181156",
+            "toID": "181157",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221240",
+            "fromID": "181157",
+            "toID": "181160",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221268",
+            "fromID": "181157",
+            "toID": "181185",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221239",
+            "fromID": "181159",
+            "toID": "181155",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221242",
+            "fromID": "181159",
+            "toID": "181161",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221241",
+            "fromID": "181160",
+            "toID": "181150",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221243",
+            "fromID": "181161",
+            "toID": "181160",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221245",
+            "fromID": "181162",
+            "toID": "181163",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221264",
+            "fromID": "181162",
+            "toID": "181183",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221244",
+            "fromID": "181163",
+            "toID": "181164",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221248",
+            "fromID": "181164",
+            "toID": "181167",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221247",
+            "fromID": "181166",
+            "toID": "181162",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221250",
+            "fromID": "181166",
+            "toID": "181168",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221249",
+            "fromID": "181167",
+            "toID": "181157",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221251",
+            "fromID": "181168",
+            "toID": "181167",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221253",
+            "fromID": "181169",
+            "toID": "181170",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221256",
+            "fromID": "181169",
+            "toID": "181177",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221266",
+            "fromID": "181169",
+            "toID": "181184",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221252",
+            "fromID": "181170",
+            "toID": "181171",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221255",
+            "fromID": "181173",
+            "toID": "181174",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221254",
+            "fromID": "181174",
+            "toID": "181175",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221258",
+            "fromID": "181175",
+            "toID": "181178",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221257",
+            "fromID": "181177",
+            "toID": "181173",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221260",
+            "fromID": "181177",
+            "toID": "181179",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221259",
+            "fromID": "181178",
+            "toID": "181171",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221261",
+            "fromID": "181179",
+            "toID": "181178",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221263",
+            "fromID": "181180",
+            "toID": "181181",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221274",
+            "fromID": "181180",
+            "toID": "181191",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221262",
+            "fromID": "181181",
+            "toID": "181157",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221265",
+            "fromID": "181183",
+            "toID": "181169",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221267",
+            "fromID": "181184",
+            "toID": "181180",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221270",
+            "fromID": "181184",
+            "toID": "181186",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221269",
+            "fromID": "181185",
+            "toID": "181171",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221271",
+            "fromID": "181186",
+            "toID": "181185",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221273",
+            "fromID": "181187",
+            "toID": "181188",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221282",
+            "fromID": "181187",
+            "toID": "181198",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221272",
+            "fromID": "181188",
+            "toID": "181189",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221276",
+            "fromID": "181189",
+            "toID": "181192",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221275",
+            "fromID": "181191",
+            "toID": "181187",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221278",
+            "fromID": "181191",
+            "toID": "181193",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221277",
+            "fromID": "181192",
+            "toID": "181157",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221279",
+            "fromID": "181193",
+            "toID": "181192",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221281",
+            "fromID": "181194",
+            "toID": "181195",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221292",
+            "fromID": "181194",
+            "toID": "181208",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221300",
+            "fromID": "181194",
+            "toID": "181215",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221280",
+            "fromID": "181195",
+            "toID": "181196",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221284",
+            "fromID": "181196",
+            "toID": "181199",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221283",
+            "fromID": "181198",
+            "toID": "181194",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221286",
+            "fromID": "181198",
+            "toID": "181200",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221285",
+            "fromID": "181199",
+            "toID": "181189",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221287",
+            "fromID": "181200",
+            "toID": "181199",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221289",
+            "fromID": "181201",
+            "toID": "181202",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221288",
+            "fromID": "181202",
+            "toID": "181203",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221294",
+            "fromID": "181203",
+            "toID": "181209",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221290",
+            "fromID": "181205",
+            "toID": "181201",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221291",
+            "fromID": "181206",
+            "toID": "181205",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221293",
+            "fromID": "181208",
+            "toID": "181206",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221296",
+            "fromID": "181208",
+            "toID": "181210",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221295",
+            "fromID": "181209",
+            "toID": "181196",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221297",
+            "fromID": "181210",
+            "toID": "181209",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221302",
+            "fromID": "181211",
+            "toID": "181216",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221298",
+            "fromID": "181212",
+            "toID": "181211",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221299",
+            "fromID": "181213",
+            "toID": "181212",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221308",
+            "fromID": "181213",
+            "toID": "181222",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221301",
+            "fromID": "181215",
+            "toID": "181213",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221304",
+            "fromID": "181215",
+            "toID": "181217",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221303",
+            "fromID": "181216",
+            "toID": "181196",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221305",
+            "fromID": "181217",
+            "toID": "181216",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221310",
+            "fromID": "181218",
+            "toID": "181223",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221306",
+            "fromID": "181219",
+            "toID": "181218",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221307",
+            "fromID": "181220",
+            "toID": "181219",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221309",
+            "fromID": "181222",
+            "toID": "181220",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221312",
+            "fromID": "181222",
+            "toID": "181224",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221311",
+            "fromID": "181223",
+            "toID": "181211",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221313",
+            "fromID": "181224",
+            "toID": "181223",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "181206",
+            "personID": "1640",
+            "timestamp": "2016-07-11 14:01:59",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "181213",
+            "personID": "1640",
+            "timestamp": "2016-07-11 14:01:59",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "181220",
+            "personID": "4",
+            "timestamp": "2016-07-11 14:01:59",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

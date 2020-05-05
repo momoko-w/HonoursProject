@@ -1,1 +1,364 @@
-{"nodes":[{"nodeID":"44236","text":"Anne and Ruth agree that there are some troubled families","type":"I","timestamp":"2014-11-20 13:35:26"},{"nodeID":"44238","text":"Anne :  Can we just agree that there are some","type":"L","timestamp":"2014-11-20 13:35:26"},{"nodeID":"44239","text":"Ruth would do xxx about it","type":"I","timestamp":"2014-11-20 13:35:26"},{"nodeID":"44241","text":"Anne : and I would just like to ask you what you would do about it","type":"L","timestamp":"2014-11-20 13:35:26"},{"nodeID":"44243","text":"there is a very tiny minority of families that fall into that situation","type":"I","timestamp":"2014-11-20 13:35:26"},{"nodeID":"44245","text":"Ruth : We will say that there is a very tiny minority of families that fall into that situation","type":"L","timestamp":"2014-11-20 13:35:26"},{"nodeID":"44250","text":"Ruth is not in those cases wholly opposed to family intervention programmes","type":"I","timestamp":"2014-11-20 13:35:26"},{"nodeID":"44252","text":"Ruth : I am not in those cases wholly opposed to family intervention programmes","type":"L","timestamp":"2014-11-20 13:35:26"},{"nodeID":"117837","text":"Rhetorical Questioning","type":"YA","timestamp":"2015-12-05 18:12:21","scheme":"RhetoricalQuestioning","schemeID":"85"},{"nodeID":"117838","text":"Pure Questioning","type":"YA","timestamp":"2015-12-05 18:12:21","scheme":"PureQuestioning","schemeID":"91"},{"nodeID":"117839","text":"TA","type":"TA","timestamp":"2015-12-05 18:12:21"},{"nodeID":"117840","text":"Asserting","type":"YA","timestamp":"2015-12-05 18:12:22","scheme":"Asserting","schemeID":"74"},{"nodeID":"117841","text":"Asserting","type":"YA","timestamp":"2015-12-05 18:12:22","scheme":"Asserting","schemeID":"74"},{"nodeID":"117842","text":"Default Transition","type":"TA","timestamp":"2015-12-05 18:12:22","scheme":"Default Transition","schemeID":"82"},{"nodeID":"117843","text":"Default Rephrase","type":"MA","timestamp":"2015-12-05 18:12:22","scheme":"Default Rephrase","schemeID":"144"},{"nodeID":"117844","text":"Default Illocuting","type":"YA","timestamp":"2015-12-05 18:12:22","scheme":"Default Illocuting","schemeID":"168"},{"nodeID":"117845","text":"Agreeing","type":"YA","timestamp":"2015-12-05 18:12:22","scheme":"Agreeing","schemeID":"77"},{"nodeID":"117846","text":"Default Transition","type":"TA","timestamp":"2015-12-05 18:12:22","scheme":"Default Transition","schemeID":"82"},{"nodeID":"117847","text":"Default Rephrase","type":"MA","timestamp":"2015-12-05 18:12:22","scheme":"Default Rephrase","schemeID":"144"},{"nodeID":"117848","text":"Default Illocuting","type":"YA","timestamp":"2015-12-05 18:12:22","scheme":"Default Illocuting","schemeID":"168"}],"edges":[{"edgeID":"157845","fromID":"44238","toID":"117837","formEdgeID":null},{"edgeID":"157848","fromID":"44238","toID":"117839","formEdgeID":null},{"edgeID":"157854","fromID":"44238","toID":"117842","formEdgeID":null},{"edgeID":"157847","fromID":"44241","toID":"117838","formEdgeID":null},{"edgeID":"157862","fromID":"44241","toID":"117846","formEdgeID":null},{"edgeID":"157856","fromID":"44243","toID":"117843","formEdgeID":null},{"edgeID":"157851","fromID":"44245","toID":"117840","formEdgeID":null},{"edgeID":"157864","fromID":"44245","toID":"117846","formEdgeID":null},{"edgeID":"157865","fromID":"44250","toID":"117847","formEdgeID":null},{"edgeID":"157853","fromID":"44252","toID":"117841","formEdgeID":null},{"edgeID":"157844","fromID":"117837","toID":"44236","formEdgeID":null},{"edgeID":"157846","fromID":"117838","toID":"44239","formEdgeID":null},{"edgeID":"157849","fromID":"117839","toID":"44241","formEdgeID":null},{"edgeID":"157850","fromID":"117840","toID":"44243","formEdgeID":null},{"edgeID":"157852","fromID":"117841","toID":"44250","formEdgeID":null},{"edgeID":"157855","fromID":"117842","toID":"44245","formEdgeID":null},{"edgeID":"157858","fromID":"117842","toID":"117844","formEdgeID":null},{"edgeID":"157860","fromID":"117842","toID":"117845","formEdgeID":null},{"edgeID":"157857","fromID":"117843","toID":"44236","formEdgeID":null},{"edgeID":"157859","fromID":"117844","toID":"117843","formEdgeID":null},{"edgeID":"157861","fromID":"117845","toID":"44243","formEdgeID":null},{"edgeID":"157863","fromID":"117846","toID":"44252","formEdgeID":null},{"edgeID":"157867","fromID":"117846","toID":"117848","formEdgeID":null},{"edgeID":"157866","fromID":"117847","toID":"44239","formEdgeID":null},{"edgeID":"157868","fromID":"117848","toID":"117847","formEdgeID":null}],"locutions":[{"nodeID":"44238","personID":"101","timestamp":"2014-11-20 13:35:27","start":null,"end":null,"source":null},{"nodeID":"44241","personID":"101","timestamp":"2014-11-20 13:35:27","start":null,"end":null,"source":null},{"nodeID":"44245","personID":"601","timestamp":"2014-11-20 13:35:27","start":null,"end":null,"source":null},{"nodeID":"44252","personID":"601","timestamp":"2014-11-20 13:35:27","start":null,"end":null,"source":null},{"nodeID":"44238","personID":"101","timestamp":"2015-12-05 18:12:23","start":null,"end":null,"source":null},{"nodeID":"44241","personID":"101","timestamp":"2015-12-05 18:12:23","start":null,"end":null,"source":null},{"nodeID":"44245","personID":"601","timestamp":"2015-12-05 18:12:23","start":null,"end":null,"source":null},{"nodeID":"44252","personID":"601","timestamp":"2015-12-05 18:12:23","start":null,"end":null,"source":null}]}
+{
+    "nodes": [
+        {
+            "nodeID": "44236",
+            "text": "Anne and Ruth agree that there are some troubled families",
+            "type": "I",
+            "timestamp": "2014-11-20 13:35:26"
+        },
+        {
+            "nodeID": "44238",
+            "text": "Anne :  Can we just agree that there are some",
+            "type": "L",
+            "timestamp": "2014-11-20 13:35:26"
+        },
+        {
+            "nodeID": "44239",
+            "text": "Ruth would do xxx about it",
+            "type": "I",
+            "timestamp": "2014-11-20 13:35:26"
+        },
+        {
+            "nodeID": "44241",
+            "text": "Anne : and I would just like to ask you what you would do about it",
+            "type": "L",
+            "timestamp": "2014-11-20 13:35:26"
+        },
+        {
+            "nodeID": "44243",
+            "text": "there is a very tiny minority of families that fall into that situation",
+            "type": "I",
+            "timestamp": "2014-11-20 13:35:26"
+        },
+        {
+            "nodeID": "44245",
+            "text": "Ruth : We will say that there is a very tiny minority of families that fall into that situation",
+            "type": "L",
+            "timestamp": "2014-11-20 13:35:26"
+        },
+        {
+            "nodeID": "44250",
+            "text": "Ruth is not in those cases wholly opposed to family intervention programmes",
+            "type": "I",
+            "timestamp": "2014-11-20 13:35:26"
+        },
+        {
+            "nodeID": "44252",
+            "text": "Ruth : I am not in those cases wholly opposed to family intervention programmes",
+            "type": "L",
+            "timestamp": "2014-11-20 13:35:26"
+        },
+        {
+            "nodeID": "117837",
+            "text": "Rhetorical Questioning",
+            "type": "YA",
+            "timestamp": "2015-12-05 18:12:21",
+            "scheme": "RhetoricalQuestioning",
+            "schemeID": "85"
+        },
+        {
+            "nodeID": "117838",
+            "text": "Pure Questioning",
+            "type": "YA",
+            "timestamp": "2015-12-05 18:12:21",
+            "scheme": "PureQuestioning",
+            "schemeID": "91"
+        },
+        {
+            "nodeID": "117839",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-05 18:12:21"
+        },
+        {
+            "nodeID": "117840",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-05 18:12:22",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "117841",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-05 18:12:22",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "117842",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-05 18:12:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "117843",
+            "text": "Default Rephrase",
+            "type": "MA",
+            "timestamp": "2015-12-05 18:12:22",
+            "scheme": "Default Rephrase",
+            "schemeID": "144"
+        },
+        {
+            "nodeID": "117844",
+            "text": "Default Illocuting",
+            "type": "YA",
+            "timestamp": "2015-12-05 18:12:22",
+            "scheme": "Default Illocuting",
+            "schemeID": "168"
+        },
+        {
+            "nodeID": "117845",
+            "text": "Agreeing",
+            "type": "YA",
+            "timestamp": "2015-12-05 18:12:22",
+            "scheme": "Agreeing",
+            "schemeID": "77"
+        },
+        {
+            "nodeID": "117846",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-05 18:12:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "117847",
+            "text": "Default Rephrase",
+            "type": "MA",
+            "timestamp": "2015-12-05 18:12:22",
+            "scheme": "Default Rephrase",
+            "schemeID": "144"
+        },
+        {
+            "nodeID": "117848",
+            "text": "Default Illocuting",
+            "type": "YA",
+            "timestamp": "2015-12-05 18:12:22",
+            "scheme": "Default Illocuting",
+            "schemeID": "168"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "157845",
+            "fromID": "44238",
+            "toID": "117837",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157848",
+            "fromID": "44238",
+            "toID": "117839",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157854",
+            "fromID": "44238",
+            "toID": "117842",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157847",
+            "fromID": "44241",
+            "toID": "117838",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157862",
+            "fromID": "44241",
+            "toID": "117846",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157856",
+            "fromID": "44243",
+            "toID": "117843",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157851",
+            "fromID": "44245",
+            "toID": "117840",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157864",
+            "fromID": "44245",
+            "toID": "117846",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157865",
+            "fromID": "44250",
+            "toID": "117847",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157853",
+            "fromID": "44252",
+            "toID": "117841",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157844",
+            "fromID": "117837",
+            "toID": "44236",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157846",
+            "fromID": "117838",
+            "toID": "44239",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157849",
+            "fromID": "117839",
+            "toID": "44241",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157850",
+            "fromID": "117840",
+            "toID": "44243",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157852",
+            "fromID": "117841",
+            "toID": "44250",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157855",
+            "fromID": "117842",
+            "toID": "44245",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157858",
+            "fromID": "117842",
+            "toID": "117844",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157860",
+            "fromID": "117842",
+            "toID": "117845",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157857",
+            "fromID": "117843",
+            "toID": "44236",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157859",
+            "fromID": "117844",
+            "toID": "117843",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157861",
+            "fromID": "117845",
+            "toID": "44243",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157863",
+            "fromID": "117846",
+            "toID": "44252",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157867",
+            "fromID": "117846",
+            "toID": "117848",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157866",
+            "fromID": "117847",
+            "toID": "44239",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "157868",
+            "fromID": "117848",
+            "toID": "117847",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "44238",
+            "personID": "101",
+            "timestamp": "2014-11-20 13:35:27",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "44241",
+            "personID": "101",
+            "timestamp": "2014-11-20 13:35:27",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "44245",
+            "personID": "601",
+            "timestamp": "2014-11-20 13:35:27",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "44252",
+            "personID": "601",
+            "timestamp": "2014-11-20 13:35:27",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "44238",
+            "personID": "101",
+            "timestamp": "2015-12-05 18:12:23",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "44241",
+            "personID": "101",
+            "timestamp": "2015-12-05 18:12:23",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "44245",
+            "personID": "601",
+            "timestamp": "2015-12-05 18:12:23",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "44252",
+            "personID": "601",
+            "timestamp": "2015-12-05 18:12:23",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

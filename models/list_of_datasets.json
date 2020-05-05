@@ -4,7 +4,7 @@
         "nameAtPath": "MoralMazeGreenBelt",
         "length": 58,
         "date": "01/04/2017",
-        "noOfSpeakers": 5,
+        "noOfSpeakers": 14,
         "description": "This debate is about the housing crisis, home ownership in the UK and the deregulation of the planning laws and building on the greenbelt.",
         "textfile": "MoralMazeGreenBelt-concatenated.txt"
     },
@@ -13,7 +13,7 @@
         "nameAtPath": "MM2019Hypocrisy",
         "length": 43,
         "date": "12/06/2019",
-        "noOfSpeakers": 8,
+        "noOfSpeakers": 6,
         "description": "This debate discusses how personal moral boundaries are often quite flexible for one's own shortcomings, yet there are often tendencies to pass stricter judgments on others.",
         "textfile": "MM2019Hypocrisy-concatenated.txt"
     },
@@ -22,7 +22,7 @@
         "nameAtPath": "MMSyria",
         "length": 43,
         "date": "11/07/2012",
-        "noOfSpeakers": 5,
+        "noOfSpeakers": 10,
         "description": "This debate discusses to what degree international governments and institutions should get involved with in the uprising in Syria.",
         "textfile": "MMSyr-concatenated.txt"
     },
@@ -31,17 +31,17 @@
         "nameAtPath": "MoralMazeProblemFamilies",
         "length": 43,
         "date": "25/07/2012",
-        "noOfSpeakers": 5,
+        "noOfSpeakers": 15,
         "description": "This debate discusses so called problem families and the problems they pose to society, as well as how the government can & should interfere with troubled families and the issues the Troubled Families Unit is facing.",
         "textfile": "problem-concatenated.txt"
     },
     {
-        "name": "Welfare State- Moral Maze",
+        "name": "Welfare State - Moral Maze",
         "nameAtPath": "MoralMazeWelfare",
         "length": 43,
         "date": "27/06/2012",
-        "noOfSpeakers": 5,
-        "description": "This debate is about D.",
+        "noOfSpeakers": 19,
+        "description": "This debate discusses the welfare state and social benefits, the conflict between the duty of aiding the less fortunate and rewarding and promoting behaviour that harms society.",
         "textfile": "welfare-concatenated.txt"
     }
 ]

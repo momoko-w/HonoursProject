@@ -1,1 +1,745 @@
-{"nodes":[{"nodeID":"179306","text":"Clifford : In terms of broad moral principles, is the basic premise behind the responsibility to protect the United Nations moral","type":"L","timestamp":"2016-07-05 14:41:02"},{"nodeID":"179307","text":"Pure Questioning","type":"YA","timestamp":"2016-07-05 14:41:02","scheme":"PureQuestioning","schemeID":"91"},{"nodeID":"179308","text":"In terms of broad moral principles, is the basic premise behind the responsibility to protect the United Nations moral","type":"I","timestamp":"2016-07-05 14:41:02"},{"nodeID":"179309","text":"Rory: Clifford : In terms of broad moral principles, is the basic premise behind the responsibility to protect the United Nations moral","type":"L","timestamp":"2016-07-05 14:41:02"},{"nodeID":"179310","text":"Clifford :  Do you think it should not have been passed","type":"L","timestamp":"2016-07-05 14:41:02"},{"nodeID":"179311","text":"Pure Questioning","type":"YA","timestamp":"2016-07-05 14:41:02","scheme":"PureQuestioning","schemeID":"91"},{"nodeID":"179312","text":"Karl Sharro thinks it should \/ should not have been passed","type":"I","timestamp":"2016-07-05 14:41:02"},{"nodeID":"179313","text":"Rory: Clifford :  Do you think it should not have been passed","type":"L","timestamp":"2016-07-05 14:41:03"},{"nodeID":"179314","text":"Clifford : Do you claim it","type":"L","timestamp":"2016-07-05 14:41:03"},{"nodeID":"179315","text":"Pure Questioning","type":"YA","timestamp":"2016-07-05 14:41:03","scheme":"PureQuestioning","schemeID":"91"},{"nodeID":"179316","text":"Karl Sharro does \/ doesn't claim it should not have been passed","type":"I","timestamp":"2016-07-05 14:41:03"},{"nodeID":"179317","text":"Rory: Clifford : Do you claim it","type":"L","timestamp":"2016-07-05 14:41:03"},{"nodeID":"179318","text":"Clifford : do you reject it","type":"L","timestamp":"2016-07-05 14:41:03"},{"nodeID":"179319","text":"Pure Questioning","type":"YA","timestamp":"2016-07-05 14:41:03","scheme":"PureQuestioning","schemeID":"91"},{"nodeID":"179320","text":"Karl Sharro does \/doesn't reject it should not have been passed","type":"I","timestamp":"2016-07-05 14:41:03"},{"nodeID":"179321","text":"Rory: Clifford : do you reject it","type":"L","timestamp":"2016-07-05 14:41:03"},{"nodeID":"179322","text":"Default Transition","type":"TA","timestamp":"2016-07-05 14:41:03","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179323","text":"Default Transition","type":"TA","timestamp":"2016-07-05 14:41:03","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179324","text":"Default Transition","type":"TA","timestamp":"2016-07-05 14:41:03","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179325","text":"Karl : If it is up to me, I would abolish the United Nations entirely","type":"L","timestamp":"2016-07-05 14:41:03"},{"nodeID":"179326","text":"Asserting","type":"YA","timestamp":"2016-07-05 14:41:04","scheme":"Asserting","schemeID":"74"},{"nodeID":"179327","text":"If it is up to me, I would abolish the United Nations entirely","type":"I","timestamp":"2016-07-05 14:41:04"},{"nodeID":"179328","text":"Rory: Karl : If it is up to me, I would abolish the United Nations entirely","type":"L","timestamp":"2016-07-05 14:41:04"},{"nodeID":"179329","text":"Default Transition","type":"TA","timestamp":"2016-07-05 14:41:04","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179330","text":"Karl : no, it shouldn't have been passed","type":"L","timestamp":"2016-07-05 14:41:04"},{"nodeID":"179331","text":"Asserting","type":"YA","timestamp":"2016-07-05 14:41:04","scheme":"Asserting","schemeID":"74"},{"nodeID":"179332","text":"no, it shouldn't have been passed","type":"I","timestamp":"2016-07-05 14:41:04"},{"nodeID":"179333","text":"Rory: Karl : no, it shouldn't have been passed","type":"L","timestamp":"2016-07-05 14:41:04"},{"nodeID":"179334","text":"Default Transition","type":"TA","timestamp":"2016-07-05 14:41:04","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179335","text":"Karl :  it assumes certain assumptions that (a) the world and international relations and politics operate according to moral principles","type":"L","timestamp":"2016-07-05 14:41:04"},{"nodeID":"179336","text":"Asserting","type":"YA","timestamp":"2016-07-05 14:41:04","scheme":"Asserting","schemeID":"74"},{"nodeID":"179337","text":"it assumes certain assumptions that (a) the world and international relations and politics operate according to moral principles","type":"I","timestamp":"2016-07-05 14:41:04"},{"nodeID":"179338","text":"Rory: Karl :  it assumes certain assumptions that (a) the world and international relations and politics operate according to moral principles","type":"L","timestamp":"2016-07-05 14:41:04"},{"nodeID":"179339","text":"Default Transition","type":"TA","timestamp":"2016-07-05 14:41:05","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179340","text":"Default Inference","type":"RA","timestamp":"2016-07-05 14:41:05","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179341","text":"Arguing","type":"YA","timestamp":"2016-07-05 14:41:05","scheme":"Arguing","schemeID":"80"},{"nodeID":"179342","text":"Karl : we are only keen to express those moral principles by bombing other nations","type":"L","timestamp":"2016-07-05 14:41:05"},{"nodeID":"179343","text":"Asserting","type":"YA","timestamp":"2016-07-05 14:41:05","scheme":"Asserting","schemeID":"74"},{"nodeID":"179344","text":"we are only keen to express those moral principles by bombing other nations","type":"I","timestamp":"2016-07-05 14:41:05"},{"nodeID":"179345","text":"Rory: Karl : we are only keen to express those moral principles by bombing other nations","type":"L","timestamp":"2016-07-05 14:41:05"},{"nodeID":"179346","text":"Default Transition","type":"TA","timestamp":"2016-07-05 14:41:05","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179347","text":"Default Inference","type":"RA","timestamp":"2016-07-05 14:41:05","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179348","text":"Arguing","type":"YA","timestamp":"2016-07-05 14:41:05","scheme":"Arguing","schemeID":"80"},{"nodeID":"179349","text":"Rory: Karl : It doesn't for example apply to the case of immigrants coming from Africa, who we callously close our borders to","type":"L","timestamp":"2016-07-05 14:41:05"},{"nodeID":"179350","text":"Rory: Karl : It doesn't for example apply to the case of immigrants coming from Africa, who we callously close our borders to, there the moral principle doesn't apply","type":"L","timestamp":"2016-07-05 14:41:05"},{"nodeID":"179351","text":"Rory: Karl :  It doesn't for example apply to the case of immigrants coming from Africa, who we callously close our borders to, there the moral principle doesn't apply","type":"L","timestamp":"2016-07-05 14:41:06"},{"nodeID":"179352","text":"Karl :  It doesn't for example apply to the case of immigrants coming from Africa, who we callously close our borders to","type":"L","timestamp":"2016-07-05 14:41:06"},{"nodeID":"179353","text":"Asserting","type":"YA","timestamp":"2016-07-05 14:41:06","scheme":"Asserting","schemeID":"74"},{"nodeID":"179354","text":"It doesn't for example apply to the case of immigrants coming from Africa, who we callously close our borders to","type":"I","timestamp":"2016-07-05 14:41:06"},{"nodeID":"179355","text":"Rory: Karl :  It doesn't for example apply to the case of immigrants coming from Africa, who we callously close our borders to","type":"L","timestamp":"2016-07-05 14:41:06"},{"nodeID":"179356","text":"Karl : there the moral principle doesn't apply, even though that involves death, people coming to Europe","type":"L","timestamp":"2016-07-05 14:41:06"},{"nodeID":"179357","text":"Asserting","type":"YA","timestamp":"2016-07-05 14:41:06","scheme":"Asserting","schemeID":"74"},{"nodeID":"179358","text":"there the moral principle doesn't apply, even though that involves death, people coming to Europe","type":"I","timestamp":"2016-07-05 14:41:06"},{"nodeID":"179359","text":"Rory: Karl : there the moral principle doesn't apply, even though that involves death, people coming to Europe","type":"L","timestamp":"2016-07-05 14:41:06"},{"nodeID":"179360","text":"Default Transition","type":"TA","timestamp":"2016-07-05 14:41:06","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179361","text":"Example","type":"RA","timestamp":"2016-07-05 14:41:06","scheme":"Example","schemeID":"14"},{"nodeID":"179362","text":"Arguing","type":"YA","timestamp":"2016-07-05 14:41:06","scheme":"Arguing","schemeID":"80"},{"nodeID":"179363","text":"Default Transition","type":"TA","timestamp":"2016-07-05 14:41:06","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179364","text":"Default Inference","type":"RA","timestamp":"2016-07-05 14:41:07","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179365","text":"Arguing","type":"YA","timestamp":"2016-07-05 14:41:07","scheme":"Arguing","schemeID":"80"}],"edges":[{"edgeID":"219214","fromID":"179306","toID":"179307","formEdgeID":null},{"edgeID":"219221","fromID":"179306","toID":"179322","formEdgeID":null},{"edgeID":"219229","fromID":"179306","toID":"179329","formEdgeID":null},{"edgeID":"219213","fromID":"179307","toID":"179308","formEdgeID":null},{"edgeID":"219216","fromID":"179310","toID":"179311","formEdgeID":null},{"edgeID":"219223","fromID":"179310","toID":"179323","formEdgeID":null},{"edgeID":"219233","fromID":"179310","toID":"179334","formEdgeID":null},{"edgeID":"219215","fromID":"179311","toID":"179312","formEdgeID":null},{"edgeID":"219218","fromID":"179314","toID":"179315","formEdgeID":null},{"edgeID":"219225","fromID":"179314","toID":"179324","formEdgeID":null},{"edgeID":"219217","fromID":"179315","toID":"179316","formEdgeID":null},{"edgeID":"219220","fromID":"179318","toID":"179319","formEdgeID":null},{"edgeID":"219219","fromID":"179319","toID":"179320","formEdgeID":null},{"edgeID":"219222","fromID":"179322","toID":"179310","formEdgeID":null},{"edgeID":"219224","fromID":"179323","toID":"179314","formEdgeID":null},{"edgeID":"219226","fromID":"179324","toID":"179318","formEdgeID":null},{"edgeID":"219228","fromID":"179325","toID":"179326","formEdgeID":null},{"edgeID":"219227","fromID":"179326","toID":"179327","formEdgeID":null},{"edgeID":"219230","fromID":"179329","toID":"179325","formEdgeID":null},{"edgeID":"219232","fromID":"179330","toID":"179331","formEdgeID":null},{"edgeID":"219237","fromID":"179330","toID":"179339","formEdgeID":null},{"edgeID":"219245","fromID":"179330","toID":"179346","formEdgeID":null},{"edgeID":"219231","fromID":"179331","toID":"179332","formEdgeID":null},{"edgeID":"219234","fromID":"179334","toID":"179330","formEdgeID":null},{"edgeID":"219236","fromID":"179335","toID":"179336","formEdgeID":null},{"edgeID":"219255","fromID":"179335","toID":"179360","formEdgeID":null},{"edgeID":"219235","fromID":"179336","toID":"179337","formEdgeID":null},{"edgeID":"219239","fromID":"179337","toID":"179340","formEdgeID":null},{"edgeID":"219238","fromID":"179339","toID":"179335","formEdgeID":null},{"edgeID":"219241","fromID":"179339","toID":"179341","formEdgeID":null},{"edgeID":"219240","fromID":"179340","toID":"179332","formEdgeID":null},{"edgeID":"219242","fromID":"179341","toID":"179340","formEdgeID":null},{"edgeID":"219244","fromID":"179342","toID":"179343","formEdgeID":null},{"edgeID":"219243","fromID":"179343","toID":"179344","formEdgeID":null},{"edgeID":"219247","fromID":"179344","toID":"179347","formEdgeID":null},{"edgeID":"219246","fromID":"179346","toID":"179342","formEdgeID":null},{"edgeID":"219249","fromID":"179346","toID":"179348","formEdgeID":null},{"edgeID":"219248","fromID":"179347","toID":"179332","formEdgeID":null},{"edgeID":"219250","fromID":"179348","toID":"179347","formEdgeID":null},{"edgeID":"219252","fromID":"179352","toID":"179353","formEdgeID":null},{"edgeID":"219261","fromID":"179352","toID":"179363","formEdgeID":null},{"edgeID":"219251","fromID":"179353","toID":"179354","formEdgeID":null},{"edgeID":"219257","fromID":"179354","toID":"179361","formEdgeID":null},{"edgeID":"219254","fromID":"179356","toID":"179357","formEdgeID":null},{"edgeID":"219253","fromID":"179357","toID":"179358","formEdgeID":null},{"edgeID":"219263","fromID":"179358","toID":"179364","formEdgeID":null},{"edgeID":"219256","fromID":"179360","toID":"179352","formEdgeID":null},{"edgeID":"219259","fromID":"179360","toID":"179362","formEdgeID":null},{"edgeID":"219258","fromID":"179361","toID":"179337","formEdgeID":null},{"edgeID":"219260","fromID":"179362","toID":"179361","formEdgeID":null},{"edgeID":"219262","fromID":"179363","toID":"179356","formEdgeID":null},{"edgeID":"219265","fromID":"179363","toID":"179365","formEdgeID":null},{"edgeID":"219264","fromID":"179364","toID":"179354","formEdgeID":null},{"edgeID":"219266","fromID":"179365","toID":"179364","formEdgeID":null}],"locutions":[]}
+{
+    "nodes": [
+        {
+            "nodeID": "179306",
+            "text": "Clifford : In terms of broad moral principles, is the basic premise behind the responsibility to protect the United Nations moral",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:02"
+        },
+        {
+            "nodeID": "179307",
+            "text": "Pure Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-05 14:41:02",
+            "scheme": "PureQuestioning",
+            "schemeID": "91"
+        },
+        {
+            "nodeID": "179308",
+            "text": "In terms of broad moral principles, is the basic premise behind the responsibility to protect the United Nations moral",
+            "type": "I",
+            "timestamp": "2016-07-05 14:41:02"
+        },
+        {
+            "nodeID": "179309",
+            "text": "Rory: Clifford : In terms of broad moral principles, is the basic premise behind the responsibility to protect the United Nations moral",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:02"
+        },
+        {
+            "nodeID": "179310",
+            "text": "Clifford :  Do you think it should not have been passed",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:02"
+        },
+        {
+            "nodeID": "179311",
+            "text": "Pure Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-05 14:41:02",
+            "scheme": "PureQuestioning",
+            "schemeID": "91"
+        },
+        {
+            "nodeID": "179312",
+            "text": "Karl Sharro thinks it should \/ should not have been passed",
+            "type": "I",
+            "timestamp": "2016-07-05 14:41:02"
+        },
+        {
+            "nodeID": "179313",
+            "text": "Rory: Clifford :  Do you think it should not have been passed",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:03"
+        },
+        {
+            "nodeID": "179314",
+            "text": "Clifford : Do you claim it",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:03"
+        },
+        {
+            "nodeID": "179315",
+            "text": "Pure Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-05 14:41:03",
+            "scheme": "PureQuestioning",
+            "schemeID": "91"
+        },
+        {
+            "nodeID": "179316",
+            "text": "Karl Sharro does \/ doesn't claim it should not have been passed",
+            "type": "I",
+            "timestamp": "2016-07-05 14:41:03"
+        },
+        {
+            "nodeID": "179317",
+            "text": "Rory: Clifford : Do you claim it",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:03"
+        },
+        {
+            "nodeID": "179318",
+            "text": "Clifford : do you reject it",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:03"
+        },
+        {
+            "nodeID": "179319",
+            "text": "Pure Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-05 14:41:03",
+            "scheme": "PureQuestioning",
+            "schemeID": "91"
+        },
+        {
+            "nodeID": "179320",
+            "text": "Karl Sharro does \/doesn't reject it should not have been passed",
+            "type": "I",
+            "timestamp": "2016-07-05 14:41:03"
+        },
+        {
+            "nodeID": "179321",
+            "text": "Rory: Clifford : do you reject it",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:03"
+        },
+        {
+            "nodeID": "179322",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 14:41:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179323",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 14:41:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179324",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 14:41:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179325",
+            "text": "Karl : If it is up to me, I would abolish the United Nations entirely",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:03"
+        },
+        {
+            "nodeID": "179326",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 14:41:04",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179327",
+            "text": "If it is up to me, I would abolish the United Nations entirely",
+            "type": "I",
+            "timestamp": "2016-07-05 14:41:04"
+        },
+        {
+            "nodeID": "179328",
+            "text": "Rory: Karl : If it is up to me, I would abolish the United Nations entirely",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:04"
+        },
+        {
+            "nodeID": "179329",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 14:41:04",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179330",
+            "text": "Karl : no, it shouldn't have been passed",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:04"
+        },
+        {
+            "nodeID": "179331",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 14:41:04",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179332",
+            "text": "no, it shouldn't have been passed",
+            "type": "I",
+            "timestamp": "2016-07-05 14:41:04"
+        },
+        {
+            "nodeID": "179333",
+            "text": "Rory: Karl : no, it shouldn't have been passed",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:04"
+        },
+        {
+            "nodeID": "179334",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 14:41:04",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179335",
+            "text": "Karl :  it assumes certain assumptions that (a) the world and international relations and politics operate according to moral principles",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:04"
+        },
+        {
+            "nodeID": "179336",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 14:41:04",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179337",
+            "text": "it assumes certain assumptions that (a) the world and international relations and politics operate according to moral principles",
+            "type": "I",
+            "timestamp": "2016-07-05 14:41:04"
+        },
+        {
+            "nodeID": "179338",
+            "text": "Rory: Karl :  it assumes certain assumptions that (a) the world and international relations and politics operate according to moral principles",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:04"
+        },
+        {
+            "nodeID": "179339",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 14:41:05",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179340",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-05 14:41:05",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179341",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-05 14:41:05",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179342",
+            "text": "Karl : we are only keen to express those moral principles by bombing other nations",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:05"
+        },
+        {
+            "nodeID": "179343",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 14:41:05",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179344",
+            "text": "we are only keen to express those moral principles by bombing other nations",
+            "type": "I",
+            "timestamp": "2016-07-05 14:41:05"
+        },
+        {
+            "nodeID": "179345",
+            "text": "Rory: Karl : we are only keen to express those moral principles by bombing other nations",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:05"
+        },
+        {
+            "nodeID": "179346",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 14:41:05",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179347",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-05 14:41:05",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179348",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-05 14:41:05",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179349",
+            "text": "Rory: Karl : It doesn't for example apply to the case of immigrants coming from Africa, who we callously close our borders to",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:05"
+        },
+        {
+            "nodeID": "179350",
+            "text": "Rory: Karl : It doesn't for example apply to the case of immigrants coming from Africa, who we callously close our borders to, there the moral principle doesn't apply",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:05"
+        },
+        {
+            "nodeID": "179351",
+            "text": "Rory: Karl :  It doesn't for example apply to the case of immigrants coming from Africa, who we callously close our borders to, there the moral principle doesn't apply",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:06"
+        },
+        {
+            "nodeID": "179352",
+            "text": "Karl :  It doesn't for example apply to the case of immigrants coming from Africa, who we callously close our borders to",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:06"
+        },
+        {
+            "nodeID": "179353",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 14:41:06",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179354",
+            "text": "It doesn't for example apply to the case of immigrants coming from Africa, who we callously close our borders to",
+            "type": "I",
+            "timestamp": "2016-07-05 14:41:06"
+        },
+        {
+            "nodeID": "179355",
+            "text": "Rory: Karl :  It doesn't for example apply to the case of immigrants coming from Africa, who we callously close our borders to",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:06"
+        },
+        {
+            "nodeID": "179356",
+            "text": "Karl : there the moral principle doesn't apply, even though that involves death, people coming to Europe",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:06"
+        },
+        {
+            "nodeID": "179357",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 14:41:06",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179358",
+            "text": "there the moral principle doesn't apply, even though that involves death, people coming to Europe",
+            "type": "I",
+            "timestamp": "2016-07-05 14:41:06"
+        },
+        {
+            "nodeID": "179359",
+            "text": "Rory: Karl : there the moral principle doesn't apply, even though that involves death, people coming to Europe",
+            "type": "L",
+            "timestamp": "2016-07-05 14:41:06"
+        },
+        {
+            "nodeID": "179360",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 14:41:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179361",
+            "text": "Example",
+            "type": "RA",
+            "timestamp": "2016-07-05 14:41:06",
+            "scheme": "Example",
+            "schemeID": "14"
+        },
+        {
+            "nodeID": "179362",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-05 14:41:06",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179363",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 14:41:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179364",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-05 14:41:07",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179365",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-05 14:41:07",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "219214",
+            "fromID": "179306",
+            "toID": "179307",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219221",
+            "fromID": "179306",
+            "toID": "179322",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219229",
+            "fromID": "179306",
+            "toID": "179329",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219213",
+            "fromID": "179307",
+            "toID": "179308",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219216",
+            "fromID": "179310",
+            "toID": "179311",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219223",
+            "fromID": "179310",
+            "toID": "179323",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219233",
+            "fromID": "179310",
+            "toID": "179334",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219215",
+            "fromID": "179311",
+            "toID": "179312",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219218",
+            "fromID": "179314",
+            "toID": "179315",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219225",
+            "fromID": "179314",
+            "toID": "179324",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219217",
+            "fromID": "179315",
+            "toID": "179316",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219220",
+            "fromID": "179318",
+            "toID": "179319",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219219",
+            "fromID": "179319",
+            "toID": "179320",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219222",
+            "fromID": "179322",
+            "toID": "179310",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219224",
+            "fromID": "179323",
+            "toID": "179314",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219226",
+            "fromID": "179324",
+            "toID": "179318",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219228",
+            "fromID": "179325",
+            "toID": "179326",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219227",
+            "fromID": "179326",
+            "toID": "179327",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219230",
+            "fromID": "179329",
+            "toID": "179325",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219232",
+            "fromID": "179330",
+            "toID": "179331",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219237",
+            "fromID": "179330",
+            "toID": "179339",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219245",
+            "fromID": "179330",
+            "toID": "179346",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219231",
+            "fromID": "179331",
+            "toID": "179332",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219234",
+            "fromID": "179334",
+            "toID": "179330",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219236",
+            "fromID": "179335",
+            "toID": "179336",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219255",
+            "fromID": "179335",
+            "toID": "179360",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219235",
+            "fromID": "179336",
+            "toID": "179337",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219239",
+            "fromID": "179337",
+            "toID": "179340",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219238",
+            "fromID": "179339",
+            "toID": "179335",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219241",
+            "fromID": "179339",
+            "toID": "179341",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219240",
+            "fromID": "179340",
+            "toID": "179332",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219242",
+            "fromID": "179341",
+            "toID": "179340",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219244",
+            "fromID": "179342",
+            "toID": "179343",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219243",
+            "fromID": "179343",
+            "toID": "179344",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219247",
+            "fromID": "179344",
+            "toID": "179347",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219246",
+            "fromID": "179346",
+            "toID": "179342",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219249",
+            "fromID": "179346",
+            "toID": "179348",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219248",
+            "fromID": "179347",
+            "toID": "179332",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219250",
+            "fromID": "179348",
+            "toID": "179347",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219252",
+            "fromID": "179352",
+            "toID": "179353",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219261",
+            "fromID": "179352",
+            "toID": "179363",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219251",
+            "fromID": "179353",
+            "toID": "179354",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219257",
+            "fromID": "179354",
+            "toID": "179361",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219254",
+            "fromID": "179356",
+            "toID": "179357",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219253",
+            "fromID": "179357",
+            "toID": "179358",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219263",
+            "fromID": "179358",
+            "toID": "179364",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219256",
+            "fromID": "179360",
+            "toID": "179352",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219259",
+            "fromID": "179360",
+            "toID": "179362",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219258",
+            "fromID": "179361",
+            "toID": "179337",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219260",
+            "fromID": "179362",
+            "toID": "179361",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219262",
+            "fromID": "179363",
+            "toID": "179356",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219265",
+            "fromID": "179363",
+            "toID": "179365",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219264",
+            "fromID": "179364",
+            "toID": "179354",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219266",
+            "fromID": "179365",
+            "toID": "179364",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": []
+}

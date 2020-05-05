@@ -1,1 +1,606 @@
-{"nodes":[{"nodeID":"27494","text":"we have 2.5 million unemployed, 500,000 vacancies","type":"I","timestamp":"2014-02-28 15:12:54"},{"nodeID":"27496","text":"KM : we have 2.5 million unemployed, 500,000 vacancies","type":"L","timestamp":"2014-02-28 15:12:54"},{"nodeID":"27499","text":"KM : In your \u2018non-utopia\u2019 where you\u2019ve abolished the welfare state, what happens to those 2 million?","type":"L","timestamp":"2014-02-28 15:12:54"},{"nodeID":"27502","text":"In the same way that in other countries which run well and efficient welfare states, have very low unemployment \u2013 much lower than we do \u2013 it would be as low, or lower as it is there","type":"I","timestamp":"2014-02-28 15:12:54"},{"nodeID":"27504","text":"JB : In the same way that in other countries which run well and efficient welfare states, have very low unemployment \u2013 much lower than we do \u2013 it would be as low, or lower as it is there","type":"L","timestamp":"2014-02-28 15:12:54"},{"nodeID":"27507","text":"at no time before the welfare state, was there mass permanent unemployment","type":"I","timestamp":"2014-02-28 15:12:54"},{"nodeID":"27509","text":"JB : And at no time before the welfare state, was there mass permanent unemployment","type":"L","timestamp":"2014-02-28 15:12:54"},{"nodeID":"27512","text":"only since the welfare state has there been permanent unemployment","type":"I","timestamp":"2014-02-28 15:12:54"},{"nodeID":"27514","text":"JB : only since the welfare state has there been permanent unemployment","type":"L","timestamp":"2014-02-28 15:12:54"},{"nodeID":"27515","text":"There is no natural condition of unemployment","type":"I","timestamp":"2014-02-28 15:12:54"},{"nodeID":"27517","text":"JB : There is no natural condition of unemployment","type":"L","timestamp":"2014-02-28 15:12:55"},{"nodeID":"27520","text":"unemployment comes about on a mass permanent scale entirely because of the welfare state","type":"I","timestamp":"2014-02-28 15:12:55"},{"nodeID":"27522","text":"JB : unemployment comes about on a mass permanent scale entirely because of the welfare state","type":"L","timestamp":"2014-02-28 15:12:55"},{"nodeID":"116234","text":"Asserting","type":"YA","timestamp":"2015-12-03 22:41:37","scheme":"Asserting","schemeID":"74"},{"nodeID":"116235","text":"Asserting","type":"YA","timestamp":"2015-12-03 22:41:37","scheme":"Asserting","schemeID":"74"},{"nodeID":"116236","text":"Asserting","type":"YA","timestamp":"2015-12-03 22:41:37","scheme":"Asserting","schemeID":"74"},{"nodeID":"116237","text":"RA","type":"RA","timestamp":"2015-12-03 22:41:37"},{"nodeID":"116238","text":"TA","type":"TA","timestamp":"2015-12-03 22:41:37"},{"nodeID":"116239","text":"Arguing","type":"YA","timestamp":"2015-12-03 22:41:37","scheme":"Arguing","schemeID":"80"},{"nodeID":"116240","text":"Asserting","type":"YA","timestamp":"2015-12-03 22:41:38","scheme":"Asserting","schemeID":"74"},{"nodeID":"116241","text":"Asserting","type":"YA","timestamp":"2015-12-03 22:41:38","scheme":"Asserting","schemeID":"74"},{"nodeID":"116242","text":"RA","type":"RA","timestamp":"2015-12-03 22:41:38"},{"nodeID":"116243","text":"TA","type":"TA","timestamp":"2015-12-03 22:41:38"},{"nodeID":"116244","text":"Arguing","type":"YA","timestamp":"2015-12-03 22:41:38","scheme":"Arguing","schemeID":"80"},{"nodeID":"116245","text":"Asserting","type":"YA","timestamp":"2015-12-03 22:41:38","scheme":"Asserting","schemeID":"74"},{"nodeID":"116246","text":"M: In your \u2018non-utopia\u2019 where you\u2019ve abolished the welfare state, what happens to those 2 million?","type":"L","timestamp":"2015-12-03 22:41:38"},{"nodeID":"116247","text":"Pure Questioning","type":"YA","timestamp":"2015-12-03 22:41:38","scheme":"PureQuestioning","schemeID":"91"},{"nodeID":"116248","text":"In JB's \u2018non-utopia\u2019 where he's abolished the welfare state, xxx is what happens to those 2 million","type":"I","timestamp":"2015-12-03 22:41:38"},{"nodeID":"116249","text":"Default Transition","type":"TA","timestamp":"2015-12-03 22:41:38","scheme":"Default Transition","schemeID":"82"},{"nodeID":"116250","text":"Default Transition","type":"TA","timestamp":"2015-12-03 22:41:38","scheme":"Default Transition","schemeID":"82"},{"nodeID":"116251","text":"Default Rephrase","type":"MA","timestamp":"2015-12-03 22:41:38","scheme":"Default Rephrase","schemeID":"144"},{"nodeID":"116252","text":"Default Illocuting","type":"YA","timestamp":"2015-12-03 22:41:38","scheme":"Default Illocuting","schemeID":"168"},{"nodeID":"116253","text":"Default Transition","type":"TA","timestamp":"2015-12-03 22:41:39","scheme":"Default Transition","schemeID":"82"},{"nodeID":"116254","text":"Default Rephrase","type":"MA","timestamp":"2015-12-03 22:41:39","scheme":"Default Rephrase","schemeID":"144"},{"nodeID":"116255","text":"Default Illocuting","type":"YA","timestamp":"2015-12-03 22:41:39","scheme":"Default Illocuting","schemeID":"168"}],"edges":[{"edgeID":"155078","fromID":"116234","toID":"27494","formEdgeID":null},{"edgeID":"155079","fromID":"27496","toID":"116234","formEdgeID":null},{"edgeID":"155080","fromID":"116235","toID":"27502","formEdgeID":null},{"edgeID":"155081","fromID":"27504","toID":"116235","formEdgeID":null},{"edgeID":"155082","fromID":"116236","toID":"27507","formEdgeID":null},{"edgeID":"155083","fromID":"27509","toID":"116236","formEdgeID":null},{"edgeID":"155084","fromID":"27507","toID":"116237","formEdgeID":null},{"edgeID":"155085","fromID":"116237","toID":"27502","formEdgeID":null},{"edgeID":"155086","fromID":"27504","toID":"116238","formEdgeID":null},{"edgeID":"155087","fromID":"116238","toID":"27509","formEdgeID":null},{"edgeID":"155088","fromID":"116238","toID":"116239","formEdgeID":null},{"edgeID":"155089","fromID":"116239","toID":"116237","formEdgeID":null},{"edgeID":"155090","fromID":"116240","toID":"27512","formEdgeID":null},{"edgeID":"155091","fromID":"27514","toID":"116240","formEdgeID":null},{"edgeID":"155092","fromID":"27512","toID":"116237","formEdgeID":null},{"edgeID":"155093","fromID":"27514","toID":"116238","formEdgeID":null},{"edgeID":"155094","fromID":"116241","toID":"27515","formEdgeID":null},{"edgeID":"155095","fromID":"27517","toID":"116241","formEdgeID":null},{"edgeID":"155096","fromID":"27515","toID":"116242","formEdgeID":null},{"edgeID":"155097","fromID":"116242","toID":"27512","formEdgeID":null},{"edgeID":"155098","fromID":"27514","toID":"116243","formEdgeID":null},{"edgeID":"155099","fromID":"116243","toID":"27517","formEdgeID":null},{"edgeID":"155100","fromID":"116243","toID":"116244","formEdgeID":null},{"edgeID":"155101","fromID":"116244","toID":"116242","formEdgeID":null},{"edgeID":"155102","fromID":"116245","toID":"27520","formEdgeID":null},{"edgeID":"155103","fromID":"27522","toID":"116245","formEdgeID":null},{"edgeID":"155104","fromID":"116247","toID":"116248","formEdgeID":null},{"edgeID":"155105","fromID":"27499","toID":"116247","formEdgeID":null},{"edgeID":"155106","fromID":"27496","toID":"116249","formEdgeID":null},{"edgeID":"155107","fromID":"116249","toID":"27499","formEdgeID":null},{"edgeID":"155108","fromID":"27499","toID":"116250","formEdgeID":null},{"edgeID":"155109","fromID":"116250","toID":"27504","formEdgeID":null},{"edgeID":"155110","fromID":"27502","toID":"116251","formEdgeID":null},{"edgeID":"155111","fromID":"116251","toID":"116248","formEdgeID":null},{"edgeID":"155112","fromID":"116250","toID":"116252","formEdgeID":null},{"edgeID":"155113","fromID":"116252","toID":"116251","formEdgeID":null},{"edgeID":"155114","fromID":"27514","toID":"116253","formEdgeID":null},{"edgeID":"155115","fromID":"116253","toID":"27522","formEdgeID":null},{"edgeID":"155116","fromID":"27520","toID":"116254","formEdgeID":null},{"edgeID":"155117","fromID":"116254","toID":"27512","formEdgeID":null},{"edgeID":"155118","fromID":"116253","toID":"116255","formEdgeID":null},{"edgeID":"155119","fromID":"116255","toID":"116254","formEdgeID":null}],"locutions":[{"nodeID":"27496","personID":"488","timestamp":"2014-02-28 15:12:55","start":null,"end":null,"source":null},{"nodeID":"27499","personID":"488","timestamp":"2014-02-28 15:12:55","start":null,"end":null,"source":null},{"nodeID":"27504","personID":"488","timestamp":"2014-02-28 15:12:55","start":null,"end":null,"source":null},{"nodeID":"27509","personID":"488","timestamp":"2014-02-28 15:12:55","start":null,"end":null,"source":null},{"nodeID":"27514","personID":"488","timestamp":"2014-02-28 15:12:55","start":null,"end":null,"source":null},{"nodeID":"27517","personID":"488","timestamp":"2014-02-28 15:12:55","start":null,"end":null,"source":null},{"nodeID":"27522","personID":"488","timestamp":"2014-02-28 15:12:55","start":null,"end":null,"source":null},{"nodeID":"27496","personID":"0","timestamp":"2015-12-03 22:41:40","start":null,"end":null,"source":null},{"nodeID":"27504","personID":"0","timestamp":"2015-12-03 22:41:40","start":null,"end":null,"source":null},{"nodeID":"27509","personID":"0","timestamp":"2015-12-03 22:41:40","start":null,"end":null,"source":null},{"nodeID":"27514","personID":"0","timestamp":"2015-12-03 22:41:40","start":null,"end":null,"source":null},{"nodeID":"27517","personID":"0","timestamp":"2015-12-03 22:41:40","start":null,"end":null,"source":null},{"nodeID":"27522","personID":"0","timestamp":"2015-12-03 22:41:40","start":null,"end":null,"source":null}]}
+{
+    "nodes": [
+        {
+            "nodeID": "27494",
+            "text": "we have 2.5 million unemployed, 500,000 vacancies",
+            "type": "I",
+            "timestamp": "2014-02-28 15:12:54"
+        },
+        {
+            "nodeID": "27496",
+            "text": "KM : we have 2.5 million unemployed, 500,000 vacancies",
+            "type": "L",
+            "timestamp": "2014-02-28 15:12:54"
+        },
+        {
+            "nodeID": "27499",
+            "text": "KM : In your \u2018non-utopia\u2019 where you\u2019ve abolished the welfare state, what happens to those 2 million?",
+            "type": "L",
+            "timestamp": "2014-02-28 15:12:54"
+        },
+        {
+            "nodeID": "27502",
+            "text": "In the same way that in other countries which run well and efficient welfare states, have very low unemployment \u2013 much lower than we do \u2013 it would be as low, or lower as it is there",
+            "type": "I",
+            "timestamp": "2014-02-28 15:12:54"
+        },
+        {
+            "nodeID": "27504",
+            "text": "JB : In the same way that in other countries which run well and efficient welfare states, have very low unemployment \u2013 much lower than we do \u2013 it would be as low, or lower as it is there",
+            "type": "L",
+            "timestamp": "2014-02-28 15:12:54"
+        },
+        {
+            "nodeID": "27507",
+            "text": "at no time before the welfare state, was there mass permanent unemployment",
+            "type": "I",
+            "timestamp": "2014-02-28 15:12:54"
+        },
+        {
+            "nodeID": "27509",
+            "text": "JB : And at no time before the welfare state, was there mass permanent unemployment",
+            "type": "L",
+            "timestamp": "2014-02-28 15:12:54"
+        },
+        {
+            "nodeID": "27512",
+            "text": "only since the welfare state has there been permanent unemployment",
+            "type": "I",
+            "timestamp": "2014-02-28 15:12:54"
+        },
+        {
+            "nodeID": "27514",
+            "text": "JB : only since the welfare state has there been permanent unemployment",
+            "type": "L",
+            "timestamp": "2014-02-28 15:12:54"
+        },
+        {
+            "nodeID": "27515",
+            "text": "There is no natural condition of unemployment",
+            "type": "I",
+            "timestamp": "2014-02-28 15:12:54"
+        },
+        {
+            "nodeID": "27517",
+            "text": "JB : There is no natural condition of unemployment",
+            "type": "L",
+            "timestamp": "2014-02-28 15:12:55"
+        },
+        {
+            "nodeID": "27520",
+            "text": "unemployment comes about on a mass permanent scale entirely because of the welfare state",
+            "type": "I",
+            "timestamp": "2014-02-28 15:12:55"
+        },
+        {
+            "nodeID": "27522",
+            "text": "JB : unemployment comes about on a mass permanent scale entirely because of the welfare state",
+            "type": "L",
+            "timestamp": "2014-02-28 15:12:55"
+        },
+        {
+            "nodeID": "116234",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:41:37",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "116235",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:41:37",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "116236",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:41:37",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "116237",
+            "text": "RA",
+            "type": "RA",
+            "timestamp": "2015-12-03 22:41:37"
+        },
+        {
+            "nodeID": "116238",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-03 22:41:37"
+        },
+        {
+            "nodeID": "116239",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:41:37",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "116240",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:41:38",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "116241",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:41:38",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "116242",
+            "text": "RA",
+            "type": "RA",
+            "timestamp": "2015-12-03 22:41:38"
+        },
+        {
+            "nodeID": "116243",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-03 22:41:38"
+        },
+        {
+            "nodeID": "116244",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:41:38",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "116245",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:41:38",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "116246",
+            "text": "M: In your \u2018non-utopia\u2019 where you\u2019ve abolished the welfare state, what happens to those 2 million?",
+            "type": "L",
+            "timestamp": "2015-12-03 22:41:38"
+        },
+        {
+            "nodeID": "116247",
+            "text": "Pure Questioning",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:41:38",
+            "scheme": "PureQuestioning",
+            "schemeID": "91"
+        },
+        {
+            "nodeID": "116248",
+            "text": "In JB's \u2018non-utopia\u2019 where he's abolished the welfare state, xxx is what happens to those 2 million",
+            "type": "I",
+            "timestamp": "2015-12-03 22:41:38"
+        },
+        {
+            "nodeID": "116249",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-03 22:41:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "116250",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-03 22:41:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "116251",
+            "text": "Default Rephrase",
+            "type": "MA",
+            "timestamp": "2015-12-03 22:41:38",
+            "scheme": "Default Rephrase",
+            "schemeID": "144"
+        },
+        {
+            "nodeID": "116252",
+            "text": "Default Illocuting",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:41:38",
+            "scheme": "Default Illocuting",
+            "schemeID": "168"
+        },
+        {
+            "nodeID": "116253",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-03 22:41:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "116254",
+            "text": "Default Rephrase",
+            "type": "MA",
+            "timestamp": "2015-12-03 22:41:39",
+            "scheme": "Default Rephrase",
+            "schemeID": "144"
+        },
+        {
+            "nodeID": "116255",
+            "text": "Default Illocuting",
+            "type": "YA",
+            "timestamp": "2015-12-03 22:41:39",
+            "scheme": "Default Illocuting",
+            "schemeID": "168"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "155078",
+            "fromID": "116234",
+            "toID": "27494",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155079",
+            "fromID": "27496",
+            "toID": "116234",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155080",
+            "fromID": "116235",
+            "toID": "27502",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155081",
+            "fromID": "27504",
+            "toID": "116235",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155082",
+            "fromID": "116236",
+            "toID": "27507",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155083",
+            "fromID": "27509",
+            "toID": "116236",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155084",
+            "fromID": "27507",
+            "toID": "116237",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155085",
+            "fromID": "116237",
+            "toID": "27502",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155086",
+            "fromID": "27504",
+            "toID": "116238",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155087",
+            "fromID": "116238",
+            "toID": "27509",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155088",
+            "fromID": "116238",
+            "toID": "116239",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155089",
+            "fromID": "116239",
+            "toID": "116237",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155090",
+            "fromID": "116240",
+            "toID": "27512",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155091",
+            "fromID": "27514",
+            "toID": "116240",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155092",
+            "fromID": "27512",
+            "toID": "116237",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155093",
+            "fromID": "27514",
+            "toID": "116238",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155094",
+            "fromID": "116241",
+            "toID": "27515",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155095",
+            "fromID": "27517",
+            "toID": "116241",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155096",
+            "fromID": "27515",
+            "toID": "116242",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155097",
+            "fromID": "116242",
+            "toID": "27512",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155098",
+            "fromID": "27514",
+            "toID": "116243",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155099",
+            "fromID": "116243",
+            "toID": "27517",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155100",
+            "fromID": "116243",
+            "toID": "116244",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155101",
+            "fromID": "116244",
+            "toID": "116242",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155102",
+            "fromID": "116245",
+            "toID": "27520",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155103",
+            "fromID": "27522",
+            "toID": "116245",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155104",
+            "fromID": "116247",
+            "toID": "116248",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155105",
+            "fromID": "27499",
+            "toID": "116247",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155106",
+            "fromID": "27496",
+            "toID": "116249",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155107",
+            "fromID": "116249",
+            "toID": "27499",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155108",
+            "fromID": "27499",
+            "toID": "116250",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155109",
+            "fromID": "116250",
+            "toID": "27504",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155110",
+            "fromID": "27502",
+            "toID": "116251",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155111",
+            "fromID": "116251",
+            "toID": "116248",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155112",
+            "fromID": "116250",
+            "toID": "116252",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155113",
+            "fromID": "116252",
+            "toID": "116251",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155114",
+            "fromID": "27514",
+            "toID": "116253",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155115",
+            "fromID": "116253",
+            "toID": "27522",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155116",
+            "fromID": "27520",
+            "toID": "116254",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155117",
+            "fromID": "116254",
+            "toID": "27512",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155118",
+            "fromID": "116253",
+            "toID": "116255",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "155119",
+            "fromID": "116255",
+            "toID": "116254",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "27496",
+            "personID": "488",
+            "timestamp": "2014-02-28 15:12:55",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27499",
+            "personID": "488",
+            "timestamp": "2014-02-28 15:12:55",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27504",
+            "personID": "488",
+            "timestamp": "2014-02-28 15:12:55",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27509",
+            "personID": "488",
+            "timestamp": "2014-02-28 15:12:55",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27514",
+            "personID": "488",
+            "timestamp": "2014-02-28 15:12:55",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27517",
+            "personID": "488",
+            "timestamp": "2014-02-28 15:12:55",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27522",
+            "personID": "488",
+            "timestamp": "2014-02-28 15:12:55",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27496",
+            "personID": "0",
+            "timestamp": "2015-12-03 22:41:40",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27504",
+            "personID": "0",
+            "timestamp": "2015-12-03 22:41:40",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27509",
+            "personID": "0",
+            "timestamp": "2015-12-03 22:41:40",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27514",
+            "personID": "0",
+            "timestamp": "2015-12-03 22:41:40",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27517",
+            "personID": "0",
+            "timestamp": "2015-12-03 22:41:40",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "27522",
+            "personID": "0",
+            "timestamp": "2015-12-03 22:41:40",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

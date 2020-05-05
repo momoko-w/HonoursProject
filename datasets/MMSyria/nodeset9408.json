@@ -1,1 +1,1009 @@
-{"nodes":[{"nodeID":"179891","text":"Kenan : We might come back to that","type":"L","timestamp":"2016-07-06 15:34:43"},{"nodeID":"179892","text":"Asserting","type":"YA","timestamp":"2016-07-06 15:34:43","scheme":"Asserting","schemeID":"74"},{"nodeID":"179893","text":"We might come back to that","type":"I","timestamp":"2016-07-06 15:34:43"},{"nodeID":"179894","text":"Rory: Kenan : We might come back to that","type":"L","timestamp":"2016-07-06 15:34:43"},{"nodeID":"179895","text":"Kenan : I want to pursue this idea of intervention","type":"L","timestamp":"2016-07-06 15:34:43"},{"nodeID":"179896","text":"Asserting","type":"YA","timestamp":"2016-07-06 15:34:43","scheme":"Asserting","schemeID":"74"},{"nodeID":"179897","text":"I want to pursue this idea of intervention","type":"I","timestamp":"2016-07-06 15:34:43"},{"nodeID":"179898","text":"Rory: Kenan : I want to pursue this idea of intervention","type":"L","timestamp":"2016-07-06 15:34:43"},{"nodeID":"179899","text":"Kenan : Would you agree that liberal democracy is morally superior to dictatorships, authoritarian regimes, Islamist government and so on","type":"L","timestamp":"2016-07-06 15:34:43"},{"nodeID":"179900","text":"Assertive Questioning","type":"YA","timestamp":"2016-07-06 15:34:43","scheme":"AssertiveQuestioning","schemeID":"73"},{"nodeID":"179901","text":"liberal democracy is morally superior to dictatorships, authoritarian regimes, Islamist government and so on","type":"I","timestamp":"2016-07-06 15:34:43"},{"nodeID":"179902","text":"Rory: Kenan : Would you agree that liberal democracy is morally superior to dictatorships, authoritarian regimes, Islamist government and so on","type":"L","timestamp":"2016-07-06 15:34:44"},{"nodeID":"179903","text":"Default Transition","type":"TA","timestamp":"2016-07-06 15:34:44","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179904","text":"Default Transition","type":"TA","timestamp":"2016-07-06 15:34:44","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179905","text":"Alan : Absolutely","type":"L","timestamp":"2016-07-06 15:34:44"},{"nodeID":"179906","text":"Rory: Alan : Absolutely","type":"L","timestamp":"2016-07-06 15:34:44"},{"nodeID":"179907","text":"Default Transition","type":"TA","timestamp":"2016-07-06 15:34:44","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179908","text":"Agreeing","type":"YA","timestamp":"2016-07-06 15:34:44","scheme":"Agreeing","schemeID":"77"},{"nodeID":"179909","text":"Alan : Liberal democracy is the ultimate form of government as far as we're concerned","type":"L","timestamp":"2016-07-06 15:34:44"},{"nodeID":"179910","text":"Asserting","type":"YA","timestamp":"2016-07-06 15:34:44","scheme":"Asserting","schemeID":"74"},{"nodeID":"179911","text":"Liberal democracy is the ultimate form of government as far as we're concerned","type":"I","timestamp":"2016-07-06 15:34:44"},{"nodeID":"179912","text":"Rory: Alan : Liberal democracy is the ultimate form of government as far as we're concerned","type":"L","timestamp":"2016-07-06 15:34:44"},{"nodeID":"179913","text":"Default Transition","type":"TA","timestamp":"2016-07-06 15:34:44","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179914","text":"Default Inference","type":"RA","timestamp":"2016-07-06 15:34:44","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179915","text":"Arguing","type":"YA","timestamp":"2016-07-06 15:34:45","scheme":"Arguing","schemeID":"80"},{"nodeID":"179916","text":"Alan : it's very important, very cognisant to take what happens in each country after - or whenever there is an election or some attempt to enforce free will","type":"L","timestamp":"2016-07-06 15:34:45"},{"nodeID":"179917","text":"Asserting","type":"YA","timestamp":"2016-07-06 15:34:45","scheme":"Asserting","schemeID":"74"},{"nodeID":"179918","text":"it's very important, very cognisant to take what happens in each country after - or whenever there is an election or some attempt to enforce free will","type":"I","timestamp":"2016-07-06 15:34:45"},{"nodeID":"179919","text":"Rory: Alan : it's very important, very cognisant to take what happens in each country after - or whenever there is an election or some attempt to enforce free will","type":"L","timestamp":"2016-07-06 15:34:45"},{"nodeID":"179920","text":"Default Transition","type":"TA","timestamp":"2016-07-06 15:34:45","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179921","text":"Alan : you cannot force democracy on people","type":"L","timestamp":"2016-07-06 15:34:45"},{"nodeID":"179922","text":"Asserting","type":"YA","timestamp":"2016-07-06 15:34:45","scheme":"Asserting","schemeID":"74"},{"nodeID":"179923","text":"you cannot force democracy on people","type":"I","timestamp":"2016-07-06 15:34:45"},{"nodeID":"179924","text":"Rory: Alan : you cannot force democracy on people","type":"L","timestamp":"2016-07-06 15:34:45"},{"nodeID":"179925","text":"Default Transition","type":"TA","timestamp":"2016-07-06 15:34:45","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179926","text":"Default Inference","type":"RA","timestamp":"2016-07-06 15:34:45","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179927","text":"Arguing","type":"YA","timestamp":"2016-07-06 15:34:46","scheme":"Arguing","schemeID":"80"},{"nodeID":"179928","text":"Alan : that is very important to note","type":"L","timestamp":"2016-07-06 15:34:46"},{"nodeID":"179929","text":"Asserting","type":"YA","timestamp":"2016-07-06 15:34:46","scheme":"Asserting","schemeID":"74"},{"nodeID":"179930","text":"that is very important to note","type":"I","timestamp":"2016-07-06 15:34:46"},{"nodeID":"179931","text":"Rory: Alan : that is very important to note","type":"L","timestamp":"2016-07-06 15:34:46"},{"nodeID":"179932","text":"Alan : you can't do that","type":"L","timestamp":"2016-07-06 15:34:46"},{"nodeID":"179933","text":"Asserting","type":"YA","timestamp":"2016-07-06 15:34:46","scheme":"Asserting","schemeID":"74"},{"nodeID":"179934","text":"you can't do that","type":"I","timestamp":"2016-07-06 15:34:46"},{"nodeID":"179935","text":"Rory: Alan : you can't do that","type":"L","timestamp":"2016-07-06 15:34:46"},{"nodeID":"179936","text":"Alan : It is the ultimate form of government","type":"L","timestamp":"2016-07-06 15:34:46"},{"nodeID":"179937","text":"Asserting","type":"YA","timestamp":"2016-07-06 15:34:46","scheme":"Asserting","schemeID":"74"},{"nodeID":"179938","text":"It is the ultimate form of government","type":"I","timestamp":"2016-07-06 15:34:46"},{"nodeID":"179939","text":"Rory: Alan : It is the ultimate form of government","type":"L","timestamp":"2016-07-06 15:34:46"},{"nodeID":"179940","text":"Alan : it provides freedom of the individual and expression of choice","type":"L","timestamp":"2016-07-06 15:34:47"},{"nodeID":"179941","text":"Asserting","type":"YA","timestamp":"2016-07-06 15:34:47","scheme":"Asserting","schemeID":"74"},{"nodeID":"179942","text":"it provides freedom of the individual and expression of choice","type":"I","timestamp":"2016-07-06 15:34:47"},{"nodeID":"179943","text":"Rory: Alan : it provides freedom of the individual and expression of choice","type":"L","timestamp":"2016-07-06 15:34:47"},{"nodeID":"179944","text":"Default Transition","type":"TA","timestamp":"2016-07-06 15:34:47","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179945","text":"Default Inference","type":"RA","timestamp":"2016-07-06 15:34:47","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179946","text":"Arguing","type":"YA","timestamp":"2016-07-06 15:34:47","scheme":"Arguing","schemeID":"80"},{"nodeID":"179947","text":"Alan : Any other form of government that doesn't inherently discriminates in some way, shape or form","type":"L","timestamp":"2016-07-06 15:34:47"},{"nodeID":"179948","text":"Asserting","type":"YA","timestamp":"2016-07-06 15:34:47","scheme":"Asserting","schemeID":"74"},{"nodeID":"179949","text":"Any other form of government that doesn't inherently discriminates in some way, shape or form","type":"I","timestamp":"2016-07-06 15:34:47"},{"nodeID":"179950","text":"Rory: Alan : Any other form of government that doesn't inherently discriminates in some way, shape or form","type":"L","timestamp":"2016-07-06 15:34:47"},{"nodeID":"179951","text":"Default Transition","type":"TA","timestamp":"2016-07-06 15:34:47","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179952","text":"Default Inference","type":"RA","timestamp":"2016-07-06 15:34:48","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179953","text":"Arguing","type":"YA","timestamp":"2016-07-06 15:34:48","scheme":"Arguing","schemeID":"80"},{"nodeID":"179954","text":"Default Transition","type":"TA","timestamp":"2016-07-06 15:34:48","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179955","text":"Default Rephrase","type":"MA","timestamp":"2016-07-06 15:34:48","scheme":"Default Rephrase","schemeID":"144"},{"nodeID":"179956","text":"Restating","type":"YA","timestamp":"2016-07-06 15:34:48","scheme":"Restating","schemeID":"101"},{"nodeID":"179957","text":"Default Transition","type":"TA","timestamp":"2016-07-06 15:34:48","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179958","text":"Default Rephrase","type":"MA","timestamp":"2016-07-06 15:34:48","scheme":"Default Rephrase","schemeID":"144"},{"nodeID":"179959","text":"Restating","type":"YA","timestamp":"2016-07-06 15:34:48","scheme":"Restating","schemeID":"101"},{"nodeID":"179960","text":"Default Transition","type":"TA","timestamp":"2016-07-06 15:34:48","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179961","text":"Default Rephrase","type":"MA","timestamp":"2016-07-06 15:34:48","scheme":"Default Rephrase","schemeID":"144"},{"nodeID":"179962","text":"Restating","type":"YA","timestamp":"2016-07-06 15:34:48","scheme":"Restating","schemeID":"101"},{"nodeID":"179963","text":"Kenan : I would agree with you on that, on both points","type":"L","timestamp":"2016-07-06 15:34:48"},{"nodeID":"179964","text":"Rory: Kenan : I would agree with you on that, on both points","type":"L","timestamp":"2016-07-06 15:34:48"},{"nodeID":"179965","text":"Default Transition","type":"TA","timestamp":"2016-07-06 15:34:49","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179966","text":"Agreeing","type":"YA","timestamp":"2016-07-06 15:34:49","scheme":"Agreeing","schemeID":"77"}],"edges":[{"edgeID":"219784","fromID":"179891","toID":"179892","formEdgeID":null},{"edgeID":"219789","fromID":"179891","toID":"179903","formEdgeID":null},{"edgeID":"219783","fromID":"179892","toID":"179893","formEdgeID":null},{"edgeID":"219786","fromID":"179895","toID":"179896","formEdgeID":null},{"edgeID":"219791","fromID":"179895","toID":"179904","formEdgeID":null},{"edgeID":"219785","fromID":"179896","toID":"179897","formEdgeID":null},{"edgeID":"219788","fromID":"179899","toID":"179900","formEdgeID":null},{"edgeID":"219793","fromID":"179899","toID":"179907","formEdgeID":null},{"edgeID":"219799","fromID":"179899","toID":"179913","formEdgeID":null},{"edgeID":"219787","fromID":"179900","toID":"179901","formEdgeID":null},{"edgeID":"219790","fromID":"179903","toID":"179895","formEdgeID":null},{"edgeID":"219792","fromID":"179904","toID":"179899","formEdgeID":null},{"edgeID":"219794","fromID":"179907","toID":"179905","formEdgeID":null},{"edgeID":"219795","fromID":"179907","toID":"179908","formEdgeID":null},{"edgeID":"219796","fromID":"179908","toID":"179901","formEdgeID":null},{"edgeID":"219798","fromID":"179909","toID":"179910","formEdgeID":null},{"edgeID":"219807","fromID":"179909","toID":"179920","formEdgeID":null},{"edgeID":"219839","fromID":"179909","toID":"179954","formEdgeID":null},{"edgeID":"219797","fromID":"179910","toID":"179911","formEdgeID":null},{"edgeID":"219801","fromID":"179911","toID":"179914","formEdgeID":null},{"edgeID":"219800","fromID":"179913","toID":"179909","formEdgeID":null},{"edgeID":"219803","fromID":"179913","toID":"179915","formEdgeID":null},{"edgeID":"219802","fromID":"179914","toID":"179901","formEdgeID":null},{"edgeID":"219804","fromID":"179915","toID":"179914","formEdgeID":null},{"edgeID":"219806","fromID":"179916","toID":"179917","formEdgeID":null},{"edgeID":"219811","fromID":"179916","toID":"179925","formEdgeID":null},{"edgeID":"219845","fromID":"179916","toID":"179957","formEdgeID":null},{"edgeID":"219805","fromID":"179917","toID":"179918","formEdgeID":null},{"edgeID":"219808","fromID":"179920","toID":"179916","formEdgeID":null},{"edgeID":"219810","fromID":"179921","toID":"179922","formEdgeID":null},{"edgeID":"219851","fromID":"179921","toID":"179960","formEdgeID":null},{"edgeID":"219809","fromID":"179922","toID":"179923","formEdgeID":null},{"edgeID":"219813","fromID":"179923","toID":"179926","formEdgeID":null},{"edgeID":"219812","fromID":"179925","toID":"179921","formEdgeID":null},{"edgeID":"219815","fromID":"179925","toID":"179927","formEdgeID":null},{"edgeID":"219814","fromID":"179926","toID":"179918","formEdgeID":null},{"edgeID":"219816","fromID":"179927","toID":"179926","formEdgeID":null},{"edgeID":"219818","fromID":"179928","toID":"179929","formEdgeID":null},{"edgeID":"219817","fromID":"179929","toID":"179930","formEdgeID":null},{"edgeID":"219847","fromID":"179930","toID":"179958","formEdgeID":null},{"edgeID":"219820","fromID":"179932","toID":"179933","formEdgeID":null},{"edgeID":"219819","fromID":"179933","toID":"179934","formEdgeID":null},{"edgeID":"219853","fromID":"179934","toID":"179961","formEdgeID":null},{"edgeID":"219822","fromID":"179936","toID":"179937","formEdgeID":null},{"edgeID":"219825","fromID":"179936","toID":"179944","formEdgeID":null},{"edgeID":"219833","fromID":"179936","toID":"179951","formEdgeID":null},{"edgeID":"219821","fromID":"179937","toID":"179938","formEdgeID":null},{"edgeID":"219841","fromID":"179938","toID":"179955","formEdgeID":null},{"edgeID":"219824","fromID":"179940","toID":"179941","formEdgeID":null},{"edgeID":"219823","fromID":"179941","toID":"179942","formEdgeID":null},{"edgeID":"219827","fromID":"179942","toID":"179945","formEdgeID":null},{"edgeID":"219826","fromID":"179944","toID":"179940","formEdgeID":null},{"edgeID":"219829","fromID":"179944","toID":"179946","formEdgeID":null},{"edgeID":"219828","fromID":"179945","toID":"179938","formEdgeID":null},{"edgeID":"219830","fromID":"179946","toID":"179945","formEdgeID":null},{"edgeID":"219832","fromID":"179947","toID":"179948","formEdgeID":null},{"edgeID":"219857","fromID":"179947","toID":"179965","formEdgeID":null},{"edgeID":"219831","fromID":"179948","toID":"179949","formEdgeID":null},{"edgeID":"219835","fromID":"179949","toID":"179952","formEdgeID":null},{"edgeID":"219834","fromID":"179951","toID":"179947","formEdgeID":null},{"edgeID":"219837","fromID":"179951","toID":"179953","formEdgeID":null},{"edgeID":"219836","fromID":"179952","toID":"179938","formEdgeID":null},{"edgeID":"219838","fromID":"179953","toID":"179952","formEdgeID":null},{"edgeID":"219840","fromID":"179954","toID":"179936","formEdgeID":null},{"edgeID":"219843","fromID":"179954","toID":"179956","formEdgeID":null},{"edgeID":"219842","fromID":"179955","toID":"179911","formEdgeID":null},{"edgeID":"219844","fromID":"179956","toID":"179955","formEdgeID":null},{"edgeID":"219846","fromID":"179957","toID":"179928","formEdgeID":null},{"edgeID":"219849","fromID":"179957","toID":"179959","formEdgeID":null},{"edgeID":"219848","fromID":"179958","toID":"179918","formEdgeID":null},{"edgeID":"219850","fromID":"179959","toID":"179958","formEdgeID":null},{"edgeID":"219852","fromID":"179960","toID":"179932","formEdgeID":null},{"edgeID":"219855","fromID":"179960","toID":"179962","formEdgeID":null},{"edgeID":"219854","fromID":"179961","toID":"179923","formEdgeID":null},{"edgeID":"219856","fromID":"179962","toID":"179961","formEdgeID":null},{"edgeID":"219858","fromID":"179965","toID":"179963","formEdgeID":null},{"edgeID":"219859","fromID":"179965","toID":"179966","formEdgeID":null},{"edgeID":"219860","fromID":"179966","toID":"179949","formEdgeID":null}],"locutions":[]}
+{
+    "nodes": [
+        {
+            "nodeID": "179891",
+            "text": "Kenan : We might come back to that",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:43"
+        },
+        {
+            "nodeID": "179892",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:43",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179893",
+            "text": "We might come back to that",
+            "type": "I",
+            "timestamp": "2016-07-06 15:34:43"
+        },
+        {
+            "nodeID": "179894",
+            "text": "Rory: Kenan : We might come back to that",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:43"
+        },
+        {
+            "nodeID": "179895",
+            "text": "Kenan : I want to pursue this idea of intervention",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:43"
+        },
+        {
+            "nodeID": "179896",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:43",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179897",
+            "text": "I want to pursue this idea of intervention",
+            "type": "I",
+            "timestamp": "2016-07-06 15:34:43"
+        },
+        {
+            "nodeID": "179898",
+            "text": "Rory: Kenan : I want to pursue this idea of intervention",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:43"
+        },
+        {
+            "nodeID": "179899",
+            "text": "Kenan : Would you agree that liberal democracy is morally superior to dictatorships, authoritarian regimes, Islamist government and so on",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:43"
+        },
+        {
+            "nodeID": "179900",
+            "text": "Assertive Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:43",
+            "scheme": "AssertiveQuestioning",
+            "schemeID": "73"
+        },
+        {
+            "nodeID": "179901",
+            "text": "liberal democracy is morally superior to dictatorships, authoritarian regimes, Islamist government and so on",
+            "type": "I",
+            "timestamp": "2016-07-06 15:34:43"
+        },
+        {
+            "nodeID": "179902",
+            "text": "Rory: Kenan : Would you agree that liberal democracy is morally superior to dictatorships, authoritarian regimes, Islamist government and so on",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:44"
+        },
+        {
+            "nodeID": "179903",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 15:34:44",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179904",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 15:34:44",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179905",
+            "text": "Alan : Absolutely",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:44"
+        },
+        {
+            "nodeID": "179906",
+            "text": "Rory: Alan : Absolutely",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:44"
+        },
+        {
+            "nodeID": "179907",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 15:34:44",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179908",
+            "text": "Agreeing",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:44",
+            "scheme": "Agreeing",
+            "schemeID": "77"
+        },
+        {
+            "nodeID": "179909",
+            "text": "Alan : Liberal democracy is the ultimate form of government as far as we're concerned",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:44"
+        },
+        {
+            "nodeID": "179910",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:44",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179911",
+            "text": "Liberal democracy is the ultimate form of government as far as we're concerned",
+            "type": "I",
+            "timestamp": "2016-07-06 15:34:44"
+        },
+        {
+            "nodeID": "179912",
+            "text": "Rory: Alan : Liberal democracy is the ultimate form of government as far as we're concerned",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:44"
+        },
+        {
+            "nodeID": "179913",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 15:34:44",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179914",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-06 15:34:44",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179915",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:45",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179916",
+            "text": "Alan : it's very important, very cognisant to take what happens in each country after - or whenever there is an election or some attempt to enforce free will",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:45"
+        },
+        {
+            "nodeID": "179917",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:45",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179918",
+            "text": "it's very important, very cognisant to take what happens in each country after - or whenever there is an election or some attempt to enforce free will",
+            "type": "I",
+            "timestamp": "2016-07-06 15:34:45"
+        },
+        {
+            "nodeID": "179919",
+            "text": "Rory: Alan : it's very important, very cognisant to take what happens in each country after - or whenever there is an election or some attempt to enforce free will",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:45"
+        },
+        {
+            "nodeID": "179920",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 15:34:45",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179921",
+            "text": "Alan : you cannot force democracy on people",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:45"
+        },
+        {
+            "nodeID": "179922",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:45",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179923",
+            "text": "you cannot force democracy on people",
+            "type": "I",
+            "timestamp": "2016-07-06 15:34:45"
+        },
+        {
+            "nodeID": "179924",
+            "text": "Rory: Alan : you cannot force democracy on people",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:45"
+        },
+        {
+            "nodeID": "179925",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 15:34:45",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179926",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-06 15:34:45",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179927",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:46",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179928",
+            "text": "Alan : that is very important to note",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:46"
+        },
+        {
+            "nodeID": "179929",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:46",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179930",
+            "text": "that is very important to note",
+            "type": "I",
+            "timestamp": "2016-07-06 15:34:46"
+        },
+        {
+            "nodeID": "179931",
+            "text": "Rory: Alan : that is very important to note",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:46"
+        },
+        {
+            "nodeID": "179932",
+            "text": "Alan : you can't do that",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:46"
+        },
+        {
+            "nodeID": "179933",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:46",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179934",
+            "text": "you can't do that",
+            "type": "I",
+            "timestamp": "2016-07-06 15:34:46"
+        },
+        {
+            "nodeID": "179935",
+            "text": "Rory: Alan : you can't do that",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:46"
+        },
+        {
+            "nodeID": "179936",
+            "text": "Alan : It is the ultimate form of government",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:46"
+        },
+        {
+            "nodeID": "179937",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:46",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179938",
+            "text": "It is the ultimate form of government",
+            "type": "I",
+            "timestamp": "2016-07-06 15:34:46"
+        },
+        {
+            "nodeID": "179939",
+            "text": "Rory: Alan : It is the ultimate form of government",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:46"
+        },
+        {
+            "nodeID": "179940",
+            "text": "Alan : it provides freedom of the individual and expression of choice",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:47"
+        },
+        {
+            "nodeID": "179941",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:47",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179942",
+            "text": "it provides freedom of the individual and expression of choice",
+            "type": "I",
+            "timestamp": "2016-07-06 15:34:47"
+        },
+        {
+            "nodeID": "179943",
+            "text": "Rory: Alan : it provides freedom of the individual and expression of choice",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:47"
+        },
+        {
+            "nodeID": "179944",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 15:34:47",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179945",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-06 15:34:47",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179946",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:47",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179947",
+            "text": "Alan : Any other form of government that doesn't inherently discriminates in some way, shape or form",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:47"
+        },
+        {
+            "nodeID": "179948",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:47",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179949",
+            "text": "Any other form of government that doesn't inherently discriminates in some way, shape or form",
+            "type": "I",
+            "timestamp": "2016-07-06 15:34:47"
+        },
+        {
+            "nodeID": "179950",
+            "text": "Rory: Alan : Any other form of government that doesn't inherently discriminates in some way, shape or form",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:47"
+        },
+        {
+            "nodeID": "179951",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 15:34:47",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179952",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-06 15:34:48",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179953",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:48",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179954",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 15:34:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179955",
+            "text": "Default Rephrase",
+            "type": "MA",
+            "timestamp": "2016-07-06 15:34:48",
+            "scheme": "Default Rephrase",
+            "schemeID": "144"
+        },
+        {
+            "nodeID": "179956",
+            "text": "Restating",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:48",
+            "scheme": "Restating",
+            "schemeID": "101"
+        },
+        {
+            "nodeID": "179957",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 15:34:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179958",
+            "text": "Default Rephrase",
+            "type": "MA",
+            "timestamp": "2016-07-06 15:34:48",
+            "scheme": "Default Rephrase",
+            "schemeID": "144"
+        },
+        {
+            "nodeID": "179959",
+            "text": "Restating",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:48",
+            "scheme": "Restating",
+            "schemeID": "101"
+        },
+        {
+            "nodeID": "179960",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 15:34:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179961",
+            "text": "Default Rephrase",
+            "type": "MA",
+            "timestamp": "2016-07-06 15:34:48",
+            "scheme": "Default Rephrase",
+            "schemeID": "144"
+        },
+        {
+            "nodeID": "179962",
+            "text": "Restating",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:48",
+            "scheme": "Restating",
+            "schemeID": "101"
+        },
+        {
+            "nodeID": "179963",
+            "text": "Kenan : I would agree with you on that, on both points",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:48"
+        },
+        {
+            "nodeID": "179964",
+            "text": "Rory: Kenan : I would agree with you on that, on both points",
+            "type": "L",
+            "timestamp": "2016-07-06 15:34:48"
+        },
+        {
+            "nodeID": "179965",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 15:34:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179966",
+            "text": "Agreeing",
+            "type": "YA",
+            "timestamp": "2016-07-06 15:34:49",
+            "scheme": "Agreeing",
+            "schemeID": "77"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "219784",
+            "fromID": "179891",
+            "toID": "179892",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219789",
+            "fromID": "179891",
+            "toID": "179903",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219783",
+            "fromID": "179892",
+            "toID": "179893",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219786",
+            "fromID": "179895",
+            "toID": "179896",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219791",
+            "fromID": "179895",
+            "toID": "179904",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219785",
+            "fromID": "179896",
+            "toID": "179897",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219788",
+            "fromID": "179899",
+            "toID": "179900",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219793",
+            "fromID": "179899",
+            "toID": "179907",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219799",
+            "fromID": "179899",
+            "toID": "179913",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219787",
+            "fromID": "179900",
+            "toID": "179901",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219790",
+            "fromID": "179903",
+            "toID": "179895",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219792",
+            "fromID": "179904",
+            "toID": "179899",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219794",
+            "fromID": "179907",
+            "toID": "179905",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219795",
+            "fromID": "179907",
+            "toID": "179908",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219796",
+            "fromID": "179908",
+            "toID": "179901",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219798",
+            "fromID": "179909",
+            "toID": "179910",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219807",
+            "fromID": "179909",
+            "toID": "179920",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219839",
+            "fromID": "179909",
+            "toID": "179954",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219797",
+            "fromID": "179910",
+            "toID": "179911",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219801",
+            "fromID": "179911",
+            "toID": "179914",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219800",
+            "fromID": "179913",
+            "toID": "179909",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219803",
+            "fromID": "179913",
+            "toID": "179915",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219802",
+            "fromID": "179914",
+            "toID": "179901",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219804",
+            "fromID": "179915",
+            "toID": "179914",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219806",
+            "fromID": "179916",
+            "toID": "179917",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219811",
+            "fromID": "179916",
+            "toID": "179925",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219845",
+            "fromID": "179916",
+            "toID": "179957",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219805",
+            "fromID": "179917",
+            "toID": "179918",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219808",
+            "fromID": "179920",
+            "toID": "179916",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219810",
+            "fromID": "179921",
+            "toID": "179922",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219851",
+            "fromID": "179921",
+            "toID": "179960",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219809",
+            "fromID": "179922",
+            "toID": "179923",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219813",
+            "fromID": "179923",
+            "toID": "179926",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219812",
+            "fromID": "179925",
+            "toID": "179921",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219815",
+            "fromID": "179925",
+            "toID": "179927",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219814",
+            "fromID": "179926",
+            "toID": "179918",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219816",
+            "fromID": "179927",
+            "toID": "179926",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219818",
+            "fromID": "179928",
+            "toID": "179929",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219817",
+            "fromID": "179929",
+            "toID": "179930",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219847",
+            "fromID": "179930",
+            "toID": "179958",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219820",
+            "fromID": "179932",
+            "toID": "179933",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219819",
+            "fromID": "179933",
+            "toID": "179934",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219853",
+            "fromID": "179934",
+            "toID": "179961",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219822",
+            "fromID": "179936",
+            "toID": "179937",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219825",
+            "fromID": "179936",
+            "toID": "179944",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219833",
+            "fromID": "179936",
+            "toID": "179951",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219821",
+            "fromID": "179937",
+            "toID": "179938",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219841",
+            "fromID": "179938",
+            "toID": "179955",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219824",
+            "fromID": "179940",
+            "toID": "179941",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219823",
+            "fromID": "179941",
+            "toID": "179942",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219827",
+            "fromID": "179942",
+            "toID": "179945",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219826",
+            "fromID": "179944",
+            "toID": "179940",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219829",
+            "fromID": "179944",
+            "toID": "179946",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219828",
+            "fromID": "179945",
+            "toID": "179938",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219830",
+            "fromID": "179946",
+            "toID": "179945",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219832",
+            "fromID": "179947",
+            "toID": "179948",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219857",
+            "fromID": "179947",
+            "toID": "179965",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219831",
+            "fromID": "179948",
+            "toID": "179949",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219835",
+            "fromID": "179949",
+            "toID": "179952",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219834",
+            "fromID": "179951",
+            "toID": "179947",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219837",
+            "fromID": "179951",
+            "toID": "179953",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219836",
+            "fromID": "179952",
+            "toID": "179938",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219838",
+            "fromID": "179953",
+            "toID": "179952",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219840",
+            "fromID": "179954",
+            "toID": "179936",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219843",
+            "fromID": "179954",
+            "toID": "179956",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219842",
+            "fromID": "179955",
+            "toID": "179911",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219844",
+            "fromID": "179956",
+            "toID": "179955",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219846",
+            "fromID": "179957",
+            "toID": "179928",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219849",
+            "fromID": "179957",
+            "toID": "179959",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219848",
+            "fromID": "179958",
+            "toID": "179918",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219850",
+            "fromID": "179959",
+            "toID": "179958",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219852",
+            "fromID": "179960",
+            "toID": "179932",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219855",
+            "fromID": "179960",
+            "toID": "179962",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219854",
+            "fromID": "179961",
+            "toID": "179923",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219856",
+            "fromID": "179962",
+            "toID": "179961",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219858",
+            "fromID": "179965",
+            "toID": "179963",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219859",
+            "fromID": "179965",
+            "toID": "179966",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219860",
+            "fromID": "179966",
+            "toID": "179949",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": []
+}

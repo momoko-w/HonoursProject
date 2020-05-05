@@ -1,1 +1,774 @@
-{"nodes":[{"nodeID":"180902","text":"Rory: Michael : If this was a straightforward case of ethnic genocide, with a million being killed, one people wiping out another","type":"L","timestamp":"2016-07-11 11:44:13"},{"nodeID":"180903","text":"Rory: Michael : would we be justified in intervening","type":"L","timestamp":"2016-07-11 11:44:13"},{"nodeID":"180904","text":"Medhi : I would be much more inclined towards supporting such an intervention","type":"L","timestamp":"2016-07-11 11:44:13"},{"nodeID":"180905","text":"Rory: Medhi : I would be much more inclined towards supporting such an intervention","type":"L","timestamp":"2016-07-11 11:44:13"},{"nodeID":"180906","text":"Medhi :  it would have to be in specific criteria","type":"L","timestamp":"2016-07-11 11:44:13"},{"nodeID":"180907","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:44:13","scheme":"Asserting","schemeID":"74"},{"nodeID":"180908","text":"it would have to be in specific criteria","type":"I","timestamp":"2016-07-11 11:44:13"},{"nodeID":"180909","text":"Rory: Medhi :  it would have to be in specific criteria","type":"L","timestamp":"2016-07-11 11:44:13"},{"nodeID":"180910","text":"Alan : responsibility to correct","type":"L","timestamp":"2016-07-11 11:44:14"},{"nodeID":"180911","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:44:14","scheme":"Asserting","schemeID":"74"},{"nodeID":"180912","text":"responsibility to correct","type":"I","timestamp":"2016-07-11 11:44:14"},{"nodeID":"180913","text":"Rory: Alan : responsibility to correct","type":"L","timestamp":"2016-07-11 11:44:14"},{"nodeID":"180914","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:44:14","scheme":"Asserting","schemeID":"74"},{"nodeID":"180915","text":"Medhi : Alan : responsibility to correct","type":"L","timestamp":"2016-07-11 11:44:14"},{"nodeID":"180916","text":"Rory: Medhi : Alan : responsibility to correct","type":"L","timestamp":"2016-07-11 11:44:14"},{"nodeID":"180917","text":"Medhi : that was laid out by the UN in 200 are 5, six criteria, very similar to last resort, reasonable authority, reasonable prospect of success, those criteria met, I think there is a case","type":"L","timestamp":"2016-07-11 11:44:14"},{"nodeID":"180918","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:44:14","scheme":"Asserting","schemeID":"74"},{"nodeID":"180919","text":"that was laid out by the UN in 200 are 5, six criteria, very similar to last resort, reasonable authority, reasonable prospect of success, those criteria met, I think there is a case","type":"I","timestamp":"2016-07-11 11:44:14"},{"nodeID":"180920","text":"Rory: Medhi : that was laid out by the UN in 200 are 5, six criteria, very similar to last resort, reasonable authority, reasonable prospect of success, those criteria met, I think there is a case","type":"L","timestamp":"2016-07-11 11:44:14"},{"nodeID":"180921","text":"Medhi : The problem with our conflicts in recent years, you mentioned Rwanda and Bosnia, the problem is the conflicts we have had since then haven't met those criteria","type":"L","timestamp":"2016-07-11 11:44:14"},{"nodeID":"180922","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:44:15","scheme":"Asserting","schemeID":"74"},{"nodeID":"180923","text":"The problem with our conflicts in recent years, you mentioned Rwanda and Bosnia, the problem is the conflicts we have had since then haven't met those criteria","type":"I","timestamp":"2016-07-11 11:44:15"},{"nodeID":"180924","text":"Rory: Medhi : The problem with our conflicts in recent years, you mentioned Rwanda and Bosnia, the problem is the conflicts we have had since then haven't met those criteria","type":"L","timestamp":"2016-07-11 11:44:15"},{"nodeID":"180925","text":"Medhi :  They are never last resorts","type":"L","timestamp":"2016-07-11 11:44:15"},{"nodeID":"180926","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:44:15","scheme":"Asserting","schemeID":"74"},{"nodeID":"180927","text":"They are never last resorts","type":"I","timestamp":"2016-07-11 11:44:15"},{"nodeID":"180928","text":"Rory: Medhi :  They are never last resorts","type":"L","timestamp":"2016-07-11 11:44:15"},{"nodeID":"180929","text":"Medhi :  they rarely have legal authority","type":"L","timestamp":"2016-07-11 11:44:15"},{"nodeID":"180930","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:44:15","scheme":"Asserting","schemeID":"74"},{"nodeID":"180931","text":"they rarely have legal authority","type":"I","timestamp":"2016-07-11 11:44:15"},{"nodeID":"180932","text":"Rory: Medhi :  they rarely have legal authority","type":"L","timestamp":"2016-07-11 11:44:15"},{"nodeID":"180933","text":"Medhi : they often tend to make matters worse, not better","type":"L","timestamp":"2016-07-11 11:44:16"},{"nodeID":"180934","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:44:16","scheme":"Asserting","schemeID":"74"},{"nodeID":"180935","text":"they often tend to make matters worse, not better","type":"I","timestamp":"2016-07-11 11:44:16"},{"nodeID":"180936","text":"Rory: Medhi : they often tend to make matters worse, not better","type":"L","timestamp":"2016-07-11 11:44:16"},{"nodeID":"180937","text":"Medhi : as we have seen in Iraq, Afghanistan and Libya as well","type":"L","timestamp":"2016-07-11 11:44:16"},{"nodeID":"180938","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:44:16","scheme":"Asserting","schemeID":"74"},{"nodeID":"180939","text":"as we have seen in Iraq, Afghanistan and Libya as well","type":"I","timestamp":"2016-07-11 11:44:16"},{"nodeID":"180940","text":"Rory: Medhi : s we have seen in Iraq, Afghanistan and Libya as well","type":"L","timestamp":"2016-07-11 11:44:16"},{"nodeID":"180941","text":"Michael : If this was a straightforward case of ethnic genocide, with a million being killed, one people wiping out another, would we be justified in intervening","type":"L","timestamp":"2016-07-11 11:44:16"},{"nodeID":"180942","text":"Assertive Questioning","type":"YA","timestamp":"2016-07-11 11:44:16","scheme":"AssertiveQuestioning","schemeID":"73"},{"nodeID":"180943","text":"If this was a straightforward case of ethnic genocide, with a million being killed, one people wiping out another, we would be justified in intervening","type":"I","timestamp":"2016-07-11 11:44:16"},{"nodeID":"180944","text":"Rory: Michael : If this was a straightforward case of ethnic genocide, with a million being killed, one people wiping out another, would we be justified in intervening","type":"L","timestamp":"2016-07-11 11:44:16"},{"nodeID":"180945","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:44:16","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180946","text":"Agreeing","type":"YA","timestamp":"2016-07-11 11:44:17","scheme":"Agreeing","schemeID":"77"},{"nodeID":"180947","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:44:17","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180948","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:44:17","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180949","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:44:17","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180950","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:44:17","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180951","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:44:17","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180952","text":"Default Inference","type":"RA","timestamp":"2016-07-11 11:44:17","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180953","text":"Arguing","type":"YA","timestamp":"2016-07-11 11:44:17","scheme":"Arguing","schemeID":"80"},{"nodeID":"180954","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:44:17","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180955","text":"Default Inference","type":"RA","timestamp":"2016-07-11 11:44:17","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180956","text":"Arguing","type":"YA","timestamp":"2016-07-11 11:44:17","scheme":"Arguing","schemeID":"80"},{"nodeID":"180957","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:44:18","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180958","text":"Default Inference","type":"RA","timestamp":"2016-07-11 11:44:18","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180959","text":"Arguing","type":"YA","timestamp":"2016-07-11 11:44:18","scheme":"Arguing","schemeID":"80"},{"nodeID":"180960","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:44:18","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180961","text":"Example","type":"RA","timestamp":"2016-07-11 11:44:18","scheme":"Example","schemeID":"14"},{"nodeID":"180962","text":"Arguing","type":"YA","timestamp":"2016-07-11 11:44:18","scheme":"Arguing","schemeID":"80"}],"edges":[{"edgeID":"221018","fromID":"180904","toID":"180947","formEdgeID":null},{"edgeID":"220995","fromID":"180906","toID":"180907","formEdgeID":null},{"edgeID":"221020","fromID":"180906","toID":"180948","formEdgeID":null},{"edgeID":"220994","fromID":"180907","toID":"180908","formEdgeID":null},{"edgeID":"220997","fromID":"180910","toID":"180911","formEdgeID":null},{"edgeID":"220996","fromID":"180911","toID":"180912","formEdgeID":null},{"edgeID":"220998","fromID":"180914","toID":"180910","formEdgeID":null},{"edgeID":"220999","fromID":"180915","toID":"180914","formEdgeID":null},{"edgeID":"221022","fromID":"180915","toID":"180949","formEdgeID":null},{"edgeID":"221001","fromID":"180917","toID":"180918","formEdgeID":null},{"edgeID":"221024","fromID":"180917","toID":"180950","formEdgeID":null},{"edgeID":"221000","fromID":"180918","toID":"180919","formEdgeID":null},{"edgeID":"221003","fromID":"180921","toID":"180922","formEdgeID":null},{"edgeID":"221026","fromID":"180921","toID":"180951","formEdgeID":null},{"edgeID":"221032","fromID":"180921","toID":"180954","formEdgeID":null},{"edgeID":"221038","fromID":"180921","toID":"180957","formEdgeID":null},{"edgeID":"221002","fromID":"180922","toID":"180923","formEdgeID":null},{"edgeID":"221005","fromID":"180925","toID":"180926","formEdgeID":null},{"edgeID":"221004","fromID":"180926","toID":"180927","formEdgeID":null},{"edgeID":"221028","fromID":"180927","toID":"180952","formEdgeID":null},{"edgeID":"221007","fromID":"180929","toID":"180930","formEdgeID":null},{"edgeID":"221006","fromID":"180930","toID":"180931","formEdgeID":null},{"edgeID":"221034","fromID":"180931","toID":"180955","formEdgeID":null},{"edgeID":"221009","fromID":"180933","toID":"180934","formEdgeID":null},{"edgeID":"221044","fromID":"180933","toID":"180960","formEdgeID":null},{"edgeID":"221008","fromID":"180934","toID":"180935","formEdgeID":null},{"edgeID":"221040","fromID":"180935","toID":"180958","formEdgeID":null},{"edgeID":"221011","fromID":"180937","toID":"180938","formEdgeID":null},{"edgeID":"221010","fromID":"180938","toID":"180939","formEdgeID":null},{"edgeID":"221046","fromID":"180939","toID":"180961","formEdgeID":null},{"edgeID":"221013","fromID":"180941","toID":"180942","formEdgeID":null},{"edgeID":"221014","fromID":"180941","toID":"180945","formEdgeID":null},{"edgeID":"221012","fromID":"180942","toID":"180943","formEdgeID":null},{"edgeID":"221015","fromID":"180945","toID":"180904","formEdgeID":null},{"edgeID":"221016","fromID":"180945","toID":"180946","formEdgeID":null},{"edgeID":"221017","fromID":"180946","toID":"180943","formEdgeID":null},{"edgeID":"221019","fromID":"180947","toID":"180906","formEdgeID":null},{"edgeID":"221021","fromID":"180948","toID":"180915","formEdgeID":null},{"edgeID":"221023","fromID":"180949","toID":"180917","formEdgeID":null},{"edgeID":"221025","fromID":"180950","toID":"180921","formEdgeID":null},{"edgeID":"221027","fromID":"180951","toID":"180925","formEdgeID":null},{"edgeID":"221030","fromID":"180951","toID":"180953","formEdgeID":null},{"edgeID":"221029","fromID":"180952","toID":"180923","formEdgeID":null},{"edgeID":"221031","fromID":"180953","toID":"180952","formEdgeID":null},{"edgeID":"221033","fromID":"180954","toID":"180929","formEdgeID":null},{"edgeID":"221036","fromID":"180954","toID":"180956","formEdgeID":null},{"edgeID":"221035","fromID":"180955","toID":"180923","formEdgeID":null},{"edgeID":"221037","fromID":"180956","toID":"180955","formEdgeID":null},{"edgeID":"221039","fromID":"180957","toID":"180933","formEdgeID":null},{"edgeID":"221042","fromID":"180957","toID":"180959","formEdgeID":null},{"edgeID":"221041","fromID":"180958","toID":"180923","formEdgeID":null},{"edgeID":"221043","fromID":"180959","toID":"180958","formEdgeID":null},{"edgeID":"221045","fromID":"180960","toID":"180937","formEdgeID":null},{"edgeID":"221048","fromID":"180960","toID":"180962","formEdgeID":null},{"edgeID":"221047","fromID":"180961","toID":"180935","formEdgeID":null},{"edgeID":"221049","fromID":"180962","toID":"180961","formEdgeID":null}],"locutions":[{"nodeID":"180915","personID":"1640","timestamp":"2016-07-11 11:44:20","start":null,"end":null,"source":null}]}
+{
+    "nodes": [
+        {
+            "nodeID": "180902",
+            "text": "Rory: Michael : If this was a straightforward case of ethnic genocide, with a million being killed, one people wiping out another",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:13"
+        },
+        {
+            "nodeID": "180903",
+            "text": "Rory: Michael : would we be justified in intervening",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:13"
+        },
+        {
+            "nodeID": "180904",
+            "text": "Medhi : I would be much more inclined towards supporting such an intervention",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:13"
+        },
+        {
+            "nodeID": "180905",
+            "text": "Rory: Medhi : I would be much more inclined towards supporting such an intervention",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:13"
+        },
+        {
+            "nodeID": "180906",
+            "text": "Medhi :  it would have to be in specific criteria",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:13"
+        },
+        {
+            "nodeID": "180907",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:13",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180908",
+            "text": "it would have to be in specific criteria",
+            "type": "I",
+            "timestamp": "2016-07-11 11:44:13"
+        },
+        {
+            "nodeID": "180909",
+            "text": "Rory: Medhi :  it would have to be in specific criteria",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:13"
+        },
+        {
+            "nodeID": "180910",
+            "text": "Alan : responsibility to correct",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:14"
+        },
+        {
+            "nodeID": "180911",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:14",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180912",
+            "text": "responsibility to correct",
+            "type": "I",
+            "timestamp": "2016-07-11 11:44:14"
+        },
+        {
+            "nodeID": "180913",
+            "text": "Rory: Alan : responsibility to correct",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:14"
+        },
+        {
+            "nodeID": "180914",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:14",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180915",
+            "text": "Medhi : Alan : responsibility to correct",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:14"
+        },
+        {
+            "nodeID": "180916",
+            "text": "Rory: Medhi : Alan : responsibility to correct",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:14"
+        },
+        {
+            "nodeID": "180917",
+            "text": "Medhi : that was laid out by the UN in 200 are 5, six criteria, very similar to last resort, reasonable authority, reasonable prospect of success, those criteria met, I think there is a case",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:14"
+        },
+        {
+            "nodeID": "180918",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:14",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180919",
+            "text": "that was laid out by the UN in 200 are 5, six criteria, very similar to last resort, reasonable authority, reasonable prospect of success, those criteria met, I think there is a case",
+            "type": "I",
+            "timestamp": "2016-07-11 11:44:14"
+        },
+        {
+            "nodeID": "180920",
+            "text": "Rory: Medhi : that was laid out by the UN in 200 are 5, six criteria, very similar to last resort, reasonable authority, reasonable prospect of success, those criteria met, I think there is a case",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:14"
+        },
+        {
+            "nodeID": "180921",
+            "text": "Medhi : The problem with our conflicts in recent years, you mentioned Rwanda and Bosnia, the problem is the conflicts we have had since then haven't met those criteria",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:14"
+        },
+        {
+            "nodeID": "180922",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:15",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180923",
+            "text": "The problem with our conflicts in recent years, you mentioned Rwanda and Bosnia, the problem is the conflicts we have had since then haven't met those criteria",
+            "type": "I",
+            "timestamp": "2016-07-11 11:44:15"
+        },
+        {
+            "nodeID": "180924",
+            "text": "Rory: Medhi : The problem with our conflicts in recent years, you mentioned Rwanda and Bosnia, the problem is the conflicts we have had since then haven't met those criteria",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:15"
+        },
+        {
+            "nodeID": "180925",
+            "text": "Medhi :  They are never last resorts",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:15"
+        },
+        {
+            "nodeID": "180926",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:15",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180927",
+            "text": "They are never last resorts",
+            "type": "I",
+            "timestamp": "2016-07-11 11:44:15"
+        },
+        {
+            "nodeID": "180928",
+            "text": "Rory: Medhi :  They are never last resorts",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:15"
+        },
+        {
+            "nodeID": "180929",
+            "text": "Medhi :  they rarely have legal authority",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:15"
+        },
+        {
+            "nodeID": "180930",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:15",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180931",
+            "text": "they rarely have legal authority",
+            "type": "I",
+            "timestamp": "2016-07-11 11:44:15"
+        },
+        {
+            "nodeID": "180932",
+            "text": "Rory: Medhi :  they rarely have legal authority",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:15"
+        },
+        {
+            "nodeID": "180933",
+            "text": "Medhi : they often tend to make matters worse, not better",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:16"
+        },
+        {
+            "nodeID": "180934",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:16",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180935",
+            "text": "they often tend to make matters worse, not better",
+            "type": "I",
+            "timestamp": "2016-07-11 11:44:16"
+        },
+        {
+            "nodeID": "180936",
+            "text": "Rory: Medhi : they often tend to make matters worse, not better",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:16"
+        },
+        {
+            "nodeID": "180937",
+            "text": "Medhi : as we have seen in Iraq, Afghanistan and Libya as well",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:16"
+        },
+        {
+            "nodeID": "180938",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:16",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180939",
+            "text": "as we have seen in Iraq, Afghanistan and Libya as well",
+            "type": "I",
+            "timestamp": "2016-07-11 11:44:16"
+        },
+        {
+            "nodeID": "180940",
+            "text": "Rory: Medhi : s we have seen in Iraq, Afghanistan and Libya as well",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:16"
+        },
+        {
+            "nodeID": "180941",
+            "text": "Michael : If this was a straightforward case of ethnic genocide, with a million being killed, one people wiping out another, would we be justified in intervening",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:16"
+        },
+        {
+            "nodeID": "180942",
+            "text": "Assertive Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:16",
+            "scheme": "AssertiveQuestioning",
+            "schemeID": "73"
+        },
+        {
+            "nodeID": "180943",
+            "text": "If this was a straightforward case of ethnic genocide, with a million being killed, one people wiping out another, we would be justified in intervening",
+            "type": "I",
+            "timestamp": "2016-07-11 11:44:16"
+        },
+        {
+            "nodeID": "180944",
+            "text": "Rory: Michael : If this was a straightforward case of ethnic genocide, with a million being killed, one people wiping out another, would we be justified in intervening",
+            "type": "L",
+            "timestamp": "2016-07-11 11:44:16"
+        },
+        {
+            "nodeID": "180945",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:44:16",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180946",
+            "text": "Agreeing",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:17",
+            "scheme": "Agreeing",
+            "schemeID": "77"
+        },
+        {
+            "nodeID": "180947",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:44:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180948",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:44:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180949",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:44:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180950",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:44:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180951",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:44:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180952",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-11 11:44:17",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180953",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:17",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180954",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:44:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180955",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-11 11:44:17",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180956",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:17",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180957",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:44:18",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180958",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-11 11:44:18",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180959",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:18",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180960",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:44:18",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180961",
+            "text": "Example",
+            "type": "RA",
+            "timestamp": "2016-07-11 11:44:18",
+            "scheme": "Example",
+            "schemeID": "14"
+        },
+        {
+            "nodeID": "180962",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:44:18",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "221018",
+            "fromID": "180904",
+            "toID": "180947",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220995",
+            "fromID": "180906",
+            "toID": "180907",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221020",
+            "fromID": "180906",
+            "toID": "180948",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220994",
+            "fromID": "180907",
+            "toID": "180908",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220997",
+            "fromID": "180910",
+            "toID": "180911",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220996",
+            "fromID": "180911",
+            "toID": "180912",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220998",
+            "fromID": "180914",
+            "toID": "180910",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220999",
+            "fromID": "180915",
+            "toID": "180914",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221022",
+            "fromID": "180915",
+            "toID": "180949",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221001",
+            "fromID": "180917",
+            "toID": "180918",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221024",
+            "fromID": "180917",
+            "toID": "180950",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221000",
+            "fromID": "180918",
+            "toID": "180919",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221003",
+            "fromID": "180921",
+            "toID": "180922",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221026",
+            "fromID": "180921",
+            "toID": "180951",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221032",
+            "fromID": "180921",
+            "toID": "180954",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221038",
+            "fromID": "180921",
+            "toID": "180957",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221002",
+            "fromID": "180922",
+            "toID": "180923",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221005",
+            "fromID": "180925",
+            "toID": "180926",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221004",
+            "fromID": "180926",
+            "toID": "180927",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221028",
+            "fromID": "180927",
+            "toID": "180952",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221007",
+            "fromID": "180929",
+            "toID": "180930",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221006",
+            "fromID": "180930",
+            "toID": "180931",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221034",
+            "fromID": "180931",
+            "toID": "180955",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221009",
+            "fromID": "180933",
+            "toID": "180934",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221044",
+            "fromID": "180933",
+            "toID": "180960",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221008",
+            "fromID": "180934",
+            "toID": "180935",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221040",
+            "fromID": "180935",
+            "toID": "180958",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221011",
+            "fromID": "180937",
+            "toID": "180938",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221010",
+            "fromID": "180938",
+            "toID": "180939",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221046",
+            "fromID": "180939",
+            "toID": "180961",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221013",
+            "fromID": "180941",
+            "toID": "180942",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221014",
+            "fromID": "180941",
+            "toID": "180945",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221012",
+            "fromID": "180942",
+            "toID": "180943",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221015",
+            "fromID": "180945",
+            "toID": "180904",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221016",
+            "fromID": "180945",
+            "toID": "180946",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221017",
+            "fromID": "180946",
+            "toID": "180943",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221019",
+            "fromID": "180947",
+            "toID": "180906",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221021",
+            "fromID": "180948",
+            "toID": "180915",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221023",
+            "fromID": "180949",
+            "toID": "180917",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221025",
+            "fromID": "180950",
+            "toID": "180921",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221027",
+            "fromID": "180951",
+            "toID": "180925",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221030",
+            "fromID": "180951",
+            "toID": "180953",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221029",
+            "fromID": "180952",
+            "toID": "180923",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221031",
+            "fromID": "180953",
+            "toID": "180952",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221033",
+            "fromID": "180954",
+            "toID": "180929",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221036",
+            "fromID": "180954",
+            "toID": "180956",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221035",
+            "fromID": "180955",
+            "toID": "180923",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221037",
+            "fromID": "180956",
+            "toID": "180955",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221039",
+            "fromID": "180957",
+            "toID": "180933",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221042",
+            "fromID": "180957",
+            "toID": "180959",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221041",
+            "fromID": "180958",
+            "toID": "180923",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221043",
+            "fromID": "180959",
+            "toID": "180958",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221045",
+            "fromID": "180960",
+            "toID": "180937",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221048",
+            "fromID": "180960",
+            "toID": "180962",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221047",
+            "fromID": "180961",
+            "toID": "180935",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "221049",
+            "fromID": "180962",
+            "toID": "180961",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "180915",
+            "personID": "1640",
+            "timestamp": "2016-07-11 11:44:20",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "score": "The score gives a rough estimate of how well a debate is structured. The score is calculated through the various factors that Debate Wiz presents.",
+    "arg_units" : "Argument Units are extracted parts of sentences that have an argumentative value and make a statement.",
+    "linked_arg" : "Linked argument structures occur when 2+ arguments support or attack another argument linked together.",
+    "convergent_arg" : "Convergent argument structures occur when 2+ arguments independently support or attack another argument.",
+    "support_attack": "Arguments can support and attack each other to either strengthen points already made or weaken them.",
+    "speaker_score": "Speakers get scored individually based on the number of arguments they made and how well they were contributing to the debate's argument structure."
+}

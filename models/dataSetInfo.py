@@ -1,9 +1,13 @@
 import json
-
+import pathlib
 
 # function to return the basic information on all available data sets
 def get_dataSets_list():
-    file = open('../models/list_of_datasets.json', "r")
+    # get relative data directory
+    PATH = pathlib.Path(__file__).parent.parent
+    DATA_PATH = PATH.joinpath("models/list_of_datasets.json").resolve()
+    file = open(DATA_PATH.resolve(), "r")
+    # file = open('../models/list_of_datasets.json', "r")
     dataSetList = file.read()
     return json.loads(dataSetList)
 
@@ -12,6 +16,12 @@ def get_dataSets_list():
 def get_debate_names():
     dataSets = get_dataSets_list()
     return [dataSet["name"] for dataSet in dataSets]
+
+
+# get list of names of all debates available
+def get_number_speakers():
+    dataSets = get_dataSets_list()
+    return [dataSet["noOfSpeakers"] for dataSet in dataSets]
 
 
 def get_debate_descriptions():

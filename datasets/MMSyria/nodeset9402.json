@@ -1,1 +1,710 @@
-{"nodes":[{"nodeID":"179515","text":"Michael : I am not challenging you on - ah, go on","type":"L","timestamp":"2016-07-05 16:50:48"},{"nodeID":"179516","text":"Asserting","type":"YA","timestamp":"2016-07-05 16:50:48","scheme":"Asserting","schemeID":"74"},{"nodeID":"179517","text":"I am not challenging you on - ah, go on","type":"I","timestamp":"2016-07-05 16:50:48"},{"nodeID":"179518","text":"Rory: Michael : I am not challenging you on - ah, go on","type":"L","timestamp":"2016-07-05 16:50:48"},{"nodeID":"179519","text":"Michael : You are sure there are cases","type":"L","timestamp":"2016-07-05 16:50:48"},{"nodeID":"179520","text":"Pure Questioning","type":"YA","timestamp":"2016-07-05 16:50:48","scheme":"PureQuestioning","schemeID":"91"},{"nodeID":"179521","text":"Karl Sharro is \/ is not sure there are cases","type":"I","timestamp":"2016-07-05 16:50:49"},{"nodeID":"179522","text":"Rory: Michael : You are sure there are cases","type":"L","timestamp":"2016-07-05 16:50:49"},{"nodeID":"179523","text":"Karl : I am sure there are cases which warrant forms of interventions that I would probably subscribe to","type":"L","timestamp":"2016-07-05 16:50:49"},{"nodeID":"179524","text":"Asserting","type":"YA","timestamp":"2016-07-05 16:50:49","scheme":"Asserting","schemeID":"74"},{"nodeID":"179525","text":"Karl Sharro is sure there are cases which warrant forms of interventions that Karl Sharro would probably subscribe to","type":"I","timestamp":"2016-07-05 16:50:49"},{"nodeID":"179526","text":"Rory: Karl : I am sure there are cases which warrant forms of interventions that I would probably subscribe to","type":"L","timestamp":"2016-07-05 16:50:49"},{"nodeID":"179527","text":"Karl : Morality doesn't exist in isolation of political context","type":"L","timestamp":"2016-07-05 16:50:49"},{"nodeID":"179528","text":"Asserting","type":"YA","timestamp":"2016-07-05 16:50:49","scheme":"Asserting","schemeID":"74"},{"nodeID":"179529","text":"Morality doesn't exist in isolation of political context","type":"I","timestamp":"2016-07-05 16:50:49"},{"nodeID":"179530","text":"Rory: Karl : Morality doesn't exist in isolation of political context","type":"L","timestamp":"2016-07-05 16:50:49"},{"nodeID":"179531","text":"Karl :  that's the problem, in formulating this in a sort of high school type abstracted completely denude","type":"L","timestamp":"2016-07-05 16:50:49"},{"nodeID":"179532","text":"Asserting","type":"YA","timestamp":"2016-07-05 16:50:49","scheme":"Asserting","schemeID":"74"},{"nodeID":"179533","text":"that's the problem, in formulating this in a sort of high school type abstracted completely denude","type":"I","timestamp":"2016-07-05 16:50:50"},{"nodeID":"179534","text":"Rory: Karl :  that's the problem, in formulating this in a sort of high school type abstracted completely denude","type":"L","timestamp":"2016-07-05 16:50:50"},{"nodeID":"179535","text":"Michael : I am not trying to do that","type":"L","timestamp":"2016-07-05 16:50:50"},{"nodeID":"179536","text":"Asserting","type":"YA","timestamp":"2016-07-05 16:50:50","scheme":"Asserting","schemeID":"74"},{"nodeID":"179537","text":"Michael Portillo is not trying to formulate in a high school type","type":"I","timestamp":"2016-07-05 16:50:50"},{"nodeID":"179538","text":"Rory: Michael : I am not trying to do that","type":"L","timestamp":"2016-07-05 16:50:50"},{"nodeID":"179539","text":"Michael :  I am trying to take you to real example which have happened in history","type":"L","timestamp":"2016-07-05 16:50:50"},{"nodeID":"179540","text":"Asserting","type":"YA","timestamp":"2016-07-05 16:50:50","scheme":"Asserting","schemeID":"74"},{"nodeID":"179541","text":"Michael Portillo is trying to take Karl Sharro to real example which have happened in history","type":"I","timestamp":"2016-07-05 16:50:50"},{"nodeID":"179542","text":"Rory: Michael :  I am trying to take you to real example which have happened in history","type":"L","timestamp":"2016-07-05 16:50:50"},{"nodeID":"179543","text":"Default Inference","type":"RA","timestamp":"2016-07-05 16:50:50","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179544","text":"Rory: Michael : you are saying you don't know the history so you can't answer me","type":"L","timestamp":"2016-07-05 16:50:50"},{"nodeID":"179545","text":"Rory: Michael : you say I am like a schoolboy","type":"L","timestamp":"2016-07-05 16:50:51"},{"nodeID":"179546","text":"Default Transition","type":"TA","timestamp":"2016-07-05 16:50:51","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179547","text":"Default Transition","type":"TA","timestamp":"2016-07-05 16:50:51","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179548","text":"Default Transition","type":"TA","timestamp":"2016-07-05 16:50:51","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179549","text":"Default Inference","type":"RA","timestamp":"2016-07-05 16:50:51","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179550","text":"Arguing","type":"YA","timestamp":"2016-07-05 16:50:51","scheme":"Arguing","schemeID":"80"},{"nodeID":"179551","text":"Default Transition","type":"TA","timestamp":"2016-07-05 16:50:51","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179552","text":"Arguing","type":"YA","timestamp":"2016-07-05 16:50:51","scheme":"Arguing","schemeID":"80"},{"nodeID":"179553","text":"Default Transition","type":"TA","timestamp":"2016-07-05 16:50:51","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179554","text":"Default Conflict","type":"CA","timestamp":"2016-07-05 16:50:51","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"179555","text":"Disagreeing","type":"YA","timestamp":"2016-07-05 16:50:51","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"179556","text":"Karl : I don't know the history so I can't answer you","type":"L","timestamp":"2016-07-05 16:50:51"},{"nodeID":"179557","text":"Asserting","type":"YA","timestamp":"2016-07-05 16:50:52","scheme":"Asserting","schemeID":"74"},{"nodeID":"179558","text":"Karl Sharro doesn't know the history so Karl Sharro can't answer Michael Portillo","type":"I","timestamp":"2016-07-05 16:50:52"},{"nodeID":"179559","text":"Rory: Karl : you don't know the history so you can't answer me","type":"L","timestamp":"2016-07-05 16:50:52"},{"nodeID":"179560","text":"Asserting","type":"YA","timestamp":"2016-07-05 16:50:52","scheme":"Asserting","schemeID":"74"},{"nodeID":"179561","text":"Michael : Karl : you don't know the history so you can't answer me","type":"L","timestamp":"2016-07-05 16:50:52"},{"nodeID":"179562","text":"Rory: Michael : Karl : you don't know the history so you can't answer me","type":"L","timestamp":"2016-07-05 16:50:52"},{"nodeID":"179563","text":"Default Transition","type":"TA","timestamp":"2016-07-05 16:50:52","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179564","text":"Michael Portillo is like a schoolboy","type":"I","timestamp":"2016-07-05 16:50:52"},{"nodeID":"179565","text":"Default Illocuting","type":"YA","timestamp":"2016-07-05 16:50:52","scheme":"Default Illocuting","schemeID":"168"},{"nodeID":"179566","text":"Karl : Michael Portillo is like a schoolboy","type":"L","timestamp":"2016-07-05 16:50:52"},{"nodeID":"179567","text":"Rory: Karl : I am like a schoolboy","type":"L","timestamp":"2016-07-05 16:50:52"},{"nodeID":"179568","text":"Default Illocuting","type":"YA","timestamp":"2016-07-05 16:50:52","scheme":"Default Illocuting","schemeID":"168"},{"nodeID":"179569","text":"Michael : Karl : I am like a schoolboy","type":"L","timestamp":"2016-07-05 16:50:53"},{"nodeID":"179570","text":"Rory: Michael : Karl : I am like a schoolboy","type":"L","timestamp":"2016-07-05 16:50:53"},{"nodeID":"179571","text":"Default Transition","type":"TA","timestamp":"2016-07-05 16:50:53","scheme":"Default Transition","schemeID":"82"}],"edges":[{"edgeID":"219414","fromID":"179515","toID":"179516","formEdgeID":null},{"edgeID":"219429","fromID":"179515","toID":"179546","formEdgeID":null},{"edgeID":"219413","fromID":"179516","toID":"179517","formEdgeID":null},{"edgeID":"219416","fromID":"179519","toID":"179520","formEdgeID":null},{"edgeID":"219431","fromID":"179519","toID":"179547","formEdgeID":null},{"edgeID":"219415","fromID":"179520","toID":"179521","formEdgeID":null},{"edgeID":"219418","fromID":"179523","toID":"179524","formEdgeID":null},{"edgeID":"219417","fromID":"179524","toID":"179525","formEdgeID":null},{"edgeID":"219420","fromID":"179527","toID":"179528","formEdgeID":null},{"edgeID":"219433","fromID":"179527","toID":"179548","formEdgeID":null},{"edgeID":"219419","fromID":"179528","toID":"179529","formEdgeID":null},{"edgeID":"219435","fromID":"179529","toID":"179549","formEdgeID":null},{"edgeID":"219422","fromID":"179531","toID":"179532","formEdgeID":null},{"edgeID":"219443","fromID":"179531","toID":"179553","formEdgeID":null},{"edgeID":"219421","fromID":"179532","toID":"179533","formEdgeID":null},{"edgeID":"219424","fromID":"179535","toID":"179536","formEdgeID":null},{"edgeID":"219439","fromID":"179535","toID":"179551","formEdgeID":null},{"edgeID":"219423","fromID":"179536","toID":"179537","formEdgeID":null},{"edgeID":"219445","fromID":"179537","toID":"179554","formEdgeID":null},{"edgeID":"219426","fromID":"179539","toID":"179540","formEdgeID":null},{"edgeID":"219453","fromID":"179539","toID":"179563","formEdgeID":null},{"edgeID":"219425","fromID":"179540","toID":"179541","formEdgeID":null},{"edgeID":"219427","fromID":"179541","toID":"179543","formEdgeID":null},{"edgeID":"219428","fromID":"179543","toID":"179537","formEdgeID":null},{"edgeID":"219430","fromID":"179546","toID":"179519","formEdgeID":null},{"edgeID":"219432","fromID":"179547","toID":"179523","formEdgeID":null},{"edgeID":"219434","fromID":"179548","toID":"179531","formEdgeID":null},{"edgeID":"219437","fromID":"179548","toID":"179550","formEdgeID":null},{"edgeID":"219436","fromID":"179549","toID":"179533","formEdgeID":null},{"edgeID":"219438","fromID":"179550","toID":"179549","formEdgeID":null},{"edgeID":"219440","fromID":"179551","toID":"179539","formEdgeID":null},{"edgeID":"219441","fromID":"179551","toID":"179552","formEdgeID":null},{"edgeID":"219442","fromID":"179552","toID":"179543","formEdgeID":null},{"edgeID":"219444","fromID":"179553","toID":"179535","formEdgeID":null},{"edgeID":"219447","fromID":"179553","toID":"179555","formEdgeID":null},{"edgeID":"219446","fromID":"179554","toID":"179533","formEdgeID":null},{"edgeID":"219448","fromID":"179555","toID":"179554","formEdgeID":null},{"edgeID":"219450","fromID":"179556","toID":"179557","formEdgeID":null},{"edgeID":"219449","fromID":"179557","toID":"179558","formEdgeID":null},{"edgeID":"219451","fromID":"179560","toID":"179556","formEdgeID":null},{"edgeID":"219452","fromID":"179561","toID":"179560","formEdgeID":null},{"edgeID":"219459","fromID":"179561","toID":"179571","formEdgeID":null},{"edgeID":"219454","fromID":"179563","toID":"179561","formEdgeID":null},{"edgeID":"219455","fromID":"179565","toID":"179564","formEdgeID":null},{"edgeID":"219456","fromID":"179566","toID":"179565","formEdgeID":null},{"edgeID":"219457","fromID":"179568","toID":"179566","formEdgeID":null},{"edgeID":"219458","fromID":"179569","toID":"179568","formEdgeID":null},{"edgeID":"219460","fromID":"179571","toID":"179569","formEdgeID":null}],"locutions":[{"nodeID":"179561","personID":"413","timestamp":"2016-07-05 16:50:54","start":null,"end":null,"source":null},{"nodeID":"179566","personID":"1636","timestamp":"2016-07-05 16:50:54","start":null,"end":null,"source":null},{"nodeID":"179569","personID":"413","timestamp":"2016-07-05 16:50:54","start":null,"end":null,"source":null}]}
+{
+    "nodes": [
+        {
+            "nodeID": "179515",
+            "text": "Michael : I am not challenging you on - ah, go on",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:48"
+        },
+        {
+            "nodeID": "179516",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 16:50:48",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179517",
+            "text": "I am not challenging you on - ah, go on",
+            "type": "I",
+            "timestamp": "2016-07-05 16:50:48"
+        },
+        {
+            "nodeID": "179518",
+            "text": "Rory: Michael : I am not challenging you on - ah, go on",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:48"
+        },
+        {
+            "nodeID": "179519",
+            "text": "Michael : You are sure there are cases",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:48"
+        },
+        {
+            "nodeID": "179520",
+            "text": "Pure Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-05 16:50:48",
+            "scheme": "PureQuestioning",
+            "schemeID": "91"
+        },
+        {
+            "nodeID": "179521",
+            "text": "Karl Sharro is \/ is not sure there are cases",
+            "type": "I",
+            "timestamp": "2016-07-05 16:50:49"
+        },
+        {
+            "nodeID": "179522",
+            "text": "Rory: Michael : You are sure there are cases",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:49"
+        },
+        {
+            "nodeID": "179523",
+            "text": "Karl : I am sure there are cases which warrant forms of interventions that I would probably subscribe to",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:49"
+        },
+        {
+            "nodeID": "179524",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 16:50:49",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179525",
+            "text": "Karl Sharro is sure there are cases which warrant forms of interventions that Karl Sharro would probably subscribe to",
+            "type": "I",
+            "timestamp": "2016-07-05 16:50:49"
+        },
+        {
+            "nodeID": "179526",
+            "text": "Rory: Karl : I am sure there are cases which warrant forms of interventions that I would probably subscribe to",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:49"
+        },
+        {
+            "nodeID": "179527",
+            "text": "Karl : Morality doesn't exist in isolation of political context",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:49"
+        },
+        {
+            "nodeID": "179528",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 16:50:49",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179529",
+            "text": "Morality doesn't exist in isolation of political context",
+            "type": "I",
+            "timestamp": "2016-07-05 16:50:49"
+        },
+        {
+            "nodeID": "179530",
+            "text": "Rory: Karl : Morality doesn't exist in isolation of political context",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:49"
+        },
+        {
+            "nodeID": "179531",
+            "text": "Karl :  that's the problem, in formulating this in a sort of high school type abstracted completely denude",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:49"
+        },
+        {
+            "nodeID": "179532",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 16:50:49",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179533",
+            "text": "that's the problem, in formulating this in a sort of high school type abstracted completely denude",
+            "type": "I",
+            "timestamp": "2016-07-05 16:50:50"
+        },
+        {
+            "nodeID": "179534",
+            "text": "Rory: Karl :  that's the problem, in formulating this in a sort of high school type abstracted completely denude",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:50"
+        },
+        {
+            "nodeID": "179535",
+            "text": "Michael : I am not trying to do that",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:50"
+        },
+        {
+            "nodeID": "179536",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 16:50:50",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179537",
+            "text": "Michael Portillo is not trying to formulate in a high school type",
+            "type": "I",
+            "timestamp": "2016-07-05 16:50:50"
+        },
+        {
+            "nodeID": "179538",
+            "text": "Rory: Michael : I am not trying to do that",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:50"
+        },
+        {
+            "nodeID": "179539",
+            "text": "Michael :  I am trying to take you to real example which have happened in history",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:50"
+        },
+        {
+            "nodeID": "179540",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 16:50:50",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179541",
+            "text": "Michael Portillo is trying to take Karl Sharro to real example which have happened in history",
+            "type": "I",
+            "timestamp": "2016-07-05 16:50:50"
+        },
+        {
+            "nodeID": "179542",
+            "text": "Rory: Michael :  I am trying to take you to real example which have happened in history",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:50"
+        },
+        {
+            "nodeID": "179543",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-05 16:50:50",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179544",
+            "text": "Rory: Michael : you are saying you don't know the history so you can't answer me",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:50"
+        },
+        {
+            "nodeID": "179545",
+            "text": "Rory: Michael : you say I am like a schoolboy",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:51"
+        },
+        {
+            "nodeID": "179546",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 16:50:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179547",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 16:50:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179548",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 16:50:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179549",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-05 16:50:51",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179550",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-05 16:50:51",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179551",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 16:50:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179552",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-05 16:50:51",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179553",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 16:50:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179554",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-05 16:50:51",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "179555",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-05 16:50:51",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "179556",
+            "text": "Karl : I don't know the history so I can't answer you",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:51"
+        },
+        {
+            "nodeID": "179557",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 16:50:52",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179558",
+            "text": "Karl Sharro doesn't know the history so Karl Sharro can't answer Michael Portillo",
+            "type": "I",
+            "timestamp": "2016-07-05 16:50:52"
+        },
+        {
+            "nodeID": "179559",
+            "text": "Rory: Karl : you don't know the history so you can't answer me",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:52"
+        },
+        {
+            "nodeID": "179560",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 16:50:52",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179561",
+            "text": "Michael : Karl : you don't know the history so you can't answer me",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:52"
+        },
+        {
+            "nodeID": "179562",
+            "text": "Rory: Michael : Karl : you don't know the history so you can't answer me",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:52"
+        },
+        {
+            "nodeID": "179563",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 16:50:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179564",
+            "text": "Michael Portillo is like a schoolboy",
+            "type": "I",
+            "timestamp": "2016-07-05 16:50:52"
+        },
+        {
+            "nodeID": "179565",
+            "text": "Default Illocuting",
+            "type": "YA",
+            "timestamp": "2016-07-05 16:50:52",
+            "scheme": "Default Illocuting",
+            "schemeID": "168"
+        },
+        {
+            "nodeID": "179566",
+            "text": "Karl : Michael Portillo is like a schoolboy",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:52"
+        },
+        {
+            "nodeID": "179567",
+            "text": "Rory: Karl : I am like a schoolboy",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:52"
+        },
+        {
+            "nodeID": "179568",
+            "text": "Default Illocuting",
+            "type": "YA",
+            "timestamp": "2016-07-05 16:50:52",
+            "scheme": "Default Illocuting",
+            "schemeID": "168"
+        },
+        {
+            "nodeID": "179569",
+            "text": "Michael : Karl : I am like a schoolboy",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:53"
+        },
+        {
+            "nodeID": "179570",
+            "text": "Rory: Michael : Karl : I am like a schoolboy",
+            "type": "L",
+            "timestamp": "2016-07-05 16:50:53"
+        },
+        {
+            "nodeID": "179571",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 16:50:53",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "219414",
+            "fromID": "179515",
+            "toID": "179516",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219429",
+            "fromID": "179515",
+            "toID": "179546",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219413",
+            "fromID": "179516",
+            "toID": "179517",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219416",
+            "fromID": "179519",
+            "toID": "179520",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219431",
+            "fromID": "179519",
+            "toID": "179547",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219415",
+            "fromID": "179520",
+            "toID": "179521",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219418",
+            "fromID": "179523",
+            "toID": "179524",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219417",
+            "fromID": "179524",
+            "toID": "179525",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219420",
+            "fromID": "179527",
+            "toID": "179528",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219433",
+            "fromID": "179527",
+            "toID": "179548",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219419",
+            "fromID": "179528",
+            "toID": "179529",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219435",
+            "fromID": "179529",
+            "toID": "179549",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219422",
+            "fromID": "179531",
+            "toID": "179532",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219443",
+            "fromID": "179531",
+            "toID": "179553",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219421",
+            "fromID": "179532",
+            "toID": "179533",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219424",
+            "fromID": "179535",
+            "toID": "179536",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219439",
+            "fromID": "179535",
+            "toID": "179551",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219423",
+            "fromID": "179536",
+            "toID": "179537",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219445",
+            "fromID": "179537",
+            "toID": "179554",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219426",
+            "fromID": "179539",
+            "toID": "179540",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219453",
+            "fromID": "179539",
+            "toID": "179563",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219425",
+            "fromID": "179540",
+            "toID": "179541",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219427",
+            "fromID": "179541",
+            "toID": "179543",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219428",
+            "fromID": "179543",
+            "toID": "179537",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219430",
+            "fromID": "179546",
+            "toID": "179519",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219432",
+            "fromID": "179547",
+            "toID": "179523",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219434",
+            "fromID": "179548",
+            "toID": "179531",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219437",
+            "fromID": "179548",
+            "toID": "179550",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219436",
+            "fromID": "179549",
+            "toID": "179533",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219438",
+            "fromID": "179550",
+            "toID": "179549",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219440",
+            "fromID": "179551",
+            "toID": "179539",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219441",
+            "fromID": "179551",
+            "toID": "179552",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219442",
+            "fromID": "179552",
+            "toID": "179543",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219444",
+            "fromID": "179553",
+            "toID": "179535",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219447",
+            "fromID": "179553",
+            "toID": "179555",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219446",
+            "fromID": "179554",
+            "toID": "179533",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219448",
+            "fromID": "179555",
+            "toID": "179554",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219450",
+            "fromID": "179556",
+            "toID": "179557",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219449",
+            "fromID": "179557",
+            "toID": "179558",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219451",
+            "fromID": "179560",
+            "toID": "179556",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219452",
+            "fromID": "179561",
+            "toID": "179560",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219459",
+            "fromID": "179561",
+            "toID": "179571",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219454",
+            "fromID": "179563",
+            "toID": "179561",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219455",
+            "fromID": "179565",
+            "toID": "179564",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219456",
+            "fromID": "179566",
+            "toID": "179565",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219457",
+            "fromID": "179568",
+            "toID": "179566",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219458",
+            "fromID": "179569",
+            "toID": "179568",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219460",
+            "fromID": "179571",
+            "toID": "179569",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "179561",
+            "personID": "413",
+            "timestamp": "2016-07-05 16:50:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "179566",
+            "personID": "1636",
+            "timestamp": "2016-07-05 16:50:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "179569",
+            "personID": "413",
+            "timestamp": "2016-07-05 16:50:54",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

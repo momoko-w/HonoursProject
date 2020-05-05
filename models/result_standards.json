@@ -1,0 +1,269 @@
+{
+    "score": {
+        "avg": 18.68,
+        "min": 14.23,
+        "max": 21.44
+    },
+    "avg_arg_turn": {
+        "avg": 20.67,
+        "min": 3.89,
+        "max": 47.6
+    },
+    "count_sents_with_arg": {
+        "avg": 83.98,
+        "min": 76.47,
+        "max": 96.4
+    },
+    "avg_arg_sent": {
+        "avg": 12.24,
+        "min": 1.8,
+        "max": 36.76
+    },
+    "supporting_arg": {
+        "avg": 44.83,
+        "min": 31.84,
+        "max": 57.53
+    },
+    "supported_arg": {
+        "avg": 38.13,
+        "min": 30.72,
+        "max": 44.04
+    },
+    "countered_arg": {
+        "avg": 9.83,
+        "min": 3.68,
+        "max": 13.97
+    },
+    "countering_arg": {
+        "avg": 10.33,
+        "min": 3.84,
+        "max": 15.34
+    },
+    "single_arg": {
+        "avg": 22.82,
+        "min": 9.89,
+        "max": 44.8
+    },
+    "linked_ratio": {
+        "avg": 36.5,
+        "min": 10.35,
+        "max": 75.17
+    },
+    "convergent_ratio": {
+        "avg": 14.2,
+        "min": 10.25,
+        "max": 19.53
+    },
+    "perc_linked_arg": {
+        "avg": 12.96,
+        "min": 2.88,
+        "max": 24.49
+    },
+    "perc_convergent_arg": {
+        "avg": 16.35,
+        "min": 10.72,
+        "max": 22.17
+    },
+    "avg_linked_arg": {
+        "avg": 2.31,
+        "min": 2.0,
+        "max": 2.53
+    },
+    "avg_convergent_arg": {
+        "avg": 2.21,
+        "min": 2.06,
+        "max": 2.57
+    },
+    "speaker_avg_score": {
+        "avg": 11.89,
+        "min": 8.03,
+        "max": 21.0
+    },
+    "speaker_avg_arg": {
+        "avg": 36.78,
+        "min": 6.2,
+        "max": 106.17
+    },
+    "speaker_avg_supporting": {
+        "avg": 13.79,
+        "min": 1.4,
+        "max": 33
+    },
+    "speaker_avg_supported": {
+        "avg": 12.06,
+        "min": 1.2,
+        "max": 32.83
+    },
+    "speaker_avg_countering": {
+        "avg": 2.4,
+        "min": 0.71,
+        "max": 4.5
+    },
+    "speaker_avg_countered": {
+        "avg": 2.4,
+        "min": 1,
+        "max": 4
+    },
+    "debate_speaker_context": {
+        "Green Belt - Moral Maze": {
+            "scores": {
+                "min": 0,
+                "max": 28.86,
+                "avg": 8.22
+            },
+            "total_arg": {
+                "min": 1,
+                "max": 63,
+                "avg": 15.43
+            },
+            "supporting": {
+                "min": 0.0,
+                "max": 200.0,
+                "avg": 44.39
+            },
+            "supported": {
+                "min": 0.0,
+                "max": 100.0,
+                "avg": 27.95
+            },
+            "countering": {
+                "min": 0.0,
+                "max": 10.71,
+                "avg": 2.37
+            },
+            "countered": {
+                "min": 0.0,
+                "max": 100.0,
+                "avg": 10.05
+            }
+        },
+        "Hypocrisy - Moral Maze": {
+            "scores": {
+                "min": 0.0,
+                "max": 80.1,
+                "avg": 21.0
+            },
+            "total_arg": {
+                "min": 1,
+                "max": 295,
+                "avg": 106.17
+            },
+            "supporting": {
+                "min": 0.0,
+                "max": 64.29,
+                "avg": 26.89
+            },
+            "supported": {
+                "min": 0.0,
+                "max": 50.0,
+                "avg": 25.12
+            },
+            "countering": {
+                "min": 0.0,
+                "max": 5.83,
+                "avg": 2.3
+            },
+            "countered": {
+                "min": 0.0,
+                "max": 5.1,
+                "avg": 2.11
+            }
+        },
+        "Syria - Moral Maze": {
+            "scores": {
+                "min": 0,
+                "max": 25.32,
+                "avg": 8.99
+            },
+            "total_arg": {
+                "min": 1,
+                "max": 20,
+                "avg": 6.2
+            },
+            "supporting": {
+                "min": 0.0,
+                "max": 200.0,
+                "avg": 35.49
+            },
+            "supported": {
+                "min": 0.0,
+                "max": 33.33,
+                "avg": 10.07
+            },
+            "countering": {
+                "min": 0.0,
+                "max": 100.0,
+                "avg": 16.85
+            },
+            "countered": {
+                "min": 0.0,
+                "max": 100.0,
+                "avg": 19.05
+            }
+        },
+        "Problem Families - Moral Maze": {
+            "scores": {
+                "min": 0,
+                "max": 34.69,
+                "avg": 13.21
+            },
+            "total_arg": {
+                "min": 1,
+                "max": 63,
+                "avg": 28.93
+            },
+            "supporting": {
+                "min": 0.0,
+                "max": 131.15,
+                "avg": 52.68
+            },
+            "supported": {
+                "min": 0.0,
+                "max": 100.0,
+                "avg": 39.46
+            },
+            "countering": {
+                "min": 0.0,
+                "max": 18.6,
+                "avg": 5.56
+            },
+            "countered": {
+                "min": 0.0,
+                "max": 100.0,
+                "avg": 15.25
+            }
+        },
+        "Welfare State - Moral Maze": {
+            "scores": {
+                "min": 0.0,
+                "max": 32.48,
+                "avg": 8.03
+            },
+            "total_arg": {
+                "min": 1,
+                "max": 205,
+                "avg": 27.16
+            },
+            "supporting": {
+                "min": 0.0,
+                "max": 100.0,
+                "avg": 30.47
+            },
+            "supported": {
+                "min": 0.0,
+                "max": 100.0,
+                "avg": 21.94
+            },
+            "countering": {
+                "min": 0.0,
+                "max": 28.57,
+                "avg": 6.89
+            },
+            "countered": {
+                "min": 0.0,
+                "max": 133.33,
+                "avg": 40.93
+            }
+        }
+    }
+}

@@ -1,1 +1,617 @@
-{"nodes":[{"nodeID":"180854","text":"Michael : Let me take you away from Syria a bit","type":"L","timestamp":"2016-07-11 11:02:36"},{"nodeID":"180855","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:02:36","scheme":"Asserting","schemeID":"74"},{"nodeID":"180856","text":"Let me take you away from Syria a bit","type":"I","timestamp":"2016-07-11 11:02:37"},{"nodeID":"180857","text":"Rory: Michael : Let me take you away from Syria a bit","type":"L","timestamp":"2016-07-11 11:02:37"},{"nodeID":"180858","text":"Michael : it sounds as if you are somebody who would accept intervention in certain cases","type":"L","timestamp":"2016-07-11 11:02:37"},{"nodeID":"180859","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:02:37","scheme":"Asserting","schemeID":"74"},{"nodeID":"180860","text":"it sounds as if Medhi Hasan is somebody who would accept intervention in certain cases","type":"I","timestamp":"2016-07-11 11:02:37"},{"nodeID":"180861","text":"Rory: Michael : it sounds as if you are somebody who would accept intervention in certain cases","type":"L","timestamp":"2016-07-11 11:02:37"},{"nodeID":"180862","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:02:37","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180863","text":"Default Inference","type":"RA","timestamp":"2016-07-11 11:02:37","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180864","text":"Arguing","type":"YA","timestamp":"2016-07-11 11:02:37","scheme":"Arguing","schemeID":"80"},{"nodeID":"180865","text":"Medhi : Very limited cases","type":"L","timestamp":"2016-07-11 11:02:37"},{"nodeID":"180866","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:02:37","scheme":"Asserting","schemeID":"74"},{"nodeID":"180867","text":"Very limited cases","type":"I","timestamp":"2016-07-11 11:02:37"},{"nodeID":"180868","text":"Rory: Medhi : Very limited cases","type":"L","timestamp":"2016-07-11 11:02:37"},{"nodeID":"180869","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:02:38","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180870","text":"Medhi :  I start from the premise that I am sceptical of military intervention","type":"L","timestamp":"2016-07-11 11:02:38"},{"nodeID":"180871","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:02:38","scheme":"Asserting","schemeID":"74"},{"nodeID":"180872","text":"I start from the premise that I am sceptical of military intervention","type":"I","timestamp":"2016-07-11 11:02:38"},{"nodeID":"180873","text":"Rory: Medhi :  I start from the premise that I am sceptical of military intervention","type":"L","timestamp":"2016-07-11 11:02:38"},{"nodeID":"180874","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:02:38","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180875","text":"Michael : in the case of Syria, there are all sorts of difficulties about it","type":"L","timestamp":"2016-07-11 11:02:38"},{"nodeID":"180876","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:02:38","scheme":"Asserting","schemeID":"74"},{"nodeID":"180877","text":"in the case of Syria, there are all sorts of difficulties about it","type":"I","timestamp":"2016-07-11 11:02:38"},{"nodeID":"180878","text":"Rory: Michael : in the case of Syria, there are all sorts of difficulties about it","type":"L","timestamp":"2016-07-11 11:02:38"},{"nodeID":"180879","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:02:38","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180880","text":"Michael : it is quite a long way, a powerful regime","type":"L","timestamp":"2016-07-11 11:02:38"},{"nodeID":"180881","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:02:39","scheme":"Asserting","schemeID":"74"},{"nodeID":"180882","text":"it is quite a long way, a powerful regime","type":"I","timestamp":"2016-07-11 11:02:39"},{"nodeID":"180883","text":"Rory: Michael : it is quite a long way, a powerful regime","type":"L","timestamp":"2016-07-11 11:02:39"},{"nodeID":"180884","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:02:39","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180885","text":"Default Inference","type":"RA","timestamp":"2016-07-11 11:02:39","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180886","text":"Arguing","type":"YA","timestamp":"2016-07-11 11:02:39","scheme":"Arguing","schemeID":"80"},{"nodeID":"180887","text":"MP: Let me take you away from Syria a bit, because it sounds as if you are somebody who would accept intervention in certain cases.\r \r \r MH: Very limited cases. I start from the premise that I am sceptical of military intervention.\r \r \r MP: And in the case of Syria, there are all sorts of difficulties about it, it is quite a long way, a powerful regime.\r \r \r MH: And moral issues.\r \r \r MP: And the killing has not been so great as in other areas.","type":"L","timestamp":"2016-07-11 11:02:39"},{"nodeID":"180888","text":"Medhi :  moral issues","type":"L","timestamp":"2016-07-11 11:02:39"},{"nodeID":"180889","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:02:39","scheme":"Asserting","schemeID":"74"},{"nodeID":"180890","text":"moral issues","type":"I","timestamp":"2016-07-11 11:02:39"},{"nodeID":"180891","text":"Rory: Medhi :  moral issues","type":"L","timestamp":"2016-07-11 11:02:39"},{"nodeID":"180892","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:02:39","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180893","text":"Default Inference","type":"RA","timestamp":"2016-07-11 11:02:40","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180894","text":"Arguing","type":"YA","timestamp":"2016-07-11 11:02:40","scheme":"Arguing","schemeID":"80"},{"nodeID":"180895","text":"Medhi : the killing has not been so great as in other areas","type":"L","timestamp":"2016-07-11 11:02:40"},{"nodeID":"180896","text":"Asserting","type":"YA","timestamp":"2016-07-11 11:02:40","scheme":"Asserting","schemeID":"74"},{"nodeID":"180897","text":"the killing has not been so great as in other areas","type":"I","timestamp":"2016-07-11 11:02:40"},{"nodeID":"180898","text":"Rory: Medhi : the killing has not been so great as in other areas","type":"L","timestamp":"2016-07-11 11:02:40"},{"nodeID":"180899","text":"Default Transition","type":"TA","timestamp":"2016-07-11 11:02:40","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180900","text":"Default Inference","type":"RA","timestamp":"2016-07-11 11:02:40","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180901","text":"Arguing","type":"YA","timestamp":"2016-07-11 11:02:40","scheme":"Arguing","schemeID":"80"}],"edges":[{"edgeID":"220949","fromID":"180854","toID":"180855","formEdgeID":null},{"edgeID":"220952","fromID":"180854","toID":"180862","formEdgeID":null},{"edgeID":"220948","fromID":"180855","toID":"180856","formEdgeID":null},{"edgeID":"220951","fromID":"180858","toID":"180859","formEdgeID":null},{"edgeID":"220960","fromID":"180858","toID":"180869","formEdgeID":null},{"edgeID":"220950","fromID":"180859","toID":"180860","formEdgeID":null},{"edgeID":"220954","fromID":"180860","toID":"180863","formEdgeID":null},{"edgeID":"220953","fromID":"180862","toID":"180858","formEdgeID":null},{"edgeID":"220956","fromID":"180862","toID":"180864","formEdgeID":null},{"edgeID":"220955","fromID":"180863","toID":"180856","formEdgeID":null},{"edgeID":"220957","fromID":"180864","toID":"180863","formEdgeID":null},{"edgeID":"220959","fromID":"180865","toID":"180866","formEdgeID":null},{"edgeID":"220964","fromID":"180865","toID":"180874","formEdgeID":null},{"edgeID":"220958","fromID":"180866","toID":"180867","formEdgeID":null},{"edgeID":"220961","fromID":"180869","toID":"180865","formEdgeID":null},{"edgeID":"220963","fromID":"180870","toID":"180871","formEdgeID":null},{"edgeID":"220968","fromID":"180870","toID":"180879","formEdgeID":null},{"edgeID":"220962","fromID":"180871","toID":"180872","formEdgeID":null},{"edgeID":"220965","fromID":"180874","toID":"180870","formEdgeID":null},{"edgeID":"220967","fromID":"180875","toID":"180876","formEdgeID":null},{"edgeID":"220972","fromID":"180875","toID":"180884","formEdgeID":null},{"edgeID":"220980","fromID":"180875","toID":"180892","formEdgeID":null},{"edgeID":"220988","fromID":"180875","toID":"180899","formEdgeID":null},{"edgeID":"220966","fromID":"180876","toID":"180877","formEdgeID":null},{"edgeID":"220969","fromID":"180879","toID":"180875","formEdgeID":null},{"edgeID":"220971","fromID":"180880","toID":"180881","formEdgeID":null},{"edgeID":"220970","fromID":"180881","toID":"180882","formEdgeID":null},{"edgeID":"220974","fromID":"180882","toID":"180885","formEdgeID":null},{"edgeID":"220973","fromID":"180884","toID":"180880","formEdgeID":null},{"edgeID":"220976","fromID":"180884","toID":"180886","formEdgeID":null},{"edgeID":"220975","fromID":"180885","toID":"180877","formEdgeID":null},{"edgeID":"220977","fromID":"180886","toID":"180885","formEdgeID":null},{"edgeID":"220979","fromID":"180888","toID":"180889","formEdgeID":null},{"edgeID":"220978","fromID":"180889","toID":"180890","formEdgeID":null},{"edgeID":"220982","fromID":"180890","toID":"180893","formEdgeID":null},{"edgeID":"220981","fromID":"180892","toID":"180888","formEdgeID":null},{"edgeID":"220984","fromID":"180892","toID":"180894","formEdgeID":null},{"edgeID":"220983","fromID":"180893","toID":"180877","formEdgeID":null},{"edgeID":"220985","fromID":"180894","toID":"180893","formEdgeID":null},{"edgeID":"220987","fromID":"180895","toID":"180896","formEdgeID":null},{"edgeID":"220986","fromID":"180896","toID":"180897","formEdgeID":null},{"edgeID":"220990","fromID":"180897","toID":"180900","formEdgeID":null},{"edgeID":"220989","fromID":"180899","toID":"180895","formEdgeID":null},{"edgeID":"220992","fromID":"180899","toID":"180901","formEdgeID":null},{"edgeID":"220991","fromID":"180900","toID":"180877","formEdgeID":null},{"edgeID":"220993","fromID":"180901","toID":"180900","formEdgeID":null}],"locutions":[]}
+{
+    "nodes": [
+        {
+            "nodeID": "180854",
+            "text": "Michael : Let me take you away from Syria a bit",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:36"
+        },
+        {
+            "nodeID": "180855",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:02:36",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180856",
+            "text": "Let me take you away from Syria a bit",
+            "type": "I",
+            "timestamp": "2016-07-11 11:02:37"
+        },
+        {
+            "nodeID": "180857",
+            "text": "Rory: Michael : Let me take you away from Syria a bit",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:37"
+        },
+        {
+            "nodeID": "180858",
+            "text": "Michael : it sounds as if you are somebody who would accept intervention in certain cases",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:37"
+        },
+        {
+            "nodeID": "180859",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:02:37",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180860",
+            "text": "it sounds as if Medhi Hasan is somebody who would accept intervention in certain cases",
+            "type": "I",
+            "timestamp": "2016-07-11 11:02:37"
+        },
+        {
+            "nodeID": "180861",
+            "text": "Rory: Michael : it sounds as if you are somebody who would accept intervention in certain cases",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:37"
+        },
+        {
+            "nodeID": "180862",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:02:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180863",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-11 11:02:37",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180864",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:02:37",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180865",
+            "text": "Medhi : Very limited cases",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:37"
+        },
+        {
+            "nodeID": "180866",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:02:37",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180867",
+            "text": "Very limited cases",
+            "type": "I",
+            "timestamp": "2016-07-11 11:02:37"
+        },
+        {
+            "nodeID": "180868",
+            "text": "Rory: Medhi : Very limited cases",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:37"
+        },
+        {
+            "nodeID": "180869",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:02:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180870",
+            "text": "Medhi :  I start from the premise that I am sceptical of military intervention",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:38"
+        },
+        {
+            "nodeID": "180871",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:02:38",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180872",
+            "text": "I start from the premise that I am sceptical of military intervention",
+            "type": "I",
+            "timestamp": "2016-07-11 11:02:38"
+        },
+        {
+            "nodeID": "180873",
+            "text": "Rory: Medhi :  I start from the premise that I am sceptical of military intervention",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:38"
+        },
+        {
+            "nodeID": "180874",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:02:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180875",
+            "text": "Michael : in the case of Syria, there are all sorts of difficulties about it",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:38"
+        },
+        {
+            "nodeID": "180876",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:02:38",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180877",
+            "text": "in the case of Syria, there are all sorts of difficulties about it",
+            "type": "I",
+            "timestamp": "2016-07-11 11:02:38"
+        },
+        {
+            "nodeID": "180878",
+            "text": "Rory: Michael : in the case of Syria, there are all sorts of difficulties about it",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:38"
+        },
+        {
+            "nodeID": "180879",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:02:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180880",
+            "text": "Michael : it is quite a long way, a powerful regime",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:38"
+        },
+        {
+            "nodeID": "180881",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:02:39",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180882",
+            "text": "it is quite a long way, a powerful regime",
+            "type": "I",
+            "timestamp": "2016-07-11 11:02:39"
+        },
+        {
+            "nodeID": "180883",
+            "text": "Rory: Michael : it is quite a long way, a powerful regime",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:39"
+        },
+        {
+            "nodeID": "180884",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:02:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180885",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-11 11:02:39",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180886",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:02:39",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180887",
+            "text": "MP: Let me take you away from Syria a bit, because it sounds as if you are somebody who would accept intervention in certain cases.\r \r \r MH: Very limited cases. I start from the premise that I am sceptical of military intervention.\r \r \r MP: And in the case of Syria, there are all sorts of difficulties about it, it is quite a long way, a powerful regime.\r \r \r MH: And moral issues.\r \r \r MP: And the killing has not been so great as in other areas.",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:39"
+        },
+        {
+            "nodeID": "180888",
+            "text": "Medhi :  moral issues",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:39"
+        },
+        {
+            "nodeID": "180889",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:02:39",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180890",
+            "text": "moral issues",
+            "type": "I",
+            "timestamp": "2016-07-11 11:02:39"
+        },
+        {
+            "nodeID": "180891",
+            "text": "Rory: Medhi :  moral issues",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:39"
+        },
+        {
+            "nodeID": "180892",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:02:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180893",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-11 11:02:40",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180894",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:02:40",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180895",
+            "text": "Medhi : the killing has not been so great as in other areas",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:40"
+        },
+        {
+            "nodeID": "180896",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:02:40",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180897",
+            "text": "the killing has not been so great as in other areas",
+            "type": "I",
+            "timestamp": "2016-07-11 11:02:40"
+        },
+        {
+            "nodeID": "180898",
+            "text": "Rory: Medhi : the killing has not been so great as in other areas",
+            "type": "L",
+            "timestamp": "2016-07-11 11:02:40"
+        },
+        {
+            "nodeID": "180899",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-11 11:02:40",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180900",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-11 11:02:40",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180901",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-11 11:02:40",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "220949",
+            "fromID": "180854",
+            "toID": "180855",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220952",
+            "fromID": "180854",
+            "toID": "180862",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220948",
+            "fromID": "180855",
+            "toID": "180856",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220951",
+            "fromID": "180858",
+            "toID": "180859",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220960",
+            "fromID": "180858",
+            "toID": "180869",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220950",
+            "fromID": "180859",
+            "toID": "180860",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220954",
+            "fromID": "180860",
+            "toID": "180863",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220953",
+            "fromID": "180862",
+            "toID": "180858",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220956",
+            "fromID": "180862",
+            "toID": "180864",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220955",
+            "fromID": "180863",
+            "toID": "180856",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220957",
+            "fromID": "180864",
+            "toID": "180863",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220959",
+            "fromID": "180865",
+            "toID": "180866",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220964",
+            "fromID": "180865",
+            "toID": "180874",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220958",
+            "fromID": "180866",
+            "toID": "180867",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220961",
+            "fromID": "180869",
+            "toID": "180865",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220963",
+            "fromID": "180870",
+            "toID": "180871",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220968",
+            "fromID": "180870",
+            "toID": "180879",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220962",
+            "fromID": "180871",
+            "toID": "180872",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220965",
+            "fromID": "180874",
+            "toID": "180870",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220967",
+            "fromID": "180875",
+            "toID": "180876",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220972",
+            "fromID": "180875",
+            "toID": "180884",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220980",
+            "fromID": "180875",
+            "toID": "180892",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220988",
+            "fromID": "180875",
+            "toID": "180899",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220966",
+            "fromID": "180876",
+            "toID": "180877",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220969",
+            "fromID": "180879",
+            "toID": "180875",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220971",
+            "fromID": "180880",
+            "toID": "180881",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220970",
+            "fromID": "180881",
+            "toID": "180882",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220974",
+            "fromID": "180882",
+            "toID": "180885",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220973",
+            "fromID": "180884",
+            "toID": "180880",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220976",
+            "fromID": "180884",
+            "toID": "180886",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220975",
+            "fromID": "180885",
+            "toID": "180877",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220977",
+            "fromID": "180886",
+            "toID": "180885",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220979",
+            "fromID": "180888",
+            "toID": "180889",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220978",
+            "fromID": "180889",
+            "toID": "180890",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220982",
+            "fromID": "180890",
+            "toID": "180893",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220981",
+            "fromID": "180892",
+            "toID": "180888",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220984",
+            "fromID": "180892",
+            "toID": "180894",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220983",
+            "fromID": "180893",
+            "toID": "180877",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220985",
+            "fromID": "180894",
+            "toID": "180893",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220987",
+            "fromID": "180895",
+            "toID": "180896",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220986",
+            "fromID": "180896",
+            "toID": "180897",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220990",
+            "fromID": "180897",
+            "toID": "180900",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220989",
+            "fromID": "180899",
+            "toID": "180895",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220992",
+            "fromID": "180899",
+            "toID": "180901",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220991",
+            "fromID": "180900",
+            "toID": "180877",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220993",
+            "fromID": "180901",
+            "toID": "180900",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": []
+}

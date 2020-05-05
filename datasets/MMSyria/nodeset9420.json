@@ -1,1 +1,1380 @@
-{"nodes":[{"nodeID":"180509","text":"Claire : I so want to argue with you about whether Libya is a success story","type":"L","timestamp":"2016-07-07 15:37:56"},{"nodeID":"180510","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:37:56","scheme":"Asserting","schemeID":"74"},{"nodeID":"180511","text":"Claire Fox so wants to argue with Alan Mendoza about whether Libya is a success story","type":"I","timestamp":"2016-07-07 15:37:56"},{"nodeID":"180512","text":"Rory: Claire : I so want to argue with you about whether Libya is a success story","type":"L","timestamp":"2016-07-07 15:37:56"},{"nodeID":"180513","text":"Claire : it will distract us","type":"L","timestamp":"2016-07-07 15:37:56"},{"nodeID":"180514","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:37:56","scheme":"Asserting","schemeID":"74"},{"nodeID":"180515","text":"it will distract us","type":"I","timestamp":"2016-07-07 15:37:57"},{"nodeID":"180516","text":"Rory: Claire : it will distract us","type":"L","timestamp":"2016-07-07 15:37:57"},{"nodeID":"180517","text":"Claire : people will recognise it's not such a rosy picture","type":"L","timestamp":"2016-07-07 15:37:57"},{"nodeID":"180518","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:37:57","scheme":"Asserting","schemeID":"74"},{"nodeID":"180519","text":"people will recognise it's not such a rosy picture","type":"I","timestamp":"2016-07-07 15:37:57"},{"nodeID":"180520","text":"Rory: Claire : people will recognise it's not such a rosy picture","type":"L","timestamp":"2016-07-07 15:37:57"},{"nodeID":"180521","text":"Claire : It's interesting you raise Russia and China","type":"L","timestamp":"2016-07-07 15:37:57"},{"nodeID":"180522","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:37:57","scheme":"Asserting","schemeID":"74"},{"nodeID":"180523","text":"It's interesting Alan Mendoza raise Russia and China","type":"I","timestamp":"2016-07-07 15:37:57"},{"nodeID":"180524","text":"Rory: Claire : It's interesting you raise Russia and China","type":"L","timestamp":"2016-07-07 15:37:57"},{"nodeID":"180525","text":"Rory: Claire : people have said it's incomprehensible and inconceivable that these countries would oppose this, based on their self-interest","type":"L","timestamp":"2016-07-07 15:37:57"},{"nodeID":"180526","text":"Claire : Isn't the kind of realpolitik and self-interest there actually part of a fairly principled reason why you would have a foreign policy","type":"L","timestamp":"2016-07-07 15:37:57"},{"nodeID":"180527","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:37:58","scheme":"Asserting","schemeID":"74"},{"nodeID":"180528","text":"the kind of realpolitik and self-interest there is actually part of a fairly principled reason why you would have a foreign policy","type":"I","timestamp":"2016-07-07 15:37:58"},{"nodeID":"180529","text":"Rory: Claire : Isn't the kind of realpolitik and self-interest there actually part of a fairly principled reason why you would have a foreign policy","type":"L","timestamp":"2016-07-07 15:37:58"},{"nodeID":"180530","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:37:58","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180531","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:37:58","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180532","text":"Default Inference","type":"RA","timestamp":"2016-07-07 15:37:58","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180533","text":"Arguing","type":"YA","timestamp":"2016-07-07 15:37:58","scheme":"Arguing","schemeID":"80"},{"nodeID":"180534","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:37:58","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180535","text":"Rory: People : it's incomprehensible and inconceivable that these countries would oppose this, based on their self-interest","type":"L","timestamp":"2016-07-07 15:37:58"},{"nodeID":"180536","text":"Rory: Claire : People : it's incomprehensible and inconceivable that these countries would oppose this, based on their self-interest","type":"L","timestamp":"2016-07-07 15:37:58"},{"nodeID":"180537","text":"it's incomprehensible and inconceivable that these countries would oppose this, based on their self-interest","type":"I","timestamp":"2016-07-07 15:37:58"},{"nodeID":"180538","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:37:58","scheme":"Asserting","schemeID":"74"},{"nodeID":"180539","text":"People : it's incomprehensible and inconceivable that these countries would oppose this, based on their self-interest","type":"L","timestamp":"2016-07-07 15:37:58"},{"nodeID":"180540","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:37:59","scheme":"Asserting","schemeID":"74"},{"nodeID":"180541","text":"Claire : People : it's incomprehensible and inconceivable that these countries would oppose this, based on their self-interest","type":"L","timestamp":"2016-07-07 15:37:59"},{"nodeID":"180542","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:37:59","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180543","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:37:59","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180544","text":"Default Conflict","type":"CA","timestamp":"2016-07-07 15:37:59","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"180545","text":"Disagreeing","type":"YA","timestamp":"2016-07-07 15:37:59","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"180546","text":"Alan :  I am not sure there's anything principled about realpolitik in that sense, certainly not morally principled","type":"L","timestamp":"2016-07-07 15:37:59"},{"nodeID":"180547","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:37:59","scheme":"Asserting","schemeID":"74"},{"nodeID":"180548","text":"Alan Mendoza is not sure there's anything principled about realpolitik in that sense, certainly not morally principled","type":"I","timestamp":"2016-07-07 15:37:59"},{"nodeID":"180549","text":"Rory: Alan :  I am not sure there's anything principled about realpolitik in that sense, certainly not morally principled","type":"L","timestamp":"2016-07-07 15:37:59"},{"nodeID":"180550","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:38:00","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180551","text":"Default Conflict","type":"CA","timestamp":"2016-07-07 15:38:00","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"180552","text":"Disagreeing","type":"YA","timestamp":"2016-07-07 15:38:00","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"180553","text":"Alan : It's self-interested absolutely","type":"L","timestamp":"2016-07-07 15:38:00"},{"nodeID":"180554","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:38:00","scheme":"Asserting","schemeID":"74"},{"nodeID":"180555","text":"It's self-interested absolutely","type":"I","timestamp":"2016-07-07 15:38:00"},{"nodeID":"180556","text":"Rory: Alan : It's self-interested absolutely","type":"L","timestamp":"2016-07-07 15:38:00"},{"nodeID":"180557","text":"Alan : You can say those countries may well be acting in their own national interests","type":"L","timestamp":"2016-07-07 15:38:00"},{"nodeID":"180558","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:38:00","scheme":"Asserting","schemeID":"74"},{"nodeID":"180559","text":"You can say those countries may well be acting in their own national interests","type":"I","timestamp":"2016-07-07 15:38:00"},{"nodeID":"180560","text":"Rory: Alan : You can say those countries may well be acting in their own national interests","type":"L","timestamp":"2016-07-07 15:38:00"},{"nodeID":"180561","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:38:00","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180562","text":"Default Inference","type":"RA","timestamp":"2016-07-07 15:38:00","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180563","text":"Arguing","type":"YA","timestamp":"2016-07-07 15:38:01","scheme":"Arguing","schemeID":"80"},{"nodeID":"180564","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:38:01","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180565","text":"Default Inference","type":"RA","timestamp":"2016-07-07 15:38:01","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180566","text":"Arguing","type":"YA","timestamp":"2016-07-07 15:38:01","scheme":"Arguing","schemeID":"80"},{"nodeID":"180567","text":"Claire : It's just a moment ago you suggested that foreign policy based on national interest could be a possibly good thing, if the west did it in their national interest","type":"L","timestamp":"2016-07-07 15:38:01"},{"nodeID":"180568","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:38:01","scheme":"Asserting","schemeID":"74"},{"nodeID":"180569","text":"It's just a moment ago Alan Mendoza suggested that foreign policy based on national interest could be a possibly good thing, if the west did it in their national interest","type":"I","timestamp":"2016-07-07 15:38:01"},{"nodeID":"180570","text":"Rory: Claire : It's just a moment ago you suggested that foreign policy based on national interest could be a possibly good thing, if the west did it in their national interest","type":"L","timestamp":"2016-07-07 15:38:01"},{"nodeID":"180571","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:38:01","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180572","text":"Alan : Assad was an enemy","type":"L","timestamp":"2016-07-07 15:38:01"},{"nodeID":"180573","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:38:01","scheme":"Asserting","schemeID":"74"},{"nodeID":"180574","text":"Assad was an enemy","type":"I","timestamp":"2016-07-07 15:38:01"},{"nodeID":"180575","text":"Rory: Alan : Assad was an enemy","type":"L","timestamp":"2016-07-07 15:38:02"},{"nodeID":"180576","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:38:02","scheme":"Asserting","schemeID":"74"},{"nodeID":"180577","text":"Claire : Alan : Assad was an enemy","type":"L","timestamp":"2016-07-07 15:38:02"},{"nodeID":"180578","text":"Rory: Claire : Alan : Assad was an enemy","type":"L","timestamp":"2016-07-07 15:38:02"},{"nodeID":"180579","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:38:02","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180580","text":"Alan : I didn't say that","type":"L","timestamp":"2016-07-07 15:38:02"},{"nodeID":"180581","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:38:02","scheme":"Asserting","schemeID":"74"},{"nodeID":"180582","text":"Alan Mendoza didn't say that","type":"I","timestamp":"2016-07-07 15:38:02"},{"nodeID":"180583","text":"Rory: Alan : I didn't say that","type":"L","timestamp":"2016-07-07 15:38:02"},{"nodeID":"180584","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:38:02","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180585","text":"Default Conflict","type":"CA","timestamp":"2016-07-07 15:38:02","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"180586","text":"Disagreeing","type":"YA","timestamp":"2016-07-07 15:38:02","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"180587","text":"Rory: Alan : I have said that his regime is not pro-Western","type":"L","timestamp":"2016-07-07 15:38:03"},{"nodeID":"180588","text":"Rory: Alan : his regime is not pro-Western","type":"L","timestamp":"2016-07-07 15:38:03"},{"nodeID":"180589","text":"Rory: Alan : Alan : his regime is not pro-Western","type":"L","timestamp":"2016-07-07 15:38:03"},{"nodeID":"180590","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:38:03","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180591","text":"Default Inference","type":"RA","timestamp":"2016-07-07 15:38:03","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180592","text":"Arguing","type":"YA","timestamp":"2016-07-07 15:38:03","scheme":"Arguing","schemeID":"80"},{"nodeID":"180593","text":"Default Conflict","type":"CA","timestamp":"2016-07-07 15:38:03","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"180594","text":"Disagreeing","type":"YA","timestamp":"2016-07-07 15:38:03","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"180595","text":"Default Inference","type":"RA","timestamp":"2016-07-07 15:38:03","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180596","text":"Arguing","type":"YA","timestamp":"2016-07-07 15:38:03","scheme":"Arguing","schemeID":"80"},{"nodeID":"180597","text":"Rory: Alan : If you look at the support for terrorism and the destabilising effect abroad","type":"L","timestamp":"2016-07-07 15:38:03"},{"nodeID":"180598","text":"Rory: Alan : Syria has been high up on that list","type":"L","timestamp":"2016-07-07 15:38:03"},{"nodeID":"180599","text":"his regime is not pro-Western, but his regime is also anti a lot of other things as well","type":"I","timestamp":"2016-07-07 15:38:03"},{"nodeID":"180600","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:38:04","scheme":"Asserting","schemeID":"74"},{"nodeID":"180601","text":"Alan :  his regime is not pro-Western, but his regime is also anti a lot of other things as well","type":"L","timestamp":"2016-07-07 15:38:04"},{"nodeID":"180602","text":"Rory: Alan :  his regime is not pro-Western, but his regime is also anti a lot of other things as well","type":"L","timestamp":"2016-07-07 15:38:04"},{"nodeID":"180603","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:38:04","scheme":"Asserting","schemeID":"74"},{"nodeID":"180604","text":"Alan : Alan :  his regime is not pro-Western, but his regime is also anti a lot of other things as well","type":"L","timestamp":"2016-07-07 15:38:04"},{"nodeID":"180605","text":"Rory: Alan : Alan :  his regime is not pro-Western, but his regime is also anti a lot of other things as well","type":"L","timestamp":"2016-07-07 15:38:04"},{"nodeID":"180606","text":"If you look at the support for terrorism and the destabilising effect abroad, Syria has been high up on that list","type":"I","timestamp":"2016-07-07 15:38:04"},{"nodeID":"180607","text":"Asserting","type":"YA","timestamp":"2016-07-07 15:38:04","scheme":"Asserting","schemeID":"74"},{"nodeID":"180608","text":"Alan : If you look at the support for terrorism and the destabilising effect abroad, Syria has been high up on that list","type":"L","timestamp":"2016-07-07 15:38:04"},{"nodeID":"180609","text":"Rory: Alan : If you look at the support for terrorism and the destabilising effect abroad, Syria has been high up on that list","type":"L","timestamp":"2016-07-07 15:38:04"},{"nodeID":"180610","text":"Default Transition","type":"TA","timestamp":"2016-07-07 15:38:04","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180611","text":"Default Inference","type":"RA","timestamp":"2016-07-07 15:38:04","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180612","text":"Arguing","type":"YA","timestamp":"2016-07-07 15:38:05","scheme":"Arguing","schemeID":"80"}],"edges":[{"edgeID":"220607","fromID":"180509","toID":"180510","formEdgeID":null},{"edgeID":"220616","fromID":"180509","toID":"180530","formEdgeID":null},{"edgeID":"220618","fromID":"180509","toID":"180531","formEdgeID":null},{"edgeID":"220606","fromID":"180510","toID":"180511","formEdgeID":null},{"edgeID":"220609","fromID":"180513","toID":"180514","formEdgeID":null},{"edgeID":"220608","fromID":"180514","toID":"180515","formEdgeID":null},{"edgeID":"220611","fromID":"180517","toID":"180518","formEdgeID":null},{"edgeID":"220624","fromID":"180517","toID":"180534","formEdgeID":null},{"edgeID":"220610","fromID":"180518","toID":"180519","formEdgeID":null},{"edgeID":"220620","fromID":"180519","toID":"180532","formEdgeID":null},{"edgeID":"220613","fromID":"180521","toID":"180522","formEdgeID":null},{"edgeID":"220630","fromID":"180521","toID":"180542","formEdgeID":null},{"edgeID":"220612","fromID":"180522","toID":"180523","formEdgeID":null},{"edgeID":"220615","fromID":"180526","toID":"180527","formEdgeID":null},{"edgeID":"220640","fromID":"180526","toID":"180550","formEdgeID":null},{"edgeID":"220614","fromID":"180527","toID":"180528","formEdgeID":null},{"edgeID":"220634","fromID":"180528","toID":"180544","formEdgeID":null},{"edgeID":"220617","fromID":"180530","toID":"180513","formEdgeID":null},{"edgeID":"220619","fromID":"180531","toID":"180517","formEdgeID":null},{"edgeID":"220622","fromID":"180531","toID":"180533","formEdgeID":null},{"edgeID":"220621","fromID":"180532","toID":"180511","formEdgeID":null},{"edgeID":"220623","fromID":"180533","toID":"180532","formEdgeID":null},{"edgeID":"220625","fromID":"180534","toID":"180521","formEdgeID":null},{"edgeID":"220626","fromID":"180538","toID":"180537","formEdgeID":null},{"edgeID":"220627","fromID":"180539","toID":"180538","formEdgeID":null},{"edgeID":"220628","fromID":"180540","toID":"180539","formEdgeID":null},{"edgeID":"220629","fromID":"180541","toID":"180540","formEdgeID":null},{"edgeID":"220632","fromID":"180541","toID":"180543","formEdgeID":null},{"edgeID":"220631","fromID":"180542","toID":"180541","formEdgeID":null},{"edgeID":"220633","fromID":"180543","toID":"180526","formEdgeID":null},{"edgeID":"220636","fromID":"180543","toID":"180545","formEdgeID":null},{"edgeID":"220635","fromID":"180544","toID":"180537","formEdgeID":null},{"edgeID":"220637","fromID":"180545","toID":"180544","formEdgeID":null},{"edgeID":"220639","fromID":"180546","toID":"180547","formEdgeID":null},{"edgeID":"220650","fromID":"180546","toID":"180561","formEdgeID":null},{"edgeID":"220656","fromID":"180546","toID":"180564","formEdgeID":null},{"edgeID":"220638","fromID":"180547","toID":"180548","formEdgeID":null},{"edgeID":"220642","fromID":"180548","toID":"180551","formEdgeID":null},{"edgeID":"220641","fromID":"180550","toID":"180546","formEdgeID":null},{"edgeID":"220644","fromID":"180550","toID":"180552","formEdgeID":null},{"edgeID":"220643","fromID":"180551","toID":"180528","formEdgeID":null},{"edgeID":"220645","fromID":"180552","toID":"180551","formEdgeID":null},{"edgeID":"220647","fromID":"180553","toID":"180554","formEdgeID":null},{"edgeID":"220646","fromID":"180554","toID":"180555","formEdgeID":null},{"edgeID":"220652","fromID":"180555","toID":"180562","formEdgeID":null},{"edgeID":"220649","fromID":"180557","toID":"180558","formEdgeID":null},{"edgeID":"220664","fromID":"180557","toID":"180571","formEdgeID":null},{"edgeID":"220648","fromID":"180558","toID":"180559","formEdgeID":null},{"edgeID":"220658","fromID":"180559","toID":"180565","formEdgeID":null},{"edgeID":"220651","fromID":"180561","toID":"180553","formEdgeID":null},{"edgeID":"220654","fromID":"180561","toID":"180563","formEdgeID":null},{"edgeID":"220653","fromID":"180562","toID":"180548","formEdgeID":null},{"edgeID":"220655","fromID":"180563","toID":"180562","formEdgeID":null},{"edgeID":"220657","fromID":"180564","toID":"180557","formEdgeID":null},{"edgeID":"220660","fromID":"180564","toID":"180566","formEdgeID":null},{"edgeID":"220659","fromID":"180565","toID":"180548","formEdgeID":null},{"edgeID":"220661","fromID":"180566","toID":"180565","formEdgeID":null},{"edgeID":"220663","fromID":"180567","toID":"180568","formEdgeID":null},{"edgeID":"220670","fromID":"180567","toID":"180579","formEdgeID":null},{"edgeID":"220662","fromID":"180568","toID":"180569","formEdgeID":null},{"edgeID":"220684","fromID":"180569","toID":"180593","formEdgeID":null},{"edgeID":"220665","fromID":"180571","toID":"180567","formEdgeID":null},{"edgeID":"220686","fromID":"180571","toID":"180594","formEdgeID":null},{"edgeID":"220667","fromID":"180572","toID":"180573","formEdgeID":null},{"edgeID":"220666","fromID":"180573","toID":"180574","formEdgeID":null},{"edgeID":"220688","fromID":"180574","toID":"180595","formEdgeID":null},{"edgeID":"220668","fromID":"180576","toID":"180572","formEdgeID":null},{"edgeID":"220669","fromID":"180577","toID":"180576","formEdgeID":null},{"edgeID":"220674","fromID":"180577","toID":"180584","formEdgeID":null},{"edgeID":"220671","fromID":"180579","toID":"180577","formEdgeID":null},{"edgeID":"220690","fromID":"180579","toID":"180596","formEdgeID":null},{"edgeID":"220673","fromID":"180580","toID":"180581","formEdgeID":null},{"edgeID":"220680","fromID":"180580","toID":"180590","formEdgeID":null},{"edgeID":"220672","fromID":"180581","toID":"180582","formEdgeID":null},{"edgeID":"220676","fromID":"180582","toID":"180585","formEdgeID":null},{"edgeID":"220675","fromID":"180584","toID":"180580","formEdgeID":null},{"edgeID":"220678","fromID":"180584","toID":"180586","formEdgeID":null},{"edgeID":"220677","fromID":"180585","toID":"180572","formEdgeID":null},{"edgeID":"220679","fromID":"180586","toID":"180585","formEdgeID":null},{"edgeID":"220682","fromID":"180590","toID":"180592","formEdgeID":null},{"edgeID":"220696","fromID":"180590","toID":"180604","formEdgeID":null},{"edgeID":"220681","fromID":"180591","toID":"180582","formEdgeID":null},{"edgeID":"220683","fromID":"180592","toID":"180591","formEdgeID":null},{"edgeID":"220685","fromID":"180593","toID":"180559","formEdgeID":null},{"edgeID":"220687","fromID":"180594","toID":"180593","formEdgeID":null},{"edgeID":"220689","fromID":"180595","toID":"180569","formEdgeID":null},{"edgeID":"220691","fromID":"180596","toID":"180595","formEdgeID":null},{"edgeID":"220697","fromID":"180599","toID":"180591","formEdgeID":null},{"edgeID":"220692","fromID":"180600","toID":"180599","formEdgeID":null},{"edgeID":"220693","fromID":"180601","toID":"180600","formEdgeID":null},{"edgeID":"220694","fromID":"180603","toID":"180601","formEdgeID":null},{"edgeID":"220695","fromID":"180604","toID":"180603","formEdgeID":null},{"edgeID":"220700","fromID":"180604","toID":"180610","formEdgeID":null},{"edgeID":"220702","fromID":"180606","toID":"180611","formEdgeID":null},{"edgeID":"220698","fromID":"180607","toID":"180606","formEdgeID":null},{"edgeID":"220699","fromID":"180608","toID":"180607","formEdgeID":null},{"edgeID":"220701","fromID":"180610","toID":"180608","formEdgeID":null},{"edgeID":"220704","fromID":"180610","toID":"180612","formEdgeID":null},{"edgeID":"220703","fromID":"180611","toID":"180599","formEdgeID":null},{"edgeID":"220705","fromID":"180612","toID":"180611","formEdgeID":null}],"locutions":[{"nodeID":"180539","personID":"1282","timestamp":"2016-07-07 15:38:08","start":null,"end":null,"source":null},{"nodeID":"180541","personID":"511","timestamp":"2016-07-07 15:38:08","start":null,"end":null,"source":null},{"nodeID":"180577","personID":"511","timestamp":"2016-07-07 15:38:08","start":null,"end":null,"source":null},{"nodeID":"180601","personID":"1637","timestamp":"2016-07-07 15:38:08","start":null,"end":null,"source":null},{"nodeID":"180604","personID":"1637","timestamp":"2016-07-07 15:38:08","start":null,"end":null,"source":null},{"nodeID":"180608","personID":"1637","timestamp":"2016-07-07 15:38:08","start":null,"end":null,"source":null}]}
+{
+    "nodes": [
+        {
+            "nodeID": "180509",
+            "text": "Claire : I so want to argue with you about whether Libya is a success story",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:56"
+        },
+        {
+            "nodeID": "180510",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:37:56",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180511",
+            "text": "Claire Fox so wants to argue with Alan Mendoza about whether Libya is a success story",
+            "type": "I",
+            "timestamp": "2016-07-07 15:37:56"
+        },
+        {
+            "nodeID": "180512",
+            "text": "Rory: Claire : I so want to argue with you about whether Libya is a success story",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:56"
+        },
+        {
+            "nodeID": "180513",
+            "text": "Claire : it will distract us",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:56"
+        },
+        {
+            "nodeID": "180514",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:37:56",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180515",
+            "text": "it will distract us",
+            "type": "I",
+            "timestamp": "2016-07-07 15:37:57"
+        },
+        {
+            "nodeID": "180516",
+            "text": "Rory: Claire : it will distract us",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:57"
+        },
+        {
+            "nodeID": "180517",
+            "text": "Claire : people will recognise it's not such a rosy picture",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:57"
+        },
+        {
+            "nodeID": "180518",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:37:57",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180519",
+            "text": "people will recognise it's not such a rosy picture",
+            "type": "I",
+            "timestamp": "2016-07-07 15:37:57"
+        },
+        {
+            "nodeID": "180520",
+            "text": "Rory: Claire : people will recognise it's not such a rosy picture",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:57"
+        },
+        {
+            "nodeID": "180521",
+            "text": "Claire : It's interesting you raise Russia and China",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:57"
+        },
+        {
+            "nodeID": "180522",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:37:57",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180523",
+            "text": "It's interesting Alan Mendoza raise Russia and China",
+            "type": "I",
+            "timestamp": "2016-07-07 15:37:57"
+        },
+        {
+            "nodeID": "180524",
+            "text": "Rory: Claire : It's interesting you raise Russia and China",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:57"
+        },
+        {
+            "nodeID": "180525",
+            "text": "Rory: Claire : people have said it's incomprehensible and inconceivable that these countries would oppose this, based on their self-interest",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:57"
+        },
+        {
+            "nodeID": "180526",
+            "text": "Claire : Isn't the kind of realpolitik and self-interest there actually part of a fairly principled reason why you would have a foreign policy",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:57"
+        },
+        {
+            "nodeID": "180527",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:37:58",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180528",
+            "text": "the kind of realpolitik and self-interest there is actually part of a fairly principled reason why you would have a foreign policy",
+            "type": "I",
+            "timestamp": "2016-07-07 15:37:58"
+        },
+        {
+            "nodeID": "180529",
+            "text": "Rory: Claire : Isn't the kind of realpolitik and self-interest there actually part of a fairly principled reason why you would have a foreign policy",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:58"
+        },
+        {
+            "nodeID": "180530",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:37:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180531",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:37:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180532",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-07 15:37:58",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180533",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:37:58",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180534",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:37:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180535",
+            "text": "Rory: People : it's incomprehensible and inconceivable that these countries would oppose this, based on their self-interest",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:58"
+        },
+        {
+            "nodeID": "180536",
+            "text": "Rory: Claire : People : it's incomprehensible and inconceivable that these countries would oppose this, based on their self-interest",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:58"
+        },
+        {
+            "nodeID": "180537",
+            "text": "it's incomprehensible and inconceivable that these countries would oppose this, based on their self-interest",
+            "type": "I",
+            "timestamp": "2016-07-07 15:37:58"
+        },
+        {
+            "nodeID": "180538",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:37:58",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180539",
+            "text": "People : it's incomprehensible and inconceivable that these countries would oppose this, based on their self-interest",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:58"
+        },
+        {
+            "nodeID": "180540",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:37:59",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180541",
+            "text": "Claire : People : it's incomprehensible and inconceivable that these countries would oppose this, based on their self-interest",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:59"
+        },
+        {
+            "nodeID": "180542",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:37:59",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180543",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:37:59",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180544",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-07 15:37:59",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "180545",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:37:59",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "180546",
+            "text": "Alan :  I am not sure there's anything principled about realpolitik in that sense, certainly not morally principled",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:59"
+        },
+        {
+            "nodeID": "180547",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:37:59",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180548",
+            "text": "Alan Mendoza is not sure there's anything principled about realpolitik in that sense, certainly not morally principled",
+            "type": "I",
+            "timestamp": "2016-07-07 15:37:59"
+        },
+        {
+            "nodeID": "180549",
+            "text": "Rory: Alan :  I am not sure there's anything principled about realpolitik in that sense, certainly not morally principled",
+            "type": "L",
+            "timestamp": "2016-07-07 15:37:59"
+        },
+        {
+            "nodeID": "180550",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:38:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180551",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-07 15:38:00",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "180552",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:00",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "180553",
+            "text": "Alan : It's self-interested absolutely",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:00"
+        },
+        {
+            "nodeID": "180554",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:00",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180555",
+            "text": "It's self-interested absolutely",
+            "type": "I",
+            "timestamp": "2016-07-07 15:38:00"
+        },
+        {
+            "nodeID": "180556",
+            "text": "Rory: Alan : It's self-interested absolutely",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:00"
+        },
+        {
+            "nodeID": "180557",
+            "text": "Alan : You can say those countries may well be acting in their own national interests",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:00"
+        },
+        {
+            "nodeID": "180558",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:00",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180559",
+            "text": "You can say those countries may well be acting in their own national interests",
+            "type": "I",
+            "timestamp": "2016-07-07 15:38:00"
+        },
+        {
+            "nodeID": "180560",
+            "text": "Rory: Alan : You can say those countries may well be acting in their own national interests",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:00"
+        },
+        {
+            "nodeID": "180561",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:38:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180562",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-07 15:38:00",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180563",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:01",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180564",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:38:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180565",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-07 15:38:01",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180566",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:01",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180567",
+            "text": "Claire : It's just a moment ago you suggested that foreign policy based on national interest could be a possibly good thing, if the west did it in their national interest",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:01"
+        },
+        {
+            "nodeID": "180568",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:01",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180569",
+            "text": "It's just a moment ago Alan Mendoza suggested that foreign policy based on national interest could be a possibly good thing, if the west did it in their national interest",
+            "type": "I",
+            "timestamp": "2016-07-07 15:38:01"
+        },
+        {
+            "nodeID": "180570",
+            "text": "Rory: Claire : It's just a moment ago you suggested that foreign policy based on national interest could be a possibly good thing, if the west did it in their national interest",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:01"
+        },
+        {
+            "nodeID": "180571",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:38:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180572",
+            "text": "Alan : Assad was an enemy",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:01"
+        },
+        {
+            "nodeID": "180573",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:01",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180574",
+            "text": "Assad was an enemy",
+            "type": "I",
+            "timestamp": "2016-07-07 15:38:01"
+        },
+        {
+            "nodeID": "180575",
+            "text": "Rory: Alan : Assad was an enemy",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:02"
+        },
+        {
+            "nodeID": "180576",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:02",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180577",
+            "text": "Claire : Alan : Assad was an enemy",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:02"
+        },
+        {
+            "nodeID": "180578",
+            "text": "Rory: Claire : Alan : Assad was an enemy",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:02"
+        },
+        {
+            "nodeID": "180579",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:38:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180580",
+            "text": "Alan : I didn't say that",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:02"
+        },
+        {
+            "nodeID": "180581",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:02",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180582",
+            "text": "Alan Mendoza didn't say that",
+            "type": "I",
+            "timestamp": "2016-07-07 15:38:02"
+        },
+        {
+            "nodeID": "180583",
+            "text": "Rory: Alan : I didn't say that",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:02"
+        },
+        {
+            "nodeID": "180584",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:38:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180585",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-07 15:38:02",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "180586",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:02",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "180587",
+            "text": "Rory: Alan : I have said that his regime is not pro-Western",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:03"
+        },
+        {
+            "nodeID": "180588",
+            "text": "Rory: Alan : his regime is not pro-Western",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:03"
+        },
+        {
+            "nodeID": "180589",
+            "text": "Rory: Alan : Alan : his regime is not pro-Western",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:03"
+        },
+        {
+            "nodeID": "180590",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:38:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180591",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-07 15:38:03",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180592",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:03",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180593",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-07 15:38:03",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "180594",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:03",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "180595",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-07 15:38:03",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180596",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:03",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180597",
+            "text": "Rory: Alan : If you look at the support for terrorism and the destabilising effect abroad",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:03"
+        },
+        {
+            "nodeID": "180598",
+            "text": "Rory: Alan : Syria has been high up on that list",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:03"
+        },
+        {
+            "nodeID": "180599",
+            "text": "his regime is not pro-Western, but his regime is also anti a lot of other things as well",
+            "type": "I",
+            "timestamp": "2016-07-07 15:38:03"
+        },
+        {
+            "nodeID": "180600",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:04",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180601",
+            "text": "Alan :  his regime is not pro-Western, but his regime is also anti a lot of other things as well",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:04"
+        },
+        {
+            "nodeID": "180602",
+            "text": "Rory: Alan :  his regime is not pro-Western, but his regime is also anti a lot of other things as well",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:04"
+        },
+        {
+            "nodeID": "180603",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:04",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180604",
+            "text": "Alan : Alan :  his regime is not pro-Western, but his regime is also anti a lot of other things as well",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:04"
+        },
+        {
+            "nodeID": "180605",
+            "text": "Rory: Alan : Alan :  his regime is not pro-Western, but his regime is also anti a lot of other things as well",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:04"
+        },
+        {
+            "nodeID": "180606",
+            "text": "If you look at the support for terrorism and the destabilising effect abroad, Syria has been high up on that list",
+            "type": "I",
+            "timestamp": "2016-07-07 15:38:04"
+        },
+        {
+            "nodeID": "180607",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:04",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180608",
+            "text": "Alan : If you look at the support for terrorism and the destabilising effect abroad, Syria has been high up on that list",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:04"
+        },
+        {
+            "nodeID": "180609",
+            "text": "Rory: Alan : If you look at the support for terrorism and the destabilising effect abroad, Syria has been high up on that list",
+            "type": "L",
+            "timestamp": "2016-07-07 15:38:04"
+        },
+        {
+            "nodeID": "180610",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-07 15:38:04",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180611",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-07 15:38:04",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180612",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-07 15:38:05",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "220607",
+            "fromID": "180509",
+            "toID": "180510",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220616",
+            "fromID": "180509",
+            "toID": "180530",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220618",
+            "fromID": "180509",
+            "toID": "180531",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220606",
+            "fromID": "180510",
+            "toID": "180511",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220609",
+            "fromID": "180513",
+            "toID": "180514",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220608",
+            "fromID": "180514",
+            "toID": "180515",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220611",
+            "fromID": "180517",
+            "toID": "180518",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220624",
+            "fromID": "180517",
+            "toID": "180534",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220610",
+            "fromID": "180518",
+            "toID": "180519",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220620",
+            "fromID": "180519",
+            "toID": "180532",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220613",
+            "fromID": "180521",
+            "toID": "180522",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220630",
+            "fromID": "180521",
+            "toID": "180542",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220612",
+            "fromID": "180522",
+            "toID": "180523",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220615",
+            "fromID": "180526",
+            "toID": "180527",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220640",
+            "fromID": "180526",
+            "toID": "180550",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220614",
+            "fromID": "180527",
+            "toID": "180528",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220634",
+            "fromID": "180528",
+            "toID": "180544",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220617",
+            "fromID": "180530",
+            "toID": "180513",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220619",
+            "fromID": "180531",
+            "toID": "180517",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220622",
+            "fromID": "180531",
+            "toID": "180533",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220621",
+            "fromID": "180532",
+            "toID": "180511",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220623",
+            "fromID": "180533",
+            "toID": "180532",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220625",
+            "fromID": "180534",
+            "toID": "180521",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220626",
+            "fromID": "180538",
+            "toID": "180537",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220627",
+            "fromID": "180539",
+            "toID": "180538",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220628",
+            "fromID": "180540",
+            "toID": "180539",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220629",
+            "fromID": "180541",
+            "toID": "180540",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220632",
+            "fromID": "180541",
+            "toID": "180543",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220631",
+            "fromID": "180542",
+            "toID": "180541",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220633",
+            "fromID": "180543",
+            "toID": "180526",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220636",
+            "fromID": "180543",
+            "toID": "180545",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220635",
+            "fromID": "180544",
+            "toID": "180537",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220637",
+            "fromID": "180545",
+            "toID": "180544",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220639",
+            "fromID": "180546",
+            "toID": "180547",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220650",
+            "fromID": "180546",
+            "toID": "180561",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220656",
+            "fromID": "180546",
+            "toID": "180564",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220638",
+            "fromID": "180547",
+            "toID": "180548",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220642",
+            "fromID": "180548",
+            "toID": "180551",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220641",
+            "fromID": "180550",
+            "toID": "180546",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220644",
+            "fromID": "180550",
+            "toID": "180552",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220643",
+            "fromID": "180551",
+            "toID": "180528",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220645",
+            "fromID": "180552",
+            "toID": "180551",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220647",
+            "fromID": "180553",
+            "toID": "180554",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220646",
+            "fromID": "180554",
+            "toID": "180555",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220652",
+            "fromID": "180555",
+            "toID": "180562",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220649",
+            "fromID": "180557",
+            "toID": "180558",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220664",
+            "fromID": "180557",
+            "toID": "180571",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220648",
+            "fromID": "180558",
+            "toID": "180559",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220658",
+            "fromID": "180559",
+            "toID": "180565",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220651",
+            "fromID": "180561",
+            "toID": "180553",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220654",
+            "fromID": "180561",
+            "toID": "180563",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220653",
+            "fromID": "180562",
+            "toID": "180548",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220655",
+            "fromID": "180563",
+            "toID": "180562",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220657",
+            "fromID": "180564",
+            "toID": "180557",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220660",
+            "fromID": "180564",
+            "toID": "180566",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220659",
+            "fromID": "180565",
+            "toID": "180548",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220661",
+            "fromID": "180566",
+            "toID": "180565",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220663",
+            "fromID": "180567",
+            "toID": "180568",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220670",
+            "fromID": "180567",
+            "toID": "180579",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220662",
+            "fromID": "180568",
+            "toID": "180569",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220684",
+            "fromID": "180569",
+            "toID": "180593",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220665",
+            "fromID": "180571",
+            "toID": "180567",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220686",
+            "fromID": "180571",
+            "toID": "180594",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220667",
+            "fromID": "180572",
+            "toID": "180573",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220666",
+            "fromID": "180573",
+            "toID": "180574",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220688",
+            "fromID": "180574",
+            "toID": "180595",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220668",
+            "fromID": "180576",
+            "toID": "180572",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220669",
+            "fromID": "180577",
+            "toID": "180576",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220674",
+            "fromID": "180577",
+            "toID": "180584",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220671",
+            "fromID": "180579",
+            "toID": "180577",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220690",
+            "fromID": "180579",
+            "toID": "180596",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220673",
+            "fromID": "180580",
+            "toID": "180581",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220680",
+            "fromID": "180580",
+            "toID": "180590",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220672",
+            "fromID": "180581",
+            "toID": "180582",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220676",
+            "fromID": "180582",
+            "toID": "180585",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220675",
+            "fromID": "180584",
+            "toID": "180580",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220678",
+            "fromID": "180584",
+            "toID": "180586",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220677",
+            "fromID": "180585",
+            "toID": "180572",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220679",
+            "fromID": "180586",
+            "toID": "180585",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220682",
+            "fromID": "180590",
+            "toID": "180592",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220696",
+            "fromID": "180590",
+            "toID": "180604",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220681",
+            "fromID": "180591",
+            "toID": "180582",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220683",
+            "fromID": "180592",
+            "toID": "180591",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220685",
+            "fromID": "180593",
+            "toID": "180559",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220687",
+            "fromID": "180594",
+            "toID": "180593",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220689",
+            "fromID": "180595",
+            "toID": "180569",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220691",
+            "fromID": "180596",
+            "toID": "180595",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220697",
+            "fromID": "180599",
+            "toID": "180591",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220692",
+            "fromID": "180600",
+            "toID": "180599",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220693",
+            "fromID": "180601",
+            "toID": "180600",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220694",
+            "fromID": "180603",
+            "toID": "180601",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220695",
+            "fromID": "180604",
+            "toID": "180603",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220700",
+            "fromID": "180604",
+            "toID": "180610",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220702",
+            "fromID": "180606",
+            "toID": "180611",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220698",
+            "fromID": "180607",
+            "toID": "180606",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220699",
+            "fromID": "180608",
+            "toID": "180607",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220701",
+            "fromID": "180610",
+            "toID": "180608",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220704",
+            "fromID": "180610",
+            "toID": "180612",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220703",
+            "fromID": "180611",
+            "toID": "180599",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220705",
+            "fromID": "180612",
+            "toID": "180611",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "180539",
+            "personID": "1282",
+            "timestamp": "2016-07-07 15:38:08",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "180541",
+            "personID": "511",
+            "timestamp": "2016-07-07 15:38:08",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "180577",
+            "personID": "511",
+            "timestamp": "2016-07-07 15:38:08",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "180601",
+            "personID": "1637",
+            "timestamp": "2016-07-07 15:38:08",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "180604",
+            "personID": "1637",
+            "timestamp": "2016-07-07 15:38:08",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "180608",
+            "personID": "1637",
+            "timestamp": "2016-07-07 15:38:08",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

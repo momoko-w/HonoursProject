@@ -70,7 +70,7 @@ def fetchOrganisedData(dataSetName):
         if "scheme" in dataNode:
             completeNodeSet["schemeNodes"].append(dataNode)
         # inconsistencies in some of the datasets mean some of the nodes aren't annotated fully
-        elif (dataNode["type"] == "RA") | (dataNode["type"] == "CA") | (dataNode["type"] == "TA") | (dataNode["type"] == "MA"):
+        elif (dataNode["type"] == "RA") | (dataNode["type"] == "CA") | (dataNode["type"] == "TA") | (dataNode["type"] == "MA") | (dataNode["type"] == "YA"):
             completeNodeSet["schemeNodes"].append(dataNode)
         elif dataNode["type"] == "I":
             completeNodeSet["INodes"].append(dataNode)

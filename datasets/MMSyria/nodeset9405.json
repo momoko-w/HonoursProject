@@ -1,1 +1,895 @@
-{"nodes":[{"nodeID":"179672","text":"Michael : Okay, thank you very much indeed","type":"L","timestamp":"2016-07-06 14:06:31"},{"nodeID":"179673","text":"Asserting","type":"YA","timestamp":"2016-07-06 14:06:31","scheme":"Asserting","schemeID":"74"},{"nodeID":"179674","text":"Okay, thank you very much indeed","type":"I","timestamp":"2016-07-06 14:06:31"},{"nodeID":"179675","text":"Rory: Michael : Okay, thank you very much indeed","type":"L","timestamp":"2016-07-06 14:06:31"},{"nodeID":"179676","text":"Rory: Michael : Our next witness is Dr Alan Mendoza","type":"L","timestamp":"2016-07-06 14:06:32"},{"nodeID":"179677","text":"Rory: Michael : ho is executive director of the Henry Jackson Society, which is a think tank that promotes the spread of liberal democracy","type":"L","timestamp":"2016-07-06 14:06:32"},{"nodeID":"179678","text":"Michael : Our next witness is Dr Alan Mendoza, who is executive director of the Henry Jackson Society, which is a think tank that promotes the spread of liberal democracy","type":"L","timestamp":"2016-07-06 14:06:32"},{"nodeID":"179679","text":"Asserting","type":"YA","timestamp":"2016-07-06 14:06:32","scheme":"Asserting","schemeID":"74"},{"nodeID":"179680","text":"Our next witness is Dr Alan Mendoza, who is executive director of the Henry Jackson Society, which is a think tank that promotes the spread of liberal democracy","type":"I","timestamp":"2016-07-06 14:06:32"},{"nodeID":"179681","text":"Rory: Michael : Our next witness is Dr Alan Mendoza, who is executive director of the Henry Jackson Society, which is a think tank that promotes the spread of liberal democracy","type":"L","timestamp":"2016-07-06 14:06:32"},{"nodeID":"179682","text":"Default Transition","type":"TA","timestamp":"2016-07-06 14:06:32","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179683","text":"Michael : An overriding moral obligation to intervene","type":"L","timestamp":"2016-07-06 14:06:32"},{"nodeID":"179684","text":"Pure Questioning","type":"YA","timestamp":"2016-07-06 14:06:32","scheme":"PureQuestioning","schemeID":"91"},{"nodeID":"179685","text":"There is \/ there is not an overriding moral obligation to intervene","type":"I","timestamp":"2016-07-06 14:06:32"},{"nodeID":"179686","text":"Rory: Michael : An overriding moral obligation to intervene","type":"L","timestamp":"2016-07-06 14:06:32"},{"nodeID":"179687","text":"Default Transition","type":"TA","timestamp":"2016-07-06 14:06:32","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179688","text":"Alan : I think absolutely","type":"L","timestamp":"2016-07-06 14:06:32"},{"nodeID":"179689","text":"Asserting","type":"YA","timestamp":"2016-07-06 14:06:33","scheme":"Asserting","schemeID":"74"},{"nodeID":"179690","text":"I think absolutely","type":"I","timestamp":"2016-07-06 14:06:33"},{"nodeID":"179691","text":"Rory: Alan : I think absolutely","type":"L","timestamp":"2016-07-06 14:06:33"},{"nodeID":"179692","text":"Default Transition","type":"TA","timestamp":"2016-07-06 14:06:33","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179693","text":"Rory: Alan : If we're looking at the Syrian case","type":"L","timestamp":"2016-07-06 14:06:33"},{"nodeID":"179694","text":"Alan : If we're looking at the Syrian case, I think we have certainly reached the point where you have a dictator who has demonstrated his wish and indeed his willingness to carry out mass atrocities and will continue to do so","type":"L","timestamp":"2016-07-06 14:06:33"},{"nodeID":"179695","text":"Asserting","type":"YA","timestamp":"2016-07-06 14:06:33","scheme":"Asserting","schemeID":"74"},{"nodeID":"179696","text":"If we're looking at the Syrian case, I think we have certainly reached the point where you have a dictator who has demonstrated his wish and indeed his willingness to carry out mass atrocities and will continue to do so","type":"I","timestamp":"2016-07-06 14:06:33"},{"nodeID":"179697","text":"Rory: Alan : If we're looking at the Syrian case, I think we have certainly reached the point where you have a dictator who has demonstrated his wish and indeed his willingness to carry out mass atrocities and will continue to do so","type":"L","timestamp":"2016-07-06 14:06:33"},{"nodeID":"179698","text":"Default Transition","type":"TA","timestamp":"2016-07-06 14:06:33","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179699","text":"Default Inference","type":"RA","timestamp":"2016-07-06 14:06:33","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179700","text":"Arguing","type":"YA","timestamp":"2016-07-06 14:06:33","scheme":"Arguing","schemeID":"80"},{"nodeID":"179701","text":"Michael : if intervention results in a new regime that is more sympathetic to or tolerant of Islamic extremism for instance and therefore more threatening to us, that doesn't matter","type":"L","timestamp":"2016-07-06 14:06:34"},{"nodeID":"179702","text":"Pure Questioning","type":"YA","timestamp":"2016-07-06 14:06:34","scheme":"PureQuestioning","schemeID":"91"},{"nodeID":"179703","text":"it does \/ doesn't matter if intervention results in a new regime that is more sympathetic to or tolerant of Islamic extremism for instance and therefore more threatening to us","type":"I","timestamp":"2016-07-06 14:06:34"},{"nodeID":"179704","text":"Rory: Michael : if intervention results in a new regime that is more sympathetic to or tolerant of Islamic extremism for instance and therefore more threatening to us, that doesn't matter","type":"L","timestamp":"2016-07-06 14:06:34"},{"nodeID":"179705","text":"Default Transition","type":"TA","timestamp":"2016-07-06 14:06:34","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179706","text":"Alan : There are two different points there","type":"L","timestamp":"2016-07-06 14:06:34"},{"nodeID":"179707","text":"Asserting","type":"YA","timestamp":"2016-07-06 14:06:34","scheme":"Asserting","schemeID":"74"},{"nodeID":"179708","text":"There are two different points there","type":"I","timestamp":"2016-07-06 14:06:34"},{"nodeID":"179709","text":"Rory: Alan : There are two different points there","type":"L","timestamp":"2016-07-06 14:06:34"},{"nodeID":"179710","text":"Alan : we are looking at the current regime","type":"L","timestamp":"2016-07-06 14:06:34"},{"nodeID":"179711","text":"Asserting","type":"YA","timestamp":"2016-07-06 14:06:34","scheme":"Asserting","schemeID":"74"},{"nodeID":"179712","text":"we are looking at the current regime","type":"I","timestamp":"2016-07-06 14:06:34"},{"nodeID":"179713","text":"Rory: Alan : we are looking at the current regime","type":"L","timestamp":"2016-07-06 14:06:34"},{"nodeID":"179714","text":"Alan : It is difficult to conceive of a regime that could be worse for Western interests than Assad at the moment","type":"L","timestamp":"2016-07-06 14:06:35"},{"nodeID":"179715","text":"Asserting","type":"YA","timestamp":"2016-07-06 14:06:35","scheme":"Asserting","schemeID":"74"},{"nodeID":"179716","text":"It is difficult to conceive of a regime that could be worse for Western interests than Assad at the moment","type":"I","timestamp":"2016-07-06 14:06:35"},{"nodeID":"179717","text":"Rory: Alan : It is difficult to conceive of a regime that could be worse for Western interests than Assad at the moment","type":"L","timestamp":"2016-07-06 14:06:35"},{"nodeID":"179718","text":"Michael : We could have one that sheltered Al Qaeda","type":"L","timestamp":"2016-07-06 14:06:35"},{"nodeID":"179719","text":"Asserting","type":"YA","timestamp":"2016-07-06 14:06:35","scheme":"Asserting","schemeID":"74"},{"nodeID":"179720","text":"We could have one that sheltered Al Qaeda","type":"I","timestamp":"2016-07-06 14:06:35"},{"nodeID":"179721","text":"Rory: Michael : We could have one that sheltered Al Qaeda","type":"L","timestamp":"2016-07-06 14:06:35"},{"nodeID":"179722","text":"Alan : Yes","type":"L","timestamp":"2016-07-06 14:06:35"},{"nodeID":"179723","text":"Rory: Alan : Yes","type":"L","timestamp":"2016-07-06 14:06:35"},{"nodeID":"179724","text":"Alan : the first point is the dictator killing his people","type":"L","timestamp":"2016-07-06 14:06:35"},{"nodeID":"179725","text":"Asserting","type":"YA","timestamp":"2016-07-06 14:06:35","scheme":"Asserting","schemeID":"74"},{"nodeID":"179726","text":"the first point is the dictator killing his people","type":"I","timestamp":"2016-07-06 14:06:35"},{"nodeID":"179727","text":"Rory: Alan : the first point is the dictator killing his people","type":"L","timestamp":"2016-07-06 14:06:36"},{"nodeID":"179728","text":"Default Transition","type":"TA","timestamp":"2016-07-06 14:06:36","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179729","text":"Default Transition","type":"TA","timestamp":"2016-07-06 14:06:36","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179730","text":"Default Inference","type":"RA","timestamp":"2016-07-06 14:06:36","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179731","text":"Arguing","type":"YA","timestamp":"2016-07-06 14:06:36","scheme":"Arguing","schemeID":"80"},{"nodeID":"179732","text":"Default Transition","type":"TA","timestamp":"2016-07-06 14:06:36","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179733","text":"Default Inference","type":"RA","timestamp":"2016-07-06 14:06:36","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179734","text":"Arguing","type":"YA","timestamp":"2016-07-06 14:06:36","scheme":"Arguing","schemeID":"80"},{"nodeID":"179735","text":"Default Transition","type":"TA","timestamp":"2016-07-06 14:06:36","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179736","text":"Default Conflict","type":"CA","timestamp":"2016-07-06 14:06:36","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"179737","text":"Disagreeing","type":"YA","timestamp":"2016-07-06 14:06:36","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"179738","text":"Default Transition","type":"TA","timestamp":"2016-07-06 14:06:36","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179739","text":"Agreeing","type":"YA","timestamp":"2016-07-06 14:06:37","scheme":"Agreeing","schemeID":"77"},{"nodeID":"179740","text":"Default Transition","type":"TA","timestamp":"2016-07-06 14:06:37","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179741","text":"Default Inference","type":"RA","timestamp":"2016-07-06 14:06:37","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179742","text":"Arguing","type":"YA","timestamp":"2016-07-06 14:06:37","scheme":"Arguing","schemeID":"80"}],"edges":[{"edgeID":"219562","fromID":"179672","toID":"179673","formEdgeID":null},{"edgeID":"219565","fromID":"179672","toID":"179682","formEdgeID":null},{"edgeID":"219561","fromID":"179673","toID":"179674","formEdgeID":null},{"edgeID":"219564","fromID":"179678","toID":"179679","formEdgeID":null},{"edgeID":"219569","fromID":"179678","toID":"179687","formEdgeID":null},{"edgeID":"219563","fromID":"179679","toID":"179680","formEdgeID":null},{"edgeID":"219566","fromID":"179682","toID":"179678","formEdgeID":null},{"edgeID":"219568","fromID":"179683","toID":"179684","formEdgeID":null},{"edgeID":"219573","fromID":"179683","toID":"179692","formEdgeID":null},{"edgeID":"219567","fromID":"179684","toID":"179685","formEdgeID":null},{"edgeID":"219570","fromID":"179687","toID":"179683","formEdgeID":null},{"edgeID":"219572","fromID":"179688","toID":"179689","formEdgeID":null},{"edgeID":"219577","fromID":"179688","toID":"179698","formEdgeID":null},{"edgeID":"219571","fromID":"179689","toID":"179690","formEdgeID":null},{"edgeID":"219574","fromID":"179692","toID":"179688","formEdgeID":null},{"edgeID":"219576","fromID":"179694","toID":"179695","formEdgeID":null},{"edgeID":"219585","fromID":"179694","toID":"179705","formEdgeID":null},{"edgeID":"219575","fromID":"179695","toID":"179696","formEdgeID":null},{"edgeID":"219579","fromID":"179696","toID":"179699","formEdgeID":null},{"edgeID":"219578","fromID":"179698","toID":"179694","formEdgeID":null},{"edgeID":"219581","fromID":"179698","toID":"179700","formEdgeID":null},{"edgeID":"219580","fromID":"179699","toID":"179690","formEdgeID":null},{"edgeID":"219582","fromID":"179700","toID":"179699","formEdgeID":null},{"edgeID":"219584","fromID":"179701","toID":"179702","formEdgeID":null},{"edgeID":"219597","fromID":"179701","toID":"179728","formEdgeID":null},{"edgeID":"219583","fromID":"179702","toID":"179703","formEdgeID":null},{"edgeID":"219586","fromID":"179705","toID":"179701","formEdgeID":null},{"edgeID":"219588","fromID":"179706","toID":"179707","formEdgeID":null},{"edgeID":"219599","fromID":"179706","toID":"179729","formEdgeID":null},{"edgeID":"219587","fromID":"179707","toID":"179708","formEdgeID":null},{"edgeID":"219590","fromID":"179710","toID":"179711","formEdgeID":null},{"edgeID":"219605","fromID":"179710","toID":"179732","formEdgeID":null},{"edgeID":"219589","fromID":"179711","toID":"179712","formEdgeID":null},{"edgeID":"219601","fromID":"179712","toID":"179730","formEdgeID":null},{"edgeID":"219592","fromID":"179714","toID":"179715","formEdgeID":null},{"edgeID":"219611","fromID":"179714","toID":"179735","formEdgeID":null},{"edgeID":"219621","fromID":"179714","toID":"179740","formEdgeID":null},{"edgeID":"219591","fromID":"179715","toID":"179716","formEdgeID":null},{"edgeID":"219607","fromID":"179716","toID":"179733","formEdgeID":null},{"edgeID":"219594","fromID":"179718","toID":"179719","formEdgeID":null},{"edgeID":"219617","fromID":"179718","toID":"179738","formEdgeID":null},{"edgeID":"219593","fromID":"179719","toID":"179720","formEdgeID":null},{"edgeID":"219613","fromID":"179720","toID":"179736","formEdgeID":null},{"edgeID":"219596","fromID":"179724","toID":"179725","formEdgeID":null},{"edgeID":"219595","fromID":"179725","toID":"179726","formEdgeID":null},{"edgeID":"219623","fromID":"179726","toID":"179741","formEdgeID":null},{"edgeID":"219598","fromID":"179728","toID":"179706","formEdgeID":null},{"edgeID":"219600","fromID":"179729","toID":"179710","formEdgeID":null},{"edgeID":"219603","fromID":"179729","toID":"179731","formEdgeID":null},{"edgeID":"219602","fromID":"179730","toID":"179708","formEdgeID":null},{"edgeID":"219604","fromID":"179731","toID":"179730","formEdgeID":null},{"edgeID":"219606","fromID":"179732","toID":"179714","formEdgeID":null},{"edgeID":"219609","fromID":"179732","toID":"179734","formEdgeID":null},{"edgeID":"219608","fromID":"179733","toID":"179712","formEdgeID":null},{"edgeID":"219610","fromID":"179734","toID":"179733","formEdgeID":null},{"edgeID":"219612","fromID":"179735","toID":"179718","formEdgeID":null},{"edgeID":"219615","fromID":"179735","toID":"179737","formEdgeID":null},{"edgeID":"219614","fromID":"179736","toID":"179716","formEdgeID":null},{"edgeID":"219616","fromID":"179737","toID":"179736","formEdgeID":null},{"edgeID":"219618","fromID":"179738","toID":"179722","formEdgeID":null},{"edgeID":"219619","fromID":"179738","toID":"179739","formEdgeID":null},{"edgeID":"219620","fromID":"179739","toID":"179720","formEdgeID":null},{"edgeID":"219622","fromID":"179740","toID":"179724","formEdgeID":null},{"edgeID":"219625","fromID":"179740","toID":"179742","formEdgeID":null},{"edgeID":"219624","fromID":"179741","toID":"179716","formEdgeID":null},{"edgeID":"219626","fromID":"179742","toID":"179741","formEdgeID":null}],"locutions":[]}
+{
+    "nodes": [
+        {
+            "nodeID": "179672",
+            "text": "Michael : Okay, thank you very much indeed",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:31"
+        },
+        {
+            "nodeID": "179673",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:31",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179674",
+            "text": "Okay, thank you very much indeed",
+            "type": "I",
+            "timestamp": "2016-07-06 14:06:31"
+        },
+        {
+            "nodeID": "179675",
+            "text": "Rory: Michael : Okay, thank you very much indeed",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:31"
+        },
+        {
+            "nodeID": "179676",
+            "text": "Rory: Michael : Our next witness is Dr Alan Mendoza",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:32"
+        },
+        {
+            "nodeID": "179677",
+            "text": "Rory: Michael : ho is executive director of the Henry Jackson Society, which is a think tank that promotes the spread of liberal democracy",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:32"
+        },
+        {
+            "nodeID": "179678",
+            "text": "Michael : Our next witness is Dr Alan Mendoza, who is executive director of the Henry Jackson Society, which is a think tank that promotes the spread of liberal democracy",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:32"
+        },
+        {
+            "nodeID": "179679",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:32",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179680",
+            "text": "Our next witness is Dr Alan Mendoza, who is executive director of the Henry Jackson Society, which is a think tank that promotes the spread of liberal democracy",
+            "type": "I",
+            "timestamp": "2016-07-06 14:06:32"
+        },
+        {
+            "nodeID": "179681",
+            "text": "Rory: Michael : Our next witness is Dr Alan Mendoza, who is executive director of the Henry Jackson Society, which is a think tank that promotes the spread of liberal democracy",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:32"
+        },
+        {
+            "nodeID": "179682",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 14:06:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179683",
+            "text": "Michael : An overriding moral obligation to intervene",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:32"
+        },
+        {
+            "nodeID": "179684",
+            "text": "Pure Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:32",
+            "scheme": "PureQuestioning",
+            "schemeID": "91"
+        },
+        {
+            "nodeID": "179685",
+            "text": "There is \/ there is not an overriding moral obligation to intervene",
+            "type": "I",
+            "timestamp": "2016-07-06 14:06:32"
+        },
+        {
+            "nodeID": "179686",
+            "text": "Rory: Michael : An overriding moral obligation to intervene",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:32"
+        },
+        {
+            "nodeID": "179687",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 14:06:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179688",
+            "text": "Alan : I think absolutely",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:32"
+        },
+        {
+            "nodeID": "179689",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:33",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179690",
+            "text": "I think absolutely",
+            "type": "I",
+            "timestamp": "2016-07-06 14:06:33"
+        },
+        {
+            "nodeID": "179691",
+            "text": "Rory: Alan : I think absolutely",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:33"
+        },
+        {
+            "nodeID": "179692",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 14:06:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179693",
+            "text": "Rory: Alan : If we're looking at the Syrian case",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:33"
+        },
+        {
+            "nodeID": "179694",
+            "text": "Alan : If we're looking at the Syrian case, I think we have certainly reached the point where you have a dictator who has demonstrated his wish and indeed his willingness to carry out mass atrocities and will continue to do so",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:33"
+        },
+        {
+            "nodeID": "179695",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:33",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179696",
+            "text": "If we're looking at the Syrian case, I think we have certainly reached the point where you have a dictator who has demonstrated his wish and indeed his willingness to carry out mass atrocities and will continue to do so",
+            "type": "I",
+            "timestamp": "2016-07-06 14:06:33"
+        },
+        {
+            "nodeID": "179697",
+            "text": "Rory: Alan : If we're looking at the Syrian case, I think we have certainly reached the point where you have a dictator who has demonstrated his wish and indeed his willingness to carry out mass atrocities and will continue to do so",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:33"
+        },
+        {
+            "nodeID": "179698",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 14:06:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179699",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-06 14:06:33",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179700",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:33",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179701",
+            "text": "Michael : if intervention results in a new regime that is more sympathetic to or tolerant of Islamic extremism for instance and therefore more threatening to us, that doesn't matter",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:34"
+        },
+        {
+            "nodeID": "179702",
+            "text": "Pure Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:34",
+            "scheme": "PureQuestioning",
+            "schemeID": "91"
+        },
+        {
+            "nodeID": "179703",
+            "text": "it does \/ doesn't matter if intervention results in a new regime that is more sympathetic to or tolerant of Islamic extremism for instance and therefore more threatening to us",
+            "type": "I",
+            "timestamp": "2016-07-06 14:06:34"
+        },
+        {
+            "nodeID": "179704",
+            "text": "Rory: Michael : if intervention results in a new regime that is more sympathetic to or tolerant of Islamic extremism for instance and therefore more threatening to us, that doesn't matter",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:34"
+        },
+        {
+            "nodeID": "179705",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 14:06:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179706",
+            "text": "Alan : There are two different points there",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:34"
+        },
+        {
+            "nodeID": "179707",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:34",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179708",
+            "text": "There are two different points there",
+            "type": "I",
+            "timestamp": "2016-07-06 14:06:34"
+        },
+        {
+            "nodeID": "179709",
+            "text": "Rory: Alan : There are two different points there",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:34"
+        },
+        {
+            "nodeID": "179710",
+            "text": "Alan : we are looking at the current regime",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:34"
+        },
+        {
+            "nodeID": "179711",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:34",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179712",
+            "text": "we are looking at the current regime",
+            "type": "I",
+            "timestamp": "2016-07-06 14:06:34"
+        },
+        {
+            "nodeID": "179713",
+            "text": "Rory: Alan : we are looking at the current regime",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:34"
+        },
+        {
+            "nodeID": "179714",
+            "text": "Alan : It is difficult to conceive of a regime that could be worse for Western interests than Assad at the moment",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:35"
+        },
+        {
+            "nodeID": "179715",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:35",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179716",
+            "text": "It is difficult to conceive of a regime that could be worse for Western interests than Assad at the moment",
+            "type": "I",
+            "timestamp": "2016-07-06 14:06:35"
+        },
+        {
+            "nodeID": "179717",
+            "text": "Rory: Alan : It is difficult to conceive of a regime that could be worse for Western interests than Assad at the moment",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:35"
+        },
+        {
+            "nodeID": "179718",
+            "text": "Michael : We could have one that sheltered Al Qaeda",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:35"
+        },
+        {
+            "nodeID": "179719",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:35",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179720",
+            "text": "We could have one that sheltered Al Qaeda",
+            "type": "I",
+            "timestamp": "2016-07-06 14:06:35"
+        },
+        {
+            "nodeID": "179721",
+            "text": "Rory: Michael : We could have one that sheltered Al Qaeda",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:35"
+        },
+        {
+            "nodeID": "179722",
+            "text": "Alan : Yes",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:35"
+        },
+        {
+            "nodeID": "179723",
+            "text": "Rory: Alan : Yes",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:35"
+        },
+        {
+            "nodeID": "179724",
+            "text": "Alan : the first point is the dictator killing his people",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:35"
+        },
+        {
+            "nodeID": "179725",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:35",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179726",
+            "text": "the first point is the dictator killing his people",
+            "type": "I",
+            "timestamp": "2016-07-06 14:06:35"
+        },
+        {
+            "nodeID": "179727",
+            "text": "Rory: Alan : the first point is the dictator killing his people",
+            "type": "L",
+            "timestamp": "2016-07-06 14:06:36"
+        },
+        {
+            "nodeID": "179728",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 14:06:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179729",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 14:06:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179730",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-06 14:06:36",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179731",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:36",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179732",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 14:06:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179733",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-06 14:06:36",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179734",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:36",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179735",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 14:06:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179736",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-06 14:06:36",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "179737",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:36",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "179738",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 14:06:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179739",
+            "text": "Agreeing",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:37",
+            "scheme": "Agreeing",
+            "schemeID": "77"
+        },
+        {
+            "nodeID": "179740",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-06 14:06:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179741",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-06 14:06:37",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179742",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-06 14:06:37",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "219562",
+            "fromID": "179672",
+            "toID": "179673",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219565",
+            "fromID": "179672",
+            "toID": "179682",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219561",
+            "fromID": "179673",
+            "toID": "179674",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219564",
+            "fromID": "179678",
+            "toID": "179679",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219569",
+            "fromID": "179678",
+            "toID": "179687",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219563",
+            "fromID": "179679",
+            "toID": "179680",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219566",
+            "fromID": "179682",
+            "toID": "179678",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219568",
+            "fromID": "179683",
+            "toID": "179684",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219573",
+            "fromID": "179683",
+            "toID": "179692",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219567",
+            "fromID": "179684",
+            "toID": "179685",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219570",
+            "fromID": "179687",
+            "toID": "179683",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219572",
+            "fromID": "179688",
+            "toID": "179689",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219577",
+            "fromID": "179688",
+            "toID": "179698",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219571",
+            "fromID": "179689",
+            "toID": "179690",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219574",
+            "fromID": "179692",
+            "toID": "179688",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219576",
+            "fromID": "179694",
+            "toID": "179695",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219585",
+            "fromID": "179694",
+            "toID": "179705",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219575",
+            "fromID": "179695",
+            "toID": "179696",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219579",
+            "fromID": "179696",
+            "toID": "179699",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219578",
+            "fromID": "179698",
+            "toID": "179694",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219581",
+            "fromID": "179698",
+            "toID": "179700",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219580",
+            "fromID": "179699",
+            "toID": "179690",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219582",
+            "fromID": "179700",
+            "toID": "179699",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219584",
+            "fromID": "179701",
+            "toID": "179702",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219597",
+            "fromID": "179701",
+            "toID": "179728",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219583",
+            "fromID": "179702",
+            "toID": "179703",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219586",
+            "fromID": "179705",
+            "toID": "179701",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219588",
+            "fromID": "179706",
+            "toID": "179707",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219599",
+            "fromID": "179706",
+            "toID": "179729",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219587",
+            "fromID": "179707",
+            "toID": "179708",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219590",
+            "fromID": "179710",
+            "toID": "179711",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219605",
+            "fromID": "179710",
+            "toID": "179732",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219589",
+            "fromID": "179711",
+            "toID": "179712",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219601",
+            "fromID": "179712",
+            "toID": "179730",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219592",
+            "fromID": "179714",
+            "toID": "179715",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219611",
+            "fromID": "179714",
+            "toID": "179735",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219621",
+            "fromID": "179714",
+            "toID": "179740",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219591",
+            "fromID": "179715",
+            "toID": "179716",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219607",
+            "fromID": "179716",
+            "toID": "179733",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219594",
+            "fromID": "179718",
+            "toID": "179719",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219617",
+            "fromID": "179718",
+            "toID": "179738",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219593",
+            "fromID": "179719",
+            "toID": "179720",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219613",
+            "fromID": "179720",
+            "toID": "179736",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219596",
+            "fromID": "179724",
+            "toID": "179725",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219595",
+            "fromID": "179725",
+            "toID": "179726",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219623",
+            "fromID": "179726",
+            "toID": "179741",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219598",
+            "fromID": "179728",
+            "toID": "179706",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219600",
+            "fromID": "179729",
+            "toID": "179710",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219603",
+            "fromID": "179729",
+            "toID": "179731",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219602",
+            "fromID": "179730",
+            "toID": "179708",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219604",
+            "fromID": "179731",
+            "toID": "179730",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219606",
+            "fromID": "179732",
+            "toID": "179714",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219609",
+            "fromID": "179732",
+            "toID": "179734",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219608",
+            "fromID": "179733",
+            "toID": "179712",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219610",
+            "fromID": "179734",
+            "toID": "179733",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219612",
+            "fromID": "179735",
+            "toID": "179718",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219615",
+            "fromID": "179735",
+            "toID": "179737",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219614",
+            "fromID": "179736",
+            "toID": "179716",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219616",
+            "fromID": "179737",
+            "toID": "179736",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219618",
+            "fromID": "179738",
+            "toID": "179722",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219619",
+            "fromID": "179738",
+            "toID": "179739",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219620",
+            "fromID": "179739",
+            "toID": "179720",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219622",
+            "fromID": "179740",
+            "toID": "179724",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219625",
+            "fromID": "179740",
+            "toID": "179742",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219624",
+            "fromID": "179741",
+            "toID": "179716",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219626",
+            "fromID": "179742",
+            "toID": "179741",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": []
+}

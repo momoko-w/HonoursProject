@@ -1,1 +1,1155 @@
-{"nodes":[{"nodeID":"180704","text":"Claire : It seems to me to be inconsistent","type":"L","timestamp":"2016-07-08 14:12:27"},{"nodeID":"180705","text":"Asserting","type":"YA","timestamp":"2016-07-08 14:12:27","scheme":"Asserting","schemeID":"74"},{"nodeID":"180706","text":"It seems to me to be inconsistent","type":"I","timestamp":"2016-07-08 14:12:27"},{"nodeID":"180707","text":"Rory: Claire : It seems to me to be inconsistent","type":"L","timestamp":"2016-07-08 14:12:27"},{"nodeID":"180708","text":"Claire : It seems more narcissistic","type":"L","timestamp":"2016-07-08 14:12:27"},{"nodeID":"180709","text":"Asserting","type":"YA","timestamp":"2016-07-08 14:12:28","scheme":"Asserting","schemeID":"74"},{"nodeID":"180710","text":"It seems more narcissistic","type":"I","timestamp":"2016-07-08 14:12:28"},{"nodeID":"180711","text":"Rory: Claire : It seems more narcissistic","type":"L","timestamp":"2016-07-08 14:12:28"},{"nodeID":"180712","text":"Claire : about us saying we can't leave this alone","type":"L","timestamp":"2016-07-08 14:12:28"},{"nodeID":"180713","text":"Asserting","type":"YA","timestamp":"2016-07-08 14:12:28","scheme":"Asserting","schemeID":"74"},{"nodeID":"180714","text":"about us saying we can't leave this alone","type":"I","timestamp":"2016-07-08 14:12:28"},{"nodeID":"180715","text":"Rory: Claire : about us saying we can't leave this alone","type":"L","timestamp":"2016-07-08 14:12:28"},{"nodeID":"180716","text":"Claire : we will have blood on our hands","type":"L","timestamp":"2016-07-08 14:12:28"},{"nodeID":"180717","text":"Asserting","type":"YA","timestamp":"2016-07-08 14:12:28","scheme":"Asserting","schemeID":"74"},{"nodeID":"180718","text":"we will have blood on our hands","type":"I","timestamp":"2016-07-08 14:12:28"},{"nodeID":"180719","text":"Rory: Claire : we will have blood on our hands","type":"L","timestamp":"2016-07-08 14:12:28"},{"nodeID":"180720","text":"Claire :  it will be our responsibility","type":"L","timestamp":"2016-07-08 14:12:29"},{"nodeID":"180721","text":"Asserting","type":"YA","timestamp":"2016-07-08 14:12:29","scheme":"Asserting","schemeID":"74"},{"nodeID":"180722","text":"it will be our responsibility","type":"I","timestamp":"2016-07-08 14:12:29"},{"nodeID":"180723","text":"Rory: Claire :  it will be our responsibility","type":"L","timestamp":"2016-07-08 14:12:29"},{"nodeID":"180724","text":"Rory: Claire : That's not actually a guide to action based on principle","type":"L","timestamp":"2016-07-08 14:12:29"},{"nodeID":"180725","text":"Rory: Claire :  For which you're prepared to overthrow freedom, self-determination, and just invade countries, ultimately","type":"L","timestamp":"2016-07-08 14:12:29"},{"nodeID":"180726","text":"Alan : There's no freedom and definitely determination in Syria","type":"L","timestamp":"2016-07-08 14:12:29"},{"nodeID":"180727","text":"Asserting","type":"YA","timestamp":"2016-07-08 14:12:29","scheme":"Asserting","schemeID":"74"},{"nodeID":"180728","text":"There's no freedom and definitely determination in Syria","type":"I","timestamp":"2016-07-08 14:12:29"},{"nodeID":"180729","text":"Rory: Alan : There's no freedom and definitely determination in Syria","type":"L","timestamp":"2016-07-08 14:12:29"},{"nodeID":"180730","text":"Claire : There won't be if the West dominates it","type":"L","timestamp":"2016-07-08 14:12:29"},{"nodeID":"180731","text":"Asserting","type":"YA","timestamp":"2016-07-08 14:12:29","scheme":"Asserting","schemeID":"74"},{"nodeID":"180732","text":"There won't be if the West dominates it","type":"I","timestamp":"2016-07-08 14:12:30"},{"nodeID":"180733","text":"Rory: Claire : There won't be if the West dominates it","type":"L","timestamp":"2016-07-08 14:12:30"},{"nodeID":"180734","text":"Alan : Not at all, there will be freedom and democracy","type":"L","timestamp":"2016-07-08 14:12:30"},{"nodeID":"180735","text":"Asserting","type":"YA","timestamp":"2016-07-08 14:12:30","scheme":"Asserting","schemeID":"74"},{"nodeID":"180736","text":"Not at all, there will be freedom and democracy","type":"I","timestamp":"2016-07-08 14:12:30"},{"nodeID":"180737","text":"Rory: Alan : Not at all, there will be freedom and democracy","type":"L","timestamp":"2016-07-08 14:12:30"},{"nodeID":"180738","text":"Claire : When you have given it to them","type":"L","timestamp":"2016-07-08 14:12:30"},{"nodeID":"180739","text":"Asserting","type":"YA","timestamp":"2016-07-08 14:12:30","scheme":"Asserting","schemeID":"74"},{"nodeID":"180740","text":"When you have given it to them","type":"I","timestamp":"2016-07-08 14:12:30"},{"nodeID":"180741","text":"Rory: Claire : When you have given it to them","type":"L","timestamp":"2016-07-08 14:12:30"},{"nodeID":"180742","text":"Rory: Alan : No, when they take it into their hands","type":"L","timestamp":"2016-07-08 14:12:30"},{"nodeID":"180743","text":"Alan : when the brutal dictator is unable to pursue his people further","type":"L","timestamp":"2016-07-08 14:12:31"},{"nodeID":"180744","text":"Asserting","type":"YA","timestamp":"2016-07-08 14:12:31","scheme":"Asserting","schemeID":"74"},{"nodeID":"180745","text":"when the brutal dictator is unable to pursue his people further","type":"I","timestamp":"2016-07-08 14:12:31"},{"nodeID":"180746","text":"Rory: Alan : when the brutal dictator is unable to pursue his people further","type":"L","timestamp":"2016-07-08 14:12:31"},{"nodeID":"180747","text":"Alan :  No","type":"L","timestamp":"2016-07-08 14:12:31"},{"nodeID":"180748","text":"Rory: Alan :  No","type":"L","timestamp":"2016-07-08 14:12:31"},{"nodeID":"180749","text":"Alan : when they take it into their hands","type":"L","timestamp":"2016-07-08 14:12:31"},{"nodeID":"180750","text":"Asserting","type":"YA","timestamp":"2016-07-08 14:12:31","scheme":"Asserting","schemeID":"74"},{"nodeID":"180751","text":"when they take it into their hands","type":"I","timestamp":"2016-07-08 14:12:31"},{"nodeID":"180752","text":"Rory: Alan : when they take it into their hands","type":"L","timestamp":"2016-07-08 14:12:31"},{"nodeID":"180753","text":"Default Transition","type":"TA","timestamp":"2016-07-08 14:12:31","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180754","text":"Default Transition","type":"TA","timestamp":"2016-07-08 14:12:31","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180755","text":"Default Inference","type":"RA","timestamp":"2016-07-08 14:12:32","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180756","text":"Arguing","type":"YA","timestamp":"2016-07-08 14:12:32","scheme":"Arguing","schemeID":"80"},{"nodeID":"180757","text":"Claire : That's not actually a guide to action based on principle","type":"L","timestamp":"2016-07-08 14:12:32"},{"nodeID":"180758","text":"Asserting","type":"YA","timestamp":"2016-07-08 14:12:32","scheme":"Asserting","schemeID":"74"},{"nodeID":"180759","text":"That's not actually a guide to action based on principle","type":"I","timestamp":"2016-07-08 14:12:32"},{"nodeID":"180760","text":"Default Transition","type":"TA","timestamp":"2016-07-08 14:12:32","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180761","text":"Default Inference","type":"RA","timestamp":"2016-07-08 14:12:32","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180762","text":"Arguing","type":"YA","timestamp":"2016-07-08 14:12:32","scheme":"Arguing","schemeID":"80"},{"nodeID":"180763","text":"Claire : For which you're prepared to overthrow freedom, self-determination, and just invade countries, ultimately","type":"L","timestamp":"2016-07-08 14:12:32"},{"nodeID":"180764","text":"Asserting","type":"YA","timestamp":"2016-07-08 14:12:32","scheme":"Asserting","schemeID":"74"},{"nodeID":"180765","text":"For which you're prepared to overthrow freedom, self-determination, and just invade countries, ultimately","type":"I","timestamp":"2016-07-08 14:12:33"},{"nodeID":"180766","text":"Rory: Claire : For which you're prepared to overthrow freedom, self-determination, and just invade countries, ultimately","type":"L","timestamp":"2016-07-08 14:12:33"},{"nodeID":"180767","text":"Default Transition","type":"TA","timestamp":"2016-07-08 14:12:33","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180768","text":"Default Transition","type":"TA","timestamp":"2016-07-08 14:12:33","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180769","text":"Default Conflict","type":"CA","timestamp":"2016-07-08 14:12:33","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"180770","text":"Disagreeing","type":"YA","timestamp":"2016-07-08 14:12:33","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"180771","text":"Default Transition","type":"TA","timestamp":"2016-07-08 14:12:33","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180772","text":"Default Conflict","type":"CA","timestamp":"2016-07-08 14:12:33","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"180773","text":"Disagreeing","type":"YA","timestamp":"2016-07-08 14:12:33","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"180774","text":"Default Transition","type":"TA","timestamp":"2016-07-08 14:12:33","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180775","text":"Default Conflict","type":"CA","timestamp":"2016-07-08 14:12:33","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"180776","text":"Disagreeing","type":"YA","timestamp":"2016-07-08 14:12:34","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"180777","text":"Default Transition","type":"TA","timestamp":"2016-07-08 14:12:34","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180778","text":"Default Conflict","type":"CA","timestamp":"2016-07-08 14:12:34","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"180779","text":"Disagreeing","type":"YA","timestamp":"2016-07-08 14:12:34","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"180780","text":"Default Transition","type":"TA","timestamp":"2016-07-08 14:12:34","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180781","text":"there will be democracy","type":"I","timestamp":"2016-07-08 14:12:34"},{"nodeID":"180782","text":"Asserting","type":"YA","timestamp":"2016-07-08 14:12:34","scheme":"Asserting","schemeID":"74"},{"nodeID":"180783","text":"Default Conflict","type":"CA","timestamp":"2016-07-08 14:12:34","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"180784","text":"Disagreeing","type":"YA","timestamp":"2016-07-08 14:12:34","scheme":"Disagreeing","schemeID":"78"},{"nodeID":"180785","text":"Default Transition","type":"TA","timestamp":"2016-07-08 14:12:34","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180786","text":"Default Inference","type":"RA","timestamp":"2016-07-08 14:12:35","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180787","text":"Arguing","type":"YA","timestamp":"2016-07-08 14:12:35","scheme":"Arguing","schemeID":"80"},{"nodeID":"180788","text":"Default Transition","type":"TA","timestamp":"2016-07-08 14:12:35","scheme":"Default Transition","schemeID":"82"},{"nodeID":"180789","text":"Default Inference","type":"RA","timestamp":"2016-07-08 14:12:35","scheme":"Default Inference","schemeID":"72"},{"nodeID":"180790","text":"Arguing","type":"YA","timestamp":"2016-07-08 14:12:35","scheme":"Arguing","schemeID":"80"}],"edges":[{"edgeID":"220797","fromID":"180704","toID":"180705","formEdgeID":null},{"edgeID":"220818","fromID":"180704","toID":"180753","formEdgeID":null},{"edgeID":"220796","fromID":"180705","toID":"180706","formEdgeID":null},{"edgeID":"220799","fromID":"180708","toID":"180709","formEdgeID":null},{"edgeID":"220820","fromID":"180708","toID":"180754","formEdgeID":null},{"edgeID":"220832","fromID":"180708","toID":"180760","formEdgeID":null},{"edgeID":"220798","fromID":"180709","toID":"180710","formEdgeID":null},{"edgeID":"220801","fromID":"180712","toID":"180713","formEdgeID":null},{"edgeID":"220800","fromID":"180713","toID":"180714","formEdgeID":null},{"edgeID":"220824","fromID":"180714","toID":"180755","formEdgeID":null},{"edgeID":"220803","fromID":"180716","toID":"180717","formEdgeID":null},{"edgeID":"220802","fromID":"180717","toID":"180718","formEdgeID":null},{"edgeID":"220826","fromID":"180718","toID":"180755","formEdgeID":null},{"edgeID":"220805","fromID":"180720","toID":"180721","formEdgeID":null},{"edgeID":"220804","fromID":"180721","toID":"180722","formEdgeID":null},{"edgeID":"220827","fromID":"180722","toID":"180755","formEdgeID":null},{"edgeID":"220807","fromID":"180726","toID":"180727","formEdgeID":null},{"edgeID":"220848","fromID":"180726","toID":"180771","formEdgeID":null},{"edgeID":"220806","fromID":"180727","toID":"180728","formEdgeID":null},{"edgeID":"220844","fromID":"180728","toID":"180769","formEdgeID":null},{"edgeID":"220809","fromID":"180730","toID":"180731","formEdgeID":null},{"edgeID":"220854","fromID":"180730","toID":"180774","formEdgeID":null},{"edgeID":"220808","fromID":"180731","toID":"180732","formEdgeID":null},{"edgeID":"220850","fromID":"180732","toID":"180772","formEdgeID":null},{"edgeID":"220811","fromID":"180734","toID":"180735","formEdgeID":null},{"edgeID":"220860","fromID":"180734","toID":"180777","formEdgeID":null},{"edgeID":"220810","fromID":"180735","toID":"180736","formEdgeID":null},{"edgeID":"220856","fromID":"180736","toID":"180775","formEdgeID":null},{"edgeID":"220813","fromID":"180738","toID":"180739","formEdgeID":null},{"edgeID":"220866","fromID":"180738","toID":"180780","formEdgeID":null},{"edgeID":"220812","fromID":"180739","toID":"180740","formEdgeID":null},{"edgeID":"220862","fromID":"180740","toID":"180778","formEdgeID":null},{"edgeID":"220815","fromID":"180743","toID":"180744","formEdgeID":null},{"edgeID":"220814","fromID":"180744","toID":"180745","formEdgeID":null},{"edgeID":"220882","fromID":"180745","toID":"180789","formEdgeID":null},{"edgeID":"220874","fromID":"180747","toID":"180785","formEdgeID":null},{"edgeID":"220880","fromID":"180747","toID":"180788","formEdgeID":null},{"edgeID":"220817","fromID":"180749","toID":"180750","formEdgeID":null},{"edgeID":"220816","fromID":"180750","toID":"180751","formEdgeID":null},{"edgeID":"220876","fromID":"180751","toID":"180786","formEdgeID":null},{"edgeID":"220819","fromID":"180753","toID":"180708","formEdgeID":null},{"edgeID":"220821","fromID":"180754","toID":"180712","formEdgeID":null},{"edgeID":"220822","fromID":"180754","toID":"180716","formEdgeID":null},{"edgeID":"220823","fromID":"180754","toID":"180720","formEdgeID":null},{"edgeID":"220828","fromID":"180754","toID":"180756","formEdgeID":null},{"edgeID":"220825","fromID":"180755","toID":"180710","formEdgeID":null},{"edgeID":"220829","fromID":"180756","toID":"180755","formEdgeID":null},{"edgeID":"220831","fromID":"180757","toID":"180758","formEdgeID":null},{"edgeID":"220840","fromID":"180757","toID":"180767","formEdgeID":null},{"edgeID":"220830","fromID":"180758","toID":"180759","formEdgeID":null},{"edgeID":"220834","fromID":"180759","toID":"180761","formEdgeID":null},{"edgeID":"220833","fromID":"180760","toID":"180757","formEdgeID":null},{"edgeID":"220836","fromID":"180760","toID":"180762","formEdgeID":null},{"edgeID":"220835","fromID":"180761","toID":"180710","formEdgeID":null},{"edgeID":"220837","fromID":"180762","toID":"180761","formEdgeID":null},{"edgeID":"220839","fromID":"180763","toID":"180764","formEdgeID":null},{"edgeID":"220842","fromID":"180763","toID":"180768","formEdgeID":null},{"edgeID":"220838","fromID":"180764","toID":"180765","formEdgeID":null},{"edgeID":"220841","fromID":"180767","toID":"180763","formEdgeID":null},{"edgeID":"220843","fromID":"180768","toID":"180726","formEdgeID":null},{"edgeID":"220846","fromID":"180768","toID":"180770","formEdgeID":null},{"edgeID":"220845","fromID":"180769","toID":"180765","formEdgeID":null},{"edgeID":"220847","fromID":"180770","toID":"180769","formEdgeID":null},{"edgeID":"220849","fromID":"180771","toID":"180730","formEdgeID":null},{"edgeID":"220852","fromID":"180771","toID":"180773","formEdgeID":null},{"edgeID":"220851","fromID":"180772","toID":"180728","formEdgeID":null},{"edgeID":"220853","fromID":"180773","toID":"180772","formEdgeID":null},{"edgeID":"220855","fromID":"180774","toID":"180734","formEdgeID":null},{"edgeID":"220858","fromID":"180774","toID":"180776","formEdgeID":null},{"edgeID":"220857","fromID":"180775","toID":"180732","formEdgeID":null},{"edgeID":"220859","fromID":"180776","toID":"180775","formEdgeID":null},{"edgeID":"220861","fromID":"180777","toID":"180738","formEdgeID":null},{"edgeID":"220864","fromID":"180777","toID":"180779","formEdgeID":null},{"edgeID":"220863","fromID":"180778","toID":"180736","formEdgeID":null},{"edgeID":"220865","fromID":"180779","toID":"180778","formEdgeID":null},{"edgeID":"220867","fromID":"180780","toID":"180747","formEdgeID":null},{"edgeID":"220868","fromID":"180780","toID":"180782","formEdgeID":null},{"edgeID":"220872","fromID":"180780","toID":"180784","formEdgeID":null},{"edgeID":"220870","fromID":"180781","toID":"180783","formEdgeID":null},{"edgeID":"220869","fromID":"180782","toID":"180781","formEdgeID":null},{"edgeID":"220871","fromID":"180783","toID":"180740","formEdgeID":null},{"edgeID":"220873","fromID":"180784","toID":"180783","formEdgeID":null},{"edgeID":"220875","fromID":"180785","toID":"180749","formEdgeID":null},{"edgeID":"220878","fromID":"180785","toID":"180787","formEdgeID":null},{"edgeID":"220877","fromID":"180786","toID":"180781","formEdgeID":null},{"edgeID":"220879","fromID":"180787","toID":"180786","formEdgeID":null},{"edgeID":"220881","fromID":"180788","toID":"180743","formEdgeID":null},{"edgeID":"220884","fromID":"180788","toID":"180790","formEdgeID":null},{"edgeID":"220883","fromID":"180789","toID":"180781","formEdgeID":null},{"edgeID":"220885","fromID":"180790","toID":"180789","formEdgeID":null}],"locutions":[]}
+{
+    "nodes": [
+        {
+            "nodeID": "180704",
+            "text": "Claire : It seems to me to be inconsistent",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:27"
+        },
+        {
+            "nodeID": "180705",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:27",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180706",
+            "text": "It seems to me to be inconsistent",
+            "type": "I",
+            "timestamp": "2016-07-08 14:12:27"
+        },
+        {
+            "nodeID": "180707",
+            "text": "Rory: Claire : It seems to me to be inconsistent",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:27"
+        },
+        {
+            "nodeID": "180708",
+            "text": "Claire : It seems more narcissistic",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:27"
+        },
+        {
+            "nodeID": "180709",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:28",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180710",
+            "text": "It seems more narcissistic",
+            "type": "I",
+            "timestamp": "2016-07-08 14:12:28"
+        },
+        {
+            "nodeID": "180711",
+            "text": "Rory: Claire : It seems more narcissistic",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:28"
+        },
+        {
+            "nodeID": "180712",
+            "text": "Claire : about us saying we can't leave this alone",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:28"
+        },
+        {
+            "nodeID": "180713",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:28",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180714",
+            "text": "about us saying we can't leave this alone",
+            "type": "I",
+            "timestamp": "2016-07-08 14:12:28"
+        },
+        {
+            "nodeID": "180715",
+            "text": "Rory: Claire : about us saying we can't leave this alone",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:28"
+        },
+        {
+            "nodeID": "180716",
+            "text": "Claire : we will have blood on our hands",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:28"
+        },
+        {
+            "nodeID": "180717",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:28",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180718",
+            "text": "we will have blood on our hands",
+            "type": "I",
+            "timestamp": "2016-07-08 14:12:28"
+        },
+        {
+            "nodeID": "180719",
+            "text": "Rory: Claire : we will have blood on our hands",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:28"
+        },
+        {
+            "nodeID": "180720",
+            "text": "Claire :  it will be our responsibility",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:29"
+        },
+        {
+            "nodeID": "180721",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:29",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180722",
+            "text": "it will be our responsibility",
+            "type": "I",
+            "timestamp": "2016-07-08 14:12:29"
+        },
+        {
+            "nodeID": "180723",
+            "text": "Rory: Claire :  it will be our responsibility",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:29"
+        },
+        {
+            "nodeID": "180724",
+            "text": "Rory: Claire : That's not actually a guide to action based on principle",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:29"
+        },
+        {
+            "nodeID": "180725",
+            "text": "Rory: Claire :  For which you're prepared to overthrow freedom, self-determination, and just invade countries, ultimately",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:29"
+        },
+        {
+            "nodeID": "180726",
+            "text": "Alan : There's no freedom and definitely determination in Syria",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:29"
+        },
+        {
+            "nodeID": "180727",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:29",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180728",
+            "text": "There's no freedom and definitely determination in Syria",
+            "type": "I",
+            "timestamp": "2016-07-08 14:12:29"
+        },
+        {
+            "nodeID": "180729",
+            "text": "Rory: Alan : There's no freedom and definitely determination in Syria",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:29"
+        },
+        {
+            "nodeID": "180730",
+            "text": "Claire : There won't be if the West dominates it",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:29"
+        },
+        {
+            "nodeID": "180731",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:29",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180732",
+            "text": "There won't be if the West dominates it",
+            "type": "I",
+            "timestamp": "2016-07-08 14:12:30"
+        },
+        {
+            "nodeID": "180733",
+            "text": "Rory: Claire : There won't be if the West dominates it",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:30"
+        },
+        {
+            "nodeID": "180734",
+            "text": "Alan : Not at all, there will be freedom and democracy",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:30"
+        },
+        {
+            "nodeID": "180735",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:30",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180736",
+            "text": "Not at all, there will be freedom and democracy",
+            "type": "I",
+            "timestamp": "2016-07-08 14:12:30"
+        },
+        {
+            "nodeID": "180737",
+            "text": "Rory: Alan : Not at all, there will be freedom and democracy",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:30"
+        },
+        {
+            "nodeID": "180738",
+            "text": "Claire : When you have given it to them",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:30"
+        },
+        {
+            "nodeID": "180739",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:30",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180740",
+            "text": "When you have given it to them",
+            "type": "I",
+            "timestamp": "2016-07-08 14:12:30"
+        },
+        {
+            "nodeID": "180741",
+            "text": "Rory: Claire : When you have given it to them",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:30"
+        },
+        {
+            "nodeID": "180742",
+            "text": "Rory: Alan : No, when they take it into their hands",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:30"
+        },
+        {
+            "nodeID": "180743",
+            "text": "Alan : when the brutal dictator is unable to pursue his people further",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:31"
+        },
+        {
+            "nodeID": "180744",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:31",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180745",
+            "text": "when the brutal dictator is unable to pursue his people further",
+            "type": "I",
+            "timestamp": "2016-07-08 14:12:31"
+        },
+        {
+            "nodeID": "180746",
+            "text": "Rory: Alan : when the brutal dictator is unable to pursue his people further",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:31"
+        },
+        {
+            "nodeID": "180747",
+            "text": "Alan :  No",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:31"
+        },
+        {
+            "nodeID": "180748",
+            "text": "Rory: Alan :  No",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:31"
+        },
+        {
+            "nodeID": "180749",
+            "text": "Alan : when they take it into their hands",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:31"
+        },
+        {
+            "nodeID": "180750",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:31",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180751",
+            "text": "when they take it into their hands",
+            "type": "I",
+            "timestamp": "2016-07-08 14:12:31"
+        },
+        {
+            "nodeID": "180752",
+            "text": "Rory: Alan : when they take it into their hands",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:31"
+        },
+        {
+            "nodeID": "180753",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-08 14:12:31",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180754",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-08 14:12:31",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180755",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-08 14:12:32",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180756",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:32",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180757",
+            "text": "Claire : That's not actually a guide to action based on principle",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:32"
+        },
+        {
+            "nodeID": "180758",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:32",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180759",
+            "text": "That's not actually a guide to action based on principle",
+            "type": "I",
+            "timestamp": "2016-07-08 14:12:32"
+        },
+        {
+            "nodeID": "180760",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-08 14:12:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180761",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-08 14:12:32",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180762",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:32",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180763",
+            "text": "Claire : For which you're prepared to overthrow freedom, self-determination, and just invade countries, ultimately",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:32"
+        },
+        {
+            "nodeID": "180764",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:32",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180765",
+            "text": "For which you're prepared to overthrow freedom, self-determination, and just invade countries, ultimately",
+            "type": "I",
+            "timestamp": "2016-07-08 14:12:33"
+        },
+        {
+            "nodeID": "180766",
+            "text": "Rory: Claire : For which you're prepared to overthrow freedom, self-determination, and just invade countries, ultimately",
+            "type": "L",
+            "timestamp": "2016-07-08 14:12:33"
+        },
+        {
+            "nodeID": "180767",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-08 14:12:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180768",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-08 14:12:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180769",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-08 14:12:33",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "180770",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:33",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "180771",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-08 14:12:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180772",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-08 14:12:33",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "180773",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:33",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "180774",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-08 14:12:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180775",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-08 14:12:33",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "180776",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:34",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "180777",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-08 14:12:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180778",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-08 14:12:34",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "180779",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:34",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "180780",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-08 14:12:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180781",
+            "text": "there will be democracy",
+            "type": "I",
+            "timestamp": "2016-07-08 14:12:34"
+        },
+        {
+            "nodeID": "180782",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:34",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "180783",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-08 14:12:34",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "180784",
+            "text": "Disagreeing",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:34",
+            "scheme": "Disagreeing",
+            "schemeID": "78"
+        },
+        {
+            "nodeID": "180785",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-08 14:12:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180786",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-08 14:12:35",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180787",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:35",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "180788",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-08 14:12:35",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "180789",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-08 14:12:35",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "180790",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-08 14:12:35",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "220797",
+            "fromID": "180704",
+            "toID": "180705",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220818",
+            "fromID": "180704",
+            "toID": "180753",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220796",
+            "fromID": "180705",
+            "toID": "180706",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220799",
+            "fromID": "180708",
+            "toID": "180709",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220820",
+            "fromID": "180708",
+            "toID": "180754",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220832",
+            "fromID": "180708",
+            "toID": "180760",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220798",
+            "fromID": "180709",
+            "toID": "180710",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220801",
+            "fromID": "180712",
+            "toID": "180713",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220800",
+            "fromID": "180713",
+            "toID": "180714",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220824",
+            "fromID": "180714",
+            "toID": "180755",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220803",
+            "fromID": "180716",
+            "toID": "180717",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220802",
+            "fromID": "180717",
+            "toID": "180718",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220826",
+            "fromID": "180718",
+            "toID": "180755",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220805",
+            "fromID": "180720",
+            "toID": "180721",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220804",
+            "fromID": "180721",
+            "toID": "180722",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220827",
+            "fromID": "180722",
+            "toID": "180755",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220807",
+            "fromID": "180726",
+            "toID": "180727",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220848",
+            "fromID": "180726",
+            "toID": "180771",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220806",
+            "fromID": "180727",
+            "toID": "180728",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220844",
+            "fromID": "180728",
+            "toID": "180769",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220809",
+            "fromID": "180730",
+            "toID": "180731",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220854",
+            "fromID": "180730",
+            "toID": "180774",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220808",
+            "fromID": "180731",
+            "toID": "180732",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220850",
+            "fromID": "180732",
+            "toID": "180772",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220811",
+            "fromID": "180734",
+            "toID": "180735",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220860",
+            "fromID": "180734",
+            "toID": "180777",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220810",
+            "fromID": "180735",
+            "toID": "180736",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220856",
+            "fromID": "180736",
+            "toID": "180775",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220813",
+            "fromID": "180738",
+            "toID": "180739",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220866",
+            "fromID": "180738",
+            "toID": "180780",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220812",
+            "fromID": "180739",
+            "toID": "180740",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220862",
+            "fromID": "180740",
+            "toID": "180778",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220815",
+            "fromID": "180743",
+            "toID": "180744",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220814",
+            "fromID": "180744",
+            "toID": "180745",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220882",
+            "fromID": "180745",
+            "toID": "180789",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220874",
+            "fromID": "180747",
+            "toID": "180785",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220880",
+            "fromID": "180747",
+            "toID": "180788",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220817",
+            "fromID": "180749",
+            "toID": "180750",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220816",
+            "fromID": "180750",
+            "toID": "180751",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220876",
+            "fromID": "180751",
+            "toID": "180786",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220819",
+            "fromID": "180753",
+            "toID": "180708",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220821",
+            "fromID": "180754",
+            "toID": "180712",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220822",
+            "fromID": "180754",
+            "toID": "180716",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220823",
+            "fromID": "180754",
+            "toID": "180720",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220828",
+            "fromID": "180754",
+            "toID": "180756",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220825",
+            "fromID": "180755",
+            "toID": "180710",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220829",
+            "fromID": "180756",
+            "toID": "180755",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220831",
+            "fromID": "180757",
+            "toID": "180758",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220840",
+            "fromID": "180757",
+            "toID": "180767",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220830",
+            "fromID": "180758",
+            "toID": "180759",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220834",
+            "fromID": "180759",
+            "toID": "180761",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220833",
+            "fromID": "180760",
+            "toID": "180757",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220836",
+            "fromID": "180760",
+            "toID": "180762",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220835",
+            "fromID": "180761",
+            "toID": "180710",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220837",
+            "fromID": "180762",
+            "toID": "180761",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220839",
+            "fromID": "180763",
+            "toID": "180764",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220842",
+            "fromID": "180763",
+            "toID": "180768",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220838",
+            "fromID": "180764",
+            "toID": "180765",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220841",
+            "fromID": "180767",
+            "toID": "180763",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220843",
+            "fromID": "180768",
+            "toID": "180726",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220846",
+            "fromID": "180768",
+            "toID": "180770",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220845",
+            "fromID": "180769",
+            "toID": "180765",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220847",
+            "fromID": "180770",
+            "toID": "180769",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220849",
+            "fromID": "180771",
+            "toID": "180730",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220852",
+            "fromID": "180771",
+            "toID": "180773",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220851",
+            "fromID": "180772",
+            "toID": "180728",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220853",
+            "fromID": "180773",
+            "toID": "180772",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220855",
+            "fromID": "180774",
+            "toID": "180734",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220858",
+            "fromID": "180774",
+            "toID": "180776",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220857",
+            "fromID": "180775",
+            "toID": "180732",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220859",
+            "fromID": "180776",
+            "toID": "180775",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220861",
+            "fromID": "180777",
+            "toID": "180738",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220864",
+            "fromID": "180777",
+            "toID": "180779",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220863",
+            "fromID": "180778",
+            "toID": "180736",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220865",
+            "fromID": "180779",
+            "toID": "180778",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220867",
+            "fromID": "180780",
+            "toID": "180747",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220868",
+            "fromID": "180780",
+            "toID": "180782",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220872",
+            "fromID": "180780",
+            "toID": "180784",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220870",
+            "fromID": "180781",
+            "toID": "180783",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220869",
+            "fromID": "180782",
+            "toID": "180781",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220871",
+            "fromID": "180783",
+            "toID": "180740",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220873",
+            "fromID": "180784",
+            "toID": "180783",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220875",
+            "fromID": "180785",
+            "toID": "180749",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220878",
+            "fromID": "180785",
+            "toID": "180787",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220877",
+            "fromID": "180786",
+            "toID": "180781",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220879",
+            "fromID": "180787",
+            "toID": "180786",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220881",
+            "fromID": "180788",
+            "toID": "180743",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220884",
+            "fromID": "180788",
+            "toID": "180790",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220883",
+            "fromID": "180789",
+            "toID": "180781",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "220885",
+            "fromID": "180790",
+            "toID": "180789",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": []
+}

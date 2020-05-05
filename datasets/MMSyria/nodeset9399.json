@@ -1,1 +1,393 @@
-{"nodes":[{"nodeID":"179399","text":"Michael : Do you mind if I take you away from Syria to Bosnia","type":"L","timestamp":"2016-07-05 15:34:51"},{"nodeID":"179401","text":"Karl Sharro doesn't mind if Michael Portillo takes Karl Sharro away from Syria to Bosnia","type":"I","timestamp":"2016-07-05 15:34:52"},{"nodeID":"179402","text":"Rory: Michael : Do you mind if I take you away from Syria to Bosnia","type":"L","timestamp":"2016-07-05 15:34:52"},{"nodeID":"179403","text":"Rory: Michael : I mean networks that case, we saw 8,000 men murdered in Srebrenica","type":"L","timestamp":"2016-07-05 15:34:52"},{"nodeID":"179404","text":"Rory: Michael : we intervened","type":"L","timestamp":"2016-07-05 15:34:52"},{"nodeID":"179405","text":"Rory: Michael :  NATO intervened","type":"L","timestamp":"2016-07-05 15:34:52"},{"nodeID":"179406","text":"Rory: Michael :  the killing then ceased","type":"L","timestamp":"2016-07-05 15:34:52"},{"nodeID":"179407","text":"Rory: Michael : I don't think another life was lost in combat","type":"L","timestamp":"2016-07-05 15:34:52"},{"nodeID":"179408","text":"Michael : Was that not morally justified and successful","type":"L","timestamp":"2016-07-05 15:34:52"},{"nodeID":"179410","text":"that was morally justified and successful","type":"I","timestamp":"2016-07-05 15:34:52"},{"nodeID":"179411","text":"Rory: Michael : Was that not morally justified and successful","type":"L","timestamp":"2016-07-05 15:34:52"},{"nodeID":"179412","text":"Rory: Michael : we intervened, NATO intervened, the killing then ceased, I don't think another life was lost in combat","type":"L","timestamp":"2016-07-05 15:34:52"},{"nodeID":"179413","text":"Michael : I mean networks that case, we saw 8,000 men murdered in Srebrenica, we intervened, NATO intervened, the killing then ceased, I don't think another life was lost in combat","type":"L","timestamp":"2016-07-05 15:34:52"},{"nodeID":"179415","text":"I mean in that case, we saw 8,000 men murdered in Srebrenica, we intervened, NATO intervened, the killing then ceased, I don't think another life was lost in combat","type":"I","timestamp":"2016-07-05 15:34:53"},{"nodeID":"179416","text":"Rory: Michael : I mean networks that case, we saw 8,000 men murdered in Srebrenica, we intervened, NATO intervened, the killing then ceased, I don't think another life was lost in combat","type":"L","timestamp":"2016-07-05 15:34:53"},{"nodeID":"179421","text":"Karl :  I am not an expert on Bosnia","type":"L","timestamp":"2016-07-05 15:34:53"},{"nodeID":"179424","text":"Rory: Karl :  I am not an expert on Bosnia","type":"L","timestamp":"2016-07-05 15:34:53"},{"nodeID":"179425","text":"Karl : I think quite frankly it's a bit of a diversion that a lot of people are engaging in now, to establish these false parallels, in order to kind of win an argument that they haven't illustrated their point in the current context","type":"L","timestamp":"2016-07-05 15:34:53"},{"nodeID":"179428","text":"Rory: Karl : I think quite frankly it's a bit of a diversion that a lot of people are engaging in now, to establish these false parallels, in order to kind of win an argument that they haven't illustrated their point in the current context","type":"L","timestamp":"2016-07-05 15:34:54"},{"nodeID":"179433","text":"Rhetorical Questioning","type":"YA","timestamp":"2016-07-05 15:35:48","scheme":"RhetoricalQuestioning","schemeID":"85"},{"nodeID":"179434","text":"Assertive Questioning","type":"YA","timestamp":"2016-07-05 15:35:48","scheme":"AssertiveQuestioning","schemeID":"73"},{"nodeID":"179435","text":"Asserting","type":"YA","timestamp":"2016-07-05 15:35:49","scheme":"Asserting","schemeID":"74"},{"nodeID":"179436","text":"Default Transition","type":"TA","timestamp":"2016-07-05 15:35:49","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179437","text":"Default Transition","type":"TA","timestamp":"2016-07-05 15:35:49","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179438","text":"Default Inference","type":"RA","timestamp":"2016-07-05 15:35:49","scheme":"Default Inference","schemeID":"72"},{"nodeID":"179439","text":"Arguing","type":"YA","timestamp":"2016-07-05 15:35:49","scheme":"Arguing","schemeID":"80"},{"nodeID":"179440","text":"Asserting","type":"YA","timestamp":"2016-07-05 15:35:49","scheme":"Asserting","schemeID":"74"},{"nodeID":"179441","text":"Karl Sharro is not an expert on Bosnia","type":"I","timestamp":"2016-07-05 15:35:49"},{"nodeID":"179442","text":"Asserting","type":"YA","timestamp":"2016-07-05 15:35:50","scheme":"Asserting","schemeID":"74"},{"nodeID":"179443","text":"Karl Sharro thinks quite frankly it's a bit of a diversion that a lot of people are engaging in now, to establish these false parallels, in order to kind of win an argument that they haven't illustrated their point in the current context","type":"I","timestamp":"2016-07-05 15:35:50"},{"nodeID":"179444","text":"Default Transition","type":"TA","timestamp":"2016-07-05 15:35:50","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179445","text":"Default Transition","type":"TA","timestamp":"2016-07-05 15:35:50","scheme":"Default Transition","schemeID":"82"},{"nodeID":"179446","text":"Default Conflict","type":"CA","timestamp":"2016-07-05 15:35:50","scheme":"Default Conflict","schemeID":"71"},{"nodeID":"179447","text":"Arguing","type":"YA","timestamp":"2016-07-05 15:35:50","scheme":"Arguing","schemeID":"80"}],"edges":[{"edgeID":"219324","fromID":"179399","toID":"179433","formEdgeID":null},{"edgeID":"219329","fromID":"179399","toID":"179436","formEdgeID":null},{"edgeID":"219343","fromID":"179399","toID":"179445","formEdgeID":null},{"edgeID":"219326","fromID":"179408","toID":"179434","formEdgeID":null},{"edgeID":"219341","fromID":"179408","toID":"179444","formEdgeID":null},{"edgeID":"219328","fromID":"179413","toID":"179435","formEdgeID":null},{"edgeID":"219331","fromID":"179413","toID":"179437","formEdgeID":null},{"edgeID":"219333","fromID":"179415","toID":"179438","formEdgeID":null},{"edgeID":"219338","fromID":"179421","toID":"179440","formEdgeID":null},{"edgeID":"219340","fromID":"179425","toID":"179442","formEdgeID":null},{"edgeID":"219323","fromID":"179433","toID":"179401","formEdgeID":null},{"edgeID":"219325","fromID":"179434","toID":"179410","formEdgeID":null},{"edgeID":"219327","fromID":"179435","toID":"179415","formEdgeID":null},{"edgeID":"219330","fromID":"179436","toID":"179413","formEdgeID":null},{"edgeID":"219332","fromID":"179437","toID":"179408","formEdgeID":null},{"edgeID":"219335","fromID":"179437","toID":"179439","formEdgeID":null},{"edgeID":"219334","fromID":"179438","toID":"179410","formEdgeID":null},{"edgeID":"219336","fromID":"179439","toID":"179438","formEdgeID":null},{"edgeID":"219337","fromID":"179440","toID":"179441","formEdgeID":null},{"edgeID":"219339","fromID":"179442","toID":"179443","formEdgeID":null},{"edgeID":"219345","fromID":"179443","toID":"179446","formEdgeID":null},{"edgeID":"219342","fromID":"179444","toID":"179421","formEdgeID":null},{"edgeID":"219344","fromID":"179445","toID":"179425","formEdgeID":null},{"edgeID":"219347","fromID":"179445","toID":"179447","formEdgeID":null},{"edgeID":"219346","fromID":"179446","toID":"179401","formEdgeID":null},{"edgeID":"219348","fromID":"179447","toID":"179446","formEdgeID":null}],"locutions":[]}
+{
+    "nodes": [
+        {
+            "nodeID": "179399",
+            "text": "Michael : Do you mind if I take you away from Syria to Bosnia",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:51"
+        },
+        {
+            "nodeID": "179401",
+            "text": "Karl Sharro doesn't mind if Michael Portillo takes Karl Sharro away from Syria to Bosnia",
+            "type": "I",
+            "timestamp": "2016-07-05 15:34:52"
+        },
+        {
+            "nodeID": "179402",
+            "text": "Rory: Michael : Do you mind if I take you away from Syria to Bosnia",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:52"
+        },
+        {
+            "nodeID": "179403",
+            "text": "Rory: Michael : I mean networks that case, we saw 8,000 men murdered in Srebrenica",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:52"
+        },
+        {
+            "nodeID": "179404",
+            "text": "Rory: Michael : we intervened",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:52"
+        },
+        {
+            "nodeID": "179405",
+            "text": "Rory: Michael :  NATO intervened",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:52"
+        },
+        {
+            "nodeID": "179406",
+            "text": "Rory: Michael :  the killing then ceased",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:52"
+        },
+        {
+            "nodeID": "179407",
+            "text": "Rory: Michael : I don't think another life was lost in combat",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:52"
+        },
+        {
+            "nodeID": "179408",
+            "text": "Michael : Was that not morally justified and successful",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:52"
+        },
+        {
+            "nodeID": "179410",
+            "text": "that was morally justified and successful",
+            "type": "I",
+            "timestamp": "2016-07-05 15:34:52"
+        },
+        {
+            "nodeID": "179411",
+            "text": "Rory: Michael : Was that not morally justified and successful",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:52"
+        },
+        {
+            "nodeID": "179412",
+            "text": "Rory: Michael : we intervened, NATO intervened, the killing then ceased, I don't think another life was lost in combat",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:52"
+        },
+        {
+            "nodeID": "179413",
+            "text": "Michael : I mean networks that case, we saw 8,000 men murdered in Srebrenica, we intervened, NATO intervened, the killing then ceased, I don't think another life was lost in combat",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:52"
+        },
+        {
+            "nodeID": "179415",
+            "text": "I mean in that case, we saw 8,000 men murdered in Srebrenica, we intervened, NATO intervened, the killing then ceased, I don't think another life was lost in combat",
+            "type": "I",
+            "timestamp": "2016-07-05 15:34:53"
+        },
+        {
+            "nodeID": "179416",
+            "text": "Rory: Michael : I mean networks that case, we saw 8,000 men murdered in Srebrenica, we intervened, NATO intervened, the killing then ceased, I don't think another life was lost in combat",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:53"
+        },
+        {
+            "nodeID": "179421",
+            "text": "Karl :  I am not an expert on Bosnia",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:53"
+        },
+        {
+            "nodeID": "179424",
+            "text": "Rory: Karl :  I am not an expert on Bosnia",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:53"
+        },
+        {
+            "nodeID": "179425",
+            "text": "Karl : I think quite frankly it's a bit of a diversion that a lot of people are engaging in now, to establish these false parallels, in order to kind of win an argument that they haven't illustrated their point in the current context",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:53"
+        },
+        {
+            "nodeID": "179428",
+            "text": "Rory: Karl : I think quite frankly it's a bit of a diversion that a lot of people are engaging in now, to establish these false parallels, in order to kind of win an argument that they haven't illustrated their point in the current context",
+            "type": "L",
+            "timestamp": "2016-07-05 15:34:54"
+        },
+        {
+            "nodeID": "179433",
+            "text": "Rhetorical Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-05 15:35:48",
+            "scheme": "RhetoricalQuestioning",
+            "schemeID": "85"
+        },
+        {
+            "nodeID": "179434",
+            "text": "Assertive Questioning",
+            "type": "YA",
+            "timestamp": "2016-07-05 15:35:48",
+            "scheme": "AssertiveQuestioning",
+            "schemeID": "73"
+        },
+        {
+            "nodeID": "179435",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 15:35:49",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179436",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 15:35:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179437",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 15:35:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179438",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2016-07-05 15:35:49",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "179439",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-05 15:35:49",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "179440",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 15:35:49",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179441",
+            "text": "Karl Sharro is not an expert on Bosnia",
+            "type": "I",
+            "timestamp": "2016-07-05 15:35:49"
+        },
+        {
+            "nodeID": "179442",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2016-07-05 15:35:50",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "179443",
+            "text": "Karl Sharro thinks quite frankly it's a bit of a diversion that a lot of people are engaging in now, to establish these false parallels, in order to kind of win an argument that they haven't illustrated their point in the current context",
+            "type": "I",
+            "timestamp": "2016-07-05 15:35:50"
+        },
+        {
+            "nodeID": "179444",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 15:35:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179445",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2016-07-05 15:35:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "179446",
+            "text": "Default Conflict",
+            "type": "CA",
+            "timestamp": "2016-07-05 15:35:50",
+            "scheme": "Default Conflict",
+            "schemeID": "71"
+        },
+        {
+            "nodeID": "179447",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2016-07-05 15:35:50",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "219324",
+            "fromID": "179399",
+            "toID": "179433",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219329",
+            "fromID": "179399",
+            "toID": "179436",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219343",
+            "fromID": "179399",
+            "toID": "179445",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219326",
+            "fromID": "179408",
+            "toID": "179434",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219341",
+            "fromID": "179408",
+            "toID": "179444",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219328",
+            "fromID": "179413",
+            "toID": "179435",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219331",
+            "fromID": "179413",
+            "toID": "179437",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219333",
+            "fromID": "179415",
+            "toID": "179438",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219338",
+            "fromID": "179421",
+            "toID": "179440",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219340",
+            "fromID": "179425",
+            "toID": "179442",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219323",
+            "fromID": "179433",
+            "toID": "179401",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219325",
+            "fromID": "179434",
+            "toID": "179410",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219327",
+            "fromID": "179435",
+            "toID": "179415",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219330",
+            "fromID": "179436",
+            "toID": "179413",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219332",
+            "fromID": "179437",
+            "toID": "179408",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219335",
+            "fromID": "179437",
+            "toID": "179439",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219334",
+            "fromID": "179438",
+            "toID": "179410",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219336",
+            "fromID": "179439",
+            "toID": "179438",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219337",
+            "fromID": "179440",
+            "toID": "179441",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219339",
+            "fromID": "179442",
+            "toID": "179443",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219345",
+            "fromID": "179443",
+            "toID": "179446",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219342",
+            "fromID": "179444",
+            "toID": "179421",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219344",
+            "fromID": "179445",
+            "toID": "179425",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219347",
+            "fromID": "179445",
+            "toID": "179447",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219346",
+            "fromID": "179446",
+            "toID": "179401",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "219348",
+            "fromID": "179447",
+            "toID": "179446",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": []
+}

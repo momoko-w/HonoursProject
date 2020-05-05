@@ -1,1 +1,480 @@
-{"nodes":[{"nodeID":"46634","text":"AM : You wouldn\u2019t think that you were imposing a kind of domination on your neighbours if you were just behaving very badly, and making everybody\u2019s lives a misery around you?","type":"L","timestamp":"2015-01-08 16:34:06"},{"nodeID":"46636","text":"It depends on how one unpacks all of those terms.","type":"I","timestamp":"2015-01-08 16:34:06"},{"nodeID":"46638","text":"AB : It depends on how one unpacks all of those terms.","type":"L","timestamp":"2015-01-08 16:34:06"},{"nodeID":"46639","text":"AM : \tWell unpack it, quickly.","type":"L","timestamp":"2015-01-08 16:34:06"},{"nodeID":"46642","text":"Whether it means interfering in those families being able to conduct a flourishing life; whether it\u2019s intervening in their property, in their bodily integrity; in their mental wellbeing by continuous harassment or nuisance.","type":"I","timestamp":"2015-01-08 16:34:06"},{"nodeID":"46644","text":"AB : Whether it means interfering in those families being able to conduct a flourishing life; whether it\u2019s intervening in their property, in their bodily integrity; in their mental wellbeing by continuous harassment or nuisance.","type":"L","timestamp":"2015-01-08 16:34:06"},{"nodeID":"46648","text":"you would be intervening","type":"I","timestamp":"2015-01-08 16:34:06"},{"nodeID":"46649","text":"you would accept your non domination theory would fall if you were intervening for the good of those around them as well respecting their rights to be non dominated.","type":"I","timestamp":"2015-01-08 16:34:06"},{"nodeID":"46651","text":"AM : But you would be intervening","type":"L","timestamp":"2015-01-08 16:34:06"},{"nodeID":"46653","text":"AM : so you would accept your non domination theory would fall if you were intervening for the good of those around them as well respecting their rights to be non dominated.","type":"L","timestamp":"2015-01-08 16:34:06"},{"nodeID":"118536","text":"You would think that you were imposing a kind of domination on your neighbors if you were just behaving very badly, and making everybody\u2019s lives a misery around you","type":"I","timestamp":"2015-12-09 11:57:03"},{"nodeID":"118537","text":"Assertive Questioning","type":"YA","timestamp":"2015-12-09 11:57:03","scheme":"AssertiveQuestioning","schemeID":"73"},{"nodeID":"118538","text":"Asserting","type":"YA","timestamp":"2015-12-09 11:57:03","scheme":"Asserting","schemeID":"74"},{"nodeID":"118539","text":"TA","type":"TA","timestamp":"2015-12-09 11:57:03"},{"nodeID":"118540","text":"TA","type":"TA","timestamp":"2015-12-09 11:57:03"},{"nodeID":"118541","text":"Asserting","type":"YA","timestamp":"2015-12-09 11:57:04","scheme":"Asserting","schemeID":"74"},{"nodeID":"118542","text":"TA","type":"TA","timestamp":"2015-12-09 11:57:04"},{"nodeID":"118543","text":"Asserting","type":"YA","timestamp":"2015-12-09 11:57:04","scheme":"Asserting","schemeID":"74"},{"nodeID":"118544","text":"Asserting","type":"YA","timestamp":"2015-12-09 11:57:04","scheme":"Asserting","schemeID":"74"},{"nodeID":"118545","text":"RA","type":"RA","timestamp":"2015-12-09 11:57:04"},{"nodeID":"118546","text":"TA","type":"TA","timestamp":"2015-12-09 11:57:04"},{"nodeID":"118547","text":"Arguing","type":"YA","timestamp":"2015-12-09 11:57:04","scheme":"Arguing","schemeID":"80"},{"nodeID":"118548","text":"Default Rephrase","type":"MA","timestamp":"2015-12-09 11:57:04","scheme":"Default Rephrase","schemeID":"144"},{"nodeID":"118549","text":"Default Illocuting","type":"YA","timestamp":"2015-12-09 11:57:04","scheme":"Default Illocuting","schemeID":"168"},{"nodeID":"118550","text":"Default Transition","type":"TA","timestamp":"2015-12-09 11:57:04","scheme":"Default Transition","schemeID":"82"},{"nodeID":"118551","text":"Default Inference","type":"RA","timestamp":"2015-12-09 11:57:04","scheme":"Default Inference","schemeID":"72"},{"nodeID":"118552","text":"Arguing","type":"YA","timestamp":"2015-12-09 11:57:05","scheme":"Arguing","schemeID":"80"}],"edges":[{"edgeID":"158783","fromID":"46634","toID":"118537","formEdgeID":null},{"edgeID":"158786","fromID":"46634","toID":"118539","formEdgeID":null},{"edgeID":"158804","fromID":"46636","toID":"118548","formEdgeID":null},{"edgeID":"158785","fromID":"46638","toID":"118538","formEdgeID":null},{"edgeID":"158788","fromID":"46638","toID":"118540","formEdgeID":null},{"edgeID":"158792","fromID":"46639","toID":"118542","formEdgeID":null},{"edgeID":"158810","fromID":"46642","toID":"118551","formEdgeID":null},{"edgeID":"158791","fromID":"46644","toID":"118541","formEdgeID":null},{"edgeID":"158808","fromID":"46644","toID":"118550","formEdgeID":null},{"edgeID":"158798","fromID":"46648","toID":"118545","formEdgeID":null},{"edgeID":"158795","fromID":"46651","toID":"118543","formEdgeID":null},{"edgeID":"158797","fromID":"46653","toID":"118544","formEdgeID":null},{"edgeID":"158800","fromID":"46653","toID":"118546","formEdgeID":null},{"edgeID":"158782","fromID":"118537","toID":"118536","formEdgeID":null},{"edgeID":"158784","fromID":"118538","toID":"46636","formEdgeID":null},{"edgeID":"158787","fromID":"118539","toID":"46638","formEdgeID":null},{"edgeID":"158806","fromID":"118539","toID":"118549","formEdgeID":null},{"edgeID":"158789","fromID":"118540","toID":"46639","formEdgeID":null},{"edgeID":"158790","fromID":"118541","toID":"46642","formEdgeID":null},{"edgeID":"158793","fromID":"118542","toID":"46644","formEdgeID":null},{"edgeID":"158794","fromID":"118543","toID":"46648","formEdgeID":null},{"edgeID":"158796","fromID":"118544","toID":"46649","formEdgeID":null},{"edgeID":"158799","fromID":"118545","toID":"46649","formEdgeID":null},{"edgeID":"158801","fromID":"118546","toID":"46651","formEdgeID":null},{"edgeID":"158802","fromID":"118546","toID":"118547","formEdgeID":null},{"edgeID":"158803","fromID":"118547","toID":"118545","formEdgeID":null},{"edgeID":"158805","fromID":"118548","toID":"118536","formEdgeID":null},{"edgeID":"158807","fromID":"118549","toID":"118548","formEdgeID":null},{"edgeID":"158809","fromID":"118550","toID":"46651","formEdgeID":null},{"edgeID":"158812","fromID":"118550","toID":"118552","formEdgeID":null},{"edgeID":"158811","fromID":"118551","toID":"46648","formEdgeID":null},{"edgeID":"158813","fromID":"118552","toID":"118551","formEdgeID":null}],"locutions":[{"nodeID":"46634","personID":"403","timestamp":"2015-01-08 16:34:07","start":null,"end":null,"source":null},{"nodeID":"46638","personID":"483","timestamp":"2015-01-08 16:34:07","start":null,"end":null,"source":null},{"nodeID":"46639","personID":"403","timestamp":"2015-01-08 16:34:07","start":null,"end":null,"source":null},{"nodeID":"46644","personID":"483","timestamp":"2015-01-08 16:34:07","start":null,"end":null,"source":null},{"nodeID":"46651","personID":"403","timestamp":"2015-01-08 16:34:07","start":null,"end":null,"source":null},{"nodeID":"46653","personID":"403","timestamp":"2015-01-08 16:34:07","start":null,"end":null,"source":null},{"nodeID":"46634","personID":"403","timestamp":"2015-12-09 11:57:05","start":null,"end":null,"source":null},{"nodeID":"46638","personID":"483","timestamp":"2015-12-09 11:57:05","start":null,"end":null,"source":null},{"nodeID":"46639","personID":"403","timestamp":"2015-12-09 11:57:05","start":null,"end":null,"source":null},{"nodeID":"46644","personID":"483","timestamp":"2015-12-09 11:57:05","start":null,"end":null,"source":null},{"nodeID":"46651","personID":"403","timestamp":"2015-12-09 11:57:05","start":null,"end":null,"source":null},{"nodeID":"46653","personID":"403","timestamp":"2015-12-09 11:57:05","start":null,"end":null,"source":null}]}
+{
+    "nodes": [
+        {
+            "nodeID": "46634",
+            "text": "AM : You wouldn\u2019t think that you were imposing a kind of domination on your neighbours if you were just behaving very badly, and making everybody\u2019s lives a misery around you?",
+            "type": "L",
+            "timestamp": "2015-01-08 16:34:06"
+        },
+        {
+            "nodeID": "46636",
+            "text": "It depends on how one unpacks all of those terms.",
+            "type": "I",
+            "timestamp": "2015-01-08 16:34:06"
+        },
+        {
+            "nodeID": "46638",
+            "text": "AB : It depends on how one unpacks all of those terms.",
+            "type": "L",
+            "timestamp": "2015-01-08 16:34:06"
+        },
+        {
+            "nodeID": "46639",
+            "text": "AM : \tWell unpack it, quickly.",
+            "type": "L",
+            "timestamp": "2015-01-08 16:34:06"
+        },
+        {
+            "nodeID": "46642",
+            "text": "Whether it means interfering in those families being able to conduct a flourishing life; whether it\u2019s intervening in their property, in their bodily integrity; in their mental wellbeing by continuous harassment or nuisance.",
+            "type": "I",
+            "timestamp": "2015-01-08 16:34:06"
+        },
+        {
+            "nodeID": "46644",
+            "text": "AB : Whether it means interfering in those families being able to conduct a flourishing life; whether it\u2019s intervening in their property, in their bodily integrity; in their mental wellbeing by continuous harassment or nuisance.",
+            "type": "L",
+            "timestamp": "2015-01-08 16:34:06"
+        },
+        {
+            "nodeID": "46648",
+            "text": "you would be intervening",
+            "type": "I",
+            "timestamp": "2015-01-08 16:34:06"
+        },
+        {
+            "nodeID": "46649",
+            "text": "you would accept your non domination theory would fall if you were intervening for the good of those around them as well respecting their rights to be non dominated.",
+            "type": "I",
+            "timestamp": "2015-01-08 16:34:06"
+        },
+        {
+            "nodeID": "46651",
+            "text": "AM : But you would be intervening",
+            "type": "L",
+            "timestamp": "2015-01-08 16:34:06"
+        },
+        {
+            "nodeID": "46653",
+            "text": "AM : so you would accept your non domination theory would fall if you were intervening for the good of those around them as well respecting their rights to be non dominated.",
+            "type": "L",
+            "timestamp": "2015-01-08 16:34:06"
+        },
+        {
+            "nodeID": "118536",
+            "text": "You would think that you were imposing a kind of domination on your neighbors if you were just behaving very badly, and making everybody\u2019s lives a misery around you",
+            "type": "I",
+            "timestamp": "2015-12-09 11:57:03"
+        },
+        {
+            "nodeID": "118537",
+            "text": "Assertive Questioning",
+            "type": "YA",
+            "timestamp": "2015-12-09 11:57:03",
+            "scheme": "AssertiveQuestioning",
+            "schemeID": "73"
+        },
+        {
+            "nodeID": "118538",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-09 11:57:03",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "118539",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-09 11:57:03"
+        },
+        {
+            "nodeID": "118540",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-09 11:57:03"
+        },
+        {
+            "nodeID": "118541",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-09 11:57:04",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "118542",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-09 11:57:04"
+        },
+        {
+            "nodeID": "118543",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-09 11:57:04",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "118544",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-09 11:57:04",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "118545",
+            "text": "RA",
+            "type": "RA",
+            "timestamp": "2015-12-09 11:57:04"
+        },
+        {
+            "nodeID": "118546",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-09 11:57:04"
+        },
+        {
+            "nodeID": "118547",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2015-12-09 11:57:04",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "118548",
+            "text": "Default Rephrase",
+            "type": "MA",
+            "timestamp": "2015-12-09 11:57:04",
+            "scheme": "Default Rephrase",
+            "schemeID": "144"
+        },
+        {
+            "nodeID": "118549",
+            "text": "Default Illocuting",
+            "type": "YA",
+            "timestamp": "2015-12-09 11:57:04",
+            "scheme": "Default Illocuting",
+            "schemeID": "168"
+        },
+        {
+            "nodeID": "118550",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-09 11:57:04",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "118551",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2015-12-09 11:57:04",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "118552",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2015-12-09 11:57:05",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "158783",
+            "fromID": "46634",
+            "toID": "118537",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158786",
+            "fromID": "46634",
+            "toID": "118539",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158804",
+            "fromID": "46636",
+            "toID": "118548",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158785",
+            "fromID": "46638",
+            "toID": "118538",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158788",
+            "fromID": "46638",
+            "toID": "118540",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158792",
+            "fromID": "46639",
+            "toID": "118542",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158810",
+            "fromID": "46642",
+            "toID": "118551",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158791",
+            "fromID": "46644",
+            "toID": "118541",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158808",
+            "fromID": "46644",
+            "toID": "118550",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158798",
+            "fromID": "46648",
+            "toID": "118545",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158795",
+            "fromID": "46651",
+            "toID": "118543",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158797",
+            "fromID": "46653",
+            "toID": "118544",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158800",
+            "fromID": "46653",
+            "toID": "118546",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158782",
+            "fromID": "118537",
+            "toID": "118536",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158784",
+            "fromID": "118538",
+            "toID": "46636",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158787",
+            "fromID": "118539",
+            "toID": "46638",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158806",
+            "fromID": "118539",
+            "toID": "118549",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158789",
+            "fromID": "118540",
+            "toID": "46639",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158790",
+            "fromID": "118541",
+            "toID": "46642",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158793",
+            "fromID": "118542",
+            "toID": "46644",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158794",
+            "fromID": "118543",
+            "toID": "46648",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158796",
+            "fromID": "118544",
+            "toID": "46649",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158799",
+            "fromID": "118545",
+            "toID": "46649",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158801",
+            "fromID": "118546",
+            "toID": "46651",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158802",
+            "fromID": "118546",
+            "toID": "118547",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158803",
+            "fromID": "118547",
+            "toID": "118545",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158805",
+            "fromID": "118548",
+            "toID": "118536",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158807",
+            "fromID": "118549",
+            "toID": "118548",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158809",
+            "fromID": "118550",
+            "toID": "46651",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158812",
+            "fromID": "118550",
+            "toID": "118552",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158811",
+            "fromID": "118551",
+            "toID": "46648",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158813",
+            "fromID": "118552",
+            "toID": "118551",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "46634",
+            "personID": "403",
+            "timestamp": "2015-01-08 16:34:07",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46638",
+            "personID": "483",
+            "timestamp": "2015-01-08 16:34:07",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46639",
+            "personID": "403",
+            "timestamp": "2015-01-08 16:34:07",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46644",
+            "personID": "483",
+            "timestamp": "2015-01-08 16:34:07",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46651",
+            "personID": "403",
+            "timestamp": "2015-01-08 16:34:07",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46653",
+            "personID": "403",
+            "timestamp": "2015-01-08 16:34:07",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46634",
+            "personID": "403",
+            "timestamp": "2015-12-09 11:57:05",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46638",
+            "personID": "483",
+            "timestamp": "2015-12-09 11:57:05",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46639",
+            "personID": "403",
+            "timestamp": "2015-12-09 11:57:05",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46644",
+            "personID": "483",
+            "timestamp": "2015-12-09 11:57:05",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46651",
+            "personID": "403",
+            "timestamp": "2015-12-09 11:57:05",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46653",
+            "personID": "403",
+            "timestamp": "2015-12-09 11:57:05",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

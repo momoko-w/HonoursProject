@@ -1,1 +1,328 @@
-{"nodes":[{"nodeID":"46462","text":"there are two fundamentally different moral approaches to this problem.","type":"I","timestamp":"2015-01-07 17:11:30"},{"nodeID":"46464","text":"KM : It seems to me that there are two fundamentally different moral approaches to this problem.","type":"L","timestamp":"2015-01-07 17:11:30"},{"nodeID":"46466","text":"That means not simply looking at the individual, but to change the conditions and provide those sorts of conditions.","type":"I","timestamp":"2015-01-07 17:11:30"},{"nodeID":"46470","text":"KM : That means not simply looking at the individual, but to change the conditions and provide those sorts of conditions.","type":"L","timestamp":"2015-01-07 17:11:30"},{"nodeID":"118197","text":"Asserting","type":"YA","timestamp":"2015-12-08 13:01:13","scheme":"Asserting","schemeID":"74"},{"nodeID":"118198","text":"Asserting","type":"YA","timestamp":"2015-12-08 13:01:13","scheme":"Asserting","schemeID":"74"},{"nodeID":"118199","text":"One is a kind of rule-based morality, which says, \u201cWe will impose standards on people, because that\u2019s how they get better.\u201d","type":"I","timestamp":"2015-12-08 13:01:14"},{"nodeID":"118200","text":"Asserting","type":"YA","timestamp":"2015-12-08 13:01:14","scheme":"Asserting","schemeID":"74"},{"nodeID":"118201","text":"KM : One is a kind of rule-based morality, which says, \u201cWe will impose standards on people, because that\u2019s how they get better.\u201d","type":"L","timestamp":"2015-12-08 13:01:14"},{"nodeID":"118202","text":"M: KM : One is a kind of rule-based morality, which says, \u201cWe will impose standards on people, because that\u2019s how they get better.\u201d","type":"L","timestamp":"2015-12-08 13:01:14"},{"nodeID":"118203","text":"Default Transition","type":"TA","timestamp":"2015-12-08 13:01:14","scheme":"Default Transition","schemeID":"82"},{"nodeID":"118204","text":"Default Inference","type":"RA","timestamp":"2015-12-08 13:01:14","scheme":"Default Inference","schemeID":"72"},{"nodeID":"118205","text":"Arguing","type":"YA","timestamp":"2015-12-08 13:01:14","scheme":"Arguing","schemeID":"80"},{"nodeID":"118206","text":"The other is to say, \u201cMorality is a form of human flourishing, which requires transformation of social conditions.\u201d","type":"I","timestamp":"2015-12-08 13:01:14"},{"nodeID":"118207","text":"Asserting","type":"YA","timestamp":"2015-12-08 13:01:14","scheme":"Asserting","schemeID":"74"},{"nodeID":"118208","text":"KM : The other is to say, \u201cMorality is a form of human flourishing, which requires transformation of social conditions.\u201d","type":"L","timestamp":"2015-12-08 13:01:14"},{"nodeID":"118209","text":"M: KM : The other is to say, \u201cMorality is a form of human flourishing, which requires transformation of social conditions.\u201d","type":"L","timestamp":"2015-12-08 13:01:14"},{"nodeID":"118210","text":"Default Transition","type":"TA","timestamp":"2015-12-08 13:01:14","scheme":"Default Transition","schemeID":"82"},{"nodeID":"118211","text":"Default Inference","type":"RA","timestamp":"2015-12-08 13:01:14","scheme":"Default Inference","schemeID":"72"},{"nodeID":"118212","text":"Arguing","type":"YA","timestamp":"2015-12-08 13:01:14","scheme":"Arguing","schemeID":"80"}],"edges":[{"edgeID":"158399","fromID":"46464","toID":"118197","formEdgeID":null},{"edgeID":"158404","fromID":"46464","toID":"118203","formEdgeID":null},{"edgeID":"158401","fromID":"46470","toID":"118198","formEdgeID":null},{"edgeID":"158398","fromID":"118197","toID":"46462","formEdgeID":null},{"edgeID":"158400","fromID":"118198","toID":"46466","formEdgeID":null},{"edgeID":"158406","fromID":"118199","toID":"118204","formEdgeID":null},{"edgeID":"158402","fromID":"118200","toID":"118199","formEdgeID":null},{"edgeID":"158403","fromID":"118201","toID":"118200","formEdgeID":null},{"edgeID":"158405","fromID":"118203","toID":"118201","formEdgeID":null},{"edgeID":"158408","fromID":"118203","toID":"118205","formEdgeID":null},{"edgeID":"158412","fromID":"118203","toID":"118208","formEdgeID":null},{"edgeID":"158407","fromID":"118204","toID":"46462","formEdgeID":null},{"edgeID":"158409","fromID":"118205","toID":"118204","formEdgeID":null},{"edgeID":"158413","fromID":"118206","toID":"118204","formEdgeID":null},{"edgeID":"158416","fromID":"118206","toID":"118211","formEdgeID":null},{"edgeID":"158410","fromID":"118207","toID":"118206","formEdgeID":null},{"edgeID":"158411","fromID":"118208","toID":"118207","formEdgeID":null},{"edgeID":"158414","fromID":"118208","toID":"118210","formEdgeID":null},{"edgeID":"158415","fromID":"118210","toID":"46470","formEdgeID":null},{"edgeID":"158418","fromID":"118210","toID":"118212","formEdgeID":null},{"edgeID":"158417","fromID":"118211","toID":"46466","formEdgeID":null},{"edgeID":"158419","fromID":"118212","toID":"118211","formEdgeID":null}],"locutions":[{"nodeID":"46464","personID":"419","timestamp":"2015-01-07 17:11:30","start":null,"end":null,"source":null},{"nodeID":"46470","personID":"419","timestamp":"2015-01-07 17:11:30","start":null,"end":null,"source":null},{"nodeID":"46464","personID":"419","timestamp":"2015-12-08 13:01:15","start":null,"end":null,"source":null},{"nodeID":"46470","personID":"419","timestamp":"2015-12-08 13:01:15","start":null,"end":null,"source":null},{"nodeID":"118201","personID":"419","timestamp":"2015-12-08 13:01:15","start":null,"end":null,"source":null},{"nodeID":"118208","personID":"419","timestamp":"2015-12-08 13:01:15","start":null,"end":null,"source":null}]}
+{
+    "nodes": [
+        {
+            "nodeID": "46462",
+            "text": "there are two fundamentally different moral approaches to this problem.",
+            "type": "I",
+            "timestamp": "2015-01-07 17:11:30"
+        },
+        {
+            "nodeID": "46464",
+            "text": "KM : It seems to me that there are two fundamentally different moral approaches to this problem.",
+            "type": "L",
+            "timestamp": "2015-01-07 17:11:30"
+        },
+        {
+            "nodeID": "46466",
+            "text": "That means not simply looking at the individual, but to change the conditions and provide those sorts of conditions.",
+            "type": "I",
+            "timestamp": "2015-01-07 17:11:30"
+        },
+        {
+            "nodeID": "46470",
+            "text": "KM : That means not simply looking at the individual, but to change the conditions and provide those sorts of conditions.",
+            "type": "L",
+            "timestamp": "2015-01-07 17:11:30"
+        },
+        {
+            "nodeID": "118197",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-08 13:01:13",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "118198",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-08 13:01:13",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "118199",
+            "text": "One is a kind of rule-based morality, which says, \u201cWe will impose standards on people, because that\u2019s how they get better.\u201d",
+            "type": "I",
+            "timestamp": "2015-12-08 13:01:14"
+        },
+        {
+            "nodeID": "118200",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-08 13:01:14",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "118201",
+            "text": "KM : One is a kind of rule-based morality, which says, \u201cWe will impose standards on people, because that\u2019s how they get better.\u201d",
+            "type": "L",
+            "timestamp": "2015-12-08 13:01:14"
+        },
+        {
+            "nodeID": "118202",
+            "text": "M: KM : One is a kind of rule-based morality, which says, \u201cWe will impose standards on people, because that\u2019s how they get better.\u201d",
+            "type": "L",
+            "timestamp": "2015-12-08 13:01:14"
+        },
+        {
+            "nodeID": "118203",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-08 13:01:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "118204",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2015-12-08 13:01:14",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "118205",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2015-12-08 13:01:14",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "118206",
+            "text": "The other is to say, \u201cMorality is a form of human flourishing, which requires transformation of social conditions.\u201d",
+            "type": "I",
+            "timestamp": "2015-12-08 13:01:14"
+        },
+        {
+            "nodeID": "118207",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-08 13:01:14",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "118208",
+            "text": "KM : The other is to say, \u201cMorality is a form of human flourishing, which requires transformation of social conditions.\u201d",
+            "type": "L",
+            "timestamp": "2015-12-08 13:01:14"
+        },
+        {
+            "nodeID": "118209",
+            "text": "M: KM : The other is to say, \u201cMorality is a form of human flourishing, which requires transformation of social conditions.\u201d",
+            "type": "L",
+            "timestamp": "2015-12-08 13:01:14"
+        },
+        {
+            "nodeID": "118210",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-08 13:01:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "118211",
+            "text": "Default Inference",
+            "type": "RA",
+            "timestamp": "2015-12-08 13:01:14",
+            "scheme": "Default Inference",
+            "schemeID": "72"
+        },
+        {
+            "nodeID": "118212",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2015-12-08 13:01:14",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "158399",
+            "fromID": "46464",
+            "toID": "118197",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158404",
+            "fromID": "46464",
+            "toID": "118203",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158401",
+            "fromID": "46470",
+            "toID": "118198",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158398",
+            "fromID": "118197",
+            "toID": "46462",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158400",
+            "fromID": "118198",
+            "toID": "46466",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158406",
+            "fromID": "118199",
+            "toID": "118204",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158402",
+            "fromID": "118200",
+            "toID": "118199",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158403",
+            "fromID": "118201",
+            "toID": "118200",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158405",
+            "fromID": "118203",
+            "toID": "118201",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158408",
+            "fromID": "118203",
+            "toID": "118205",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158412",
+            "fromID": "118203",
+            "toID": "118208",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158407",
+            "fromID": "118204",
+            "toID": "46462",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158409",
+            "fromID": "118205",
+            "toID": "118204",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158413",
+            "fromID": "118206",
+            "toID": "118204",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158416",
+            "fromID": "118206",
+            "toID": "118211",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158410",
+            "fromID": "118207",
+            "toID": "118206",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158411",
+            "fromID": "118208",
+            "toID": "118207",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158414",
+            "fromID": "118208",
+            "toID": "118210",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158415",
+            "fromID": "118210",
+            "toID": "46470",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158418",
+            "fromID": "118210",
+            "toID": "118212",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158417",
+            "fromID": "118211",
+            "toID": "46466",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "158419",
+            "fromID": "118212",
+            "toID": "118211",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "46464",
+            "personID": "419",
+            "timestamp": "2015-01-07 17:11:30",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46470",
+            "personID": "419",
+            "timestamp": "2015-01-07 17:11:30",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46464",
+            "personID": "419",
+            "timestamp": "2015-12-08 13:01:15",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "46470",
+            "personID": "419",
+            "timestamp": "2015-12-08 13:01:15",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "118201",
+            "personID": "419",
+            "timestamp": "2015-12-08 13:01:15",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "118208",
+            "personID": "419",
+            "timestamp": "2015-12-08 13:01:15",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

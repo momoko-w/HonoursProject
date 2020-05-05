@@ -1,1 +1,444 @@
-{"nodes":[{"nodeID":"34767","text":"MB : Mr Sutherland, what do you make of Mr Cameron\u2019s point that paying young people to move out of their parents\u2019 home doesn\u2019t mean they\u2019re independent, they\u2019re just dependant on other people\u2019s parents?","type":"L","timestamp":"2014-08-12 14:44:08"},{"nodeID":"34768","text":"it clearly shows that Cameron hasn\u2019t learnt any lesson from the past","type":"I","timestamp":"2014-08-12 14:44:08"},{"nodeID":"34770","text":"RS : Well I think it clearly shows that Cameron hasn\u2019t learnt any lesson from the past","type":"L","timestamp":"2014-08-12 14:44:08"},{"nodeID":"34772","text":"In a sense he\u2019s very similar to the abolition of the Board and Lodgings Allowance that Margaret Thatcher brought in at the end of the \u201880s, which obviously saw a huge spike in rough sleeping","type":"I","timestamp":"2014-08-12 14:44:08"},{"nodeID":"34774","text":"RS : In a sense he\u2019s very similar to the abolition of the Board and Lodgings Allowance that Margaret Thatcher brought in at the end of the \u201880s, which obviously saw a huge spike in rough sleeping","type":"L","timestamp":"2014-08-12 14:44:08"},{"nodeID":"34778","text":"Particularly from young people, that\u2019s where a lot of civil society like crisis at centrepoint have their roots","type":"I","timestamp":"2014-08-12 14:44:08"},{"nodeID":"34780","text":"RS : Particularly from young people, that\u2019s where a lot of civil society like crisis at centrepoint have their roots","type":"L","timestamp":"2014-08-12 14:44:08"},{"nodeID":"34781","text":"it\u2019s not going to have the effect that Cameron believes that it will","type":"I","timestamp":"2014-08-12 14:44:08"},{"nodeID":"34783","text":"RS : So it\u2019s not going to have the effect that I think Cameron believes that it will.","type":"L","timestamp":"2014-08-12 14:44:08"},{"nodeID":"116055","text":"Asserting","type":"YA","timestamp":"2015-12-03 13:12:06","scheme":"Asserting","schemeID":"74"},{"nodeID":"116056","text":"Asserting","type":"YA","timestamp":"2015-12-03 13:12:07","scheme":"Asserting","schemeID":"74"},{"nodeID":"116057","text":"TA","type":"TA","timestamp":"2015-12-03 13:12:07"},{"nodeID":"116058","text":"RA","type":"RA","timestamp":"2015-12-03 13:12:07"},{"nodeID":"116059","text":"Arguing","type":"YA","timestamp":"2015-12-03 13:12:07","scheme":"Arguing","schemeID":"80"},{"nodeID":"116060","text":"Asserting","type":"YA","timestamp":"2015-12-03 13:12:07","scheme":"Asserting","schemeID":"74"},{"nodeID":"116061","text":"Asserting","type":"YA","timestamp":"2015-12-03 13:12:07","scheme":"Asserting","schemeID":"74"},{"nodeID":"116062","text":"TA","type":"TA","timestamp":"2015-12-03 13:12:07"},{"nodeID":"116063","text":"RA","type":"RA","timestamp":"2015-12-03 13:12:07"},{"nodeID":"116064","text":"Arguing","type":"YA","timestamp":"2015-12-03 13:12:07","scheme":"Arguing","schemeID":"80"},{"nodeID":"116065","text":"RS makes xxx of Mr Cameron\u2019s point that paying young people to move out of their parents\u2019 home doesn\u2019t mean they\u2019re independent, they\u2019re just dependent on other people\u2019s parents","type":"I","timestamp":"2015-12-03 13:12:07"},{"nodeID":"116066","text":"M: Mr Cameron : Mr Sutherland, what do you make of Mr Cameron\u2019s point that paying young people to move out of their parents\u2019 home doesn\u2019t mean they\u2019re independent, they\u2019re just dependant on other people\u2019s parents?","type":"L","timestamp":"2015-12-03 13:12:07"},{"nodeID":"116067","text":"M: MB : Mr Cameron : Mr Sutherland, what do you make of Mr Cameron\u2019s point that paying young people to move out of their parents\u2019 home doesn\u2019t mean they\u2019re independent, they\u2019re just dependant on other people\u2019s parents?","type":"L","timestamp":"2015-12-03 13:12:07"},{"nodeID":"116068","text":"Pure Questioning","type":"YA","timestamp":"2015-12-03 13:12:08","scheme":"PureQuestioning","schemeID":"91"},{"nodeID":"116069","text":"Default Transition","type":"TA","timestamp":"2015-12-03 13:12:08","scheme":"Default Transition","schemeID":"82"},{"nodeID":"116070","text":"Default Rephrase","type":"MA","timestamp":"2015-12-03 13:12:08","scheme":"Default Rephrase","schemeID":"144"},{"nodeID":"116071","text":"Default Illocuting","type":"YA","timestamp":"2015-12-03 13:12:08","scheme":"Default Illocuting","schemeID":"168"}],"edges":[{"edgeID":"154848","fromID":"116055","toID":"34768","formEdgeID":null},{"edgeID":"154849","fromID":"34770","toID":"116055","formEdgeID":null},{"edgeID":"154850","fromID":"116056","toID":"34772","formEdgeID":null},{"edgeID":"154851","fromID":"34774","toID":"116056","formEdgeID":null},{"edgeID":"154852","fromID":"34770","toID":"116057","formEdgeID":null},{"edgeID":"154853","fromID":"116057","toID":"34774","formEdgeID":null},{"edgeID":"154854","fromID":"34772","toID":"116058","formEdgeID":null},{"edgeID":"154855","fromID":"116058","toID":"34768","formEdgeID":null},{"edgeID":"154856","fromID":"116057","toID":"116059","formEdgeID":null},{"edgeID":"154857","fromID":"116059","toID":"116058","formEdgeID":null},{"edgeID":"154858","fromID":"116060","toID":"34778","formEdgeID":null},{"edgeID":"154859","fromID":"34780","toID":"116060","formEdgeID":null},{"edgeID":"154860","fromID":"116057","toID":"34780","formEdgeID":null},{"edgeID":"154861","fromID":"34778","toID":"116058","formEdgeID":null},{"edgeID":"154862","fromID":"116061","toID":"34781","formEdgeID":null},{"edgeID":"154863","fromID":"34783","toID":"116061","formEdgeID":null},{"edgeID":"154864","fromID":"34774","toID":"116062","formEdgeID":null},{"edgeID":"154865","fromID":"116062","toID":"34783","formEdgeID":null},{"edgeID":"154866","fromID":"34772","toID":"116063","formEdgeID":null},{"edgeID":"154867","fromID":"116063","toID":"34781","formEdgeID":null},{"edgeID":"154868","fromID":"116062","toID":"116064","formEdgeID":null},{"edgeID":"154869","fromID":"116064","toID":"116063","formEdgeID":null},{"edgeID":"154870","fromID":"34767","toID":"116068","formEdgeID":null},{"edgeID":"154871","fromID":"116068","toID":"116065","formEdgeID":null},{"edgeID":"154872","fromID":"34767","toID":"116069","formEdgeID":null},{"edgeID":"154873","fromID":"116069","toID":"34770","formEdgeID":null},{"edgeID":"154874","fromID":"34768","toID":"116070","formEdgeID":null},{"edgeID":"154875","fromID":"116070","toID":"116065","formEdgeID":null},{"edgeID":"154876","fromID":"116069","toID":"116071","formEdgeID":null},{"edgeID":"154877","fromID":"116071","toID":"116070","formEdgeID":null}],"locutions":[{"nodeID":"34767","personID":"488","timestamp":"2014-08-12 14:44:09","start":null,"end":null,"source":null},{"nodeID":"34770","personID":"488","timestamp":"2014-08-12 14:44:09","start":null,"end":null,"source":null},{"nodeID":"34774","personID":"488","timestamp":"2014-08-12 14:44:09","start":null,"end":null,"source":null},{"nodeID":"34780","personID":"488","timestamp":"2014-08-12 14:44:09","start":null,"end":null,"source":null},{"nodeID":"34783","personID":"488","timestamp":"2014-08-12 14:44:09","start":null,"end":null,"source":null},{"nodeID":"34770","personID":"0","timestamp":"2015-12-03 13:12:08","start":null,"end":null,"source":null},{"nodeID":"34774","personID":"0","timestamp":"2015-12-03 13:12:08","start":null,"end":null,"source":null},{"nodeID":"34780","personID":"0","timestamp":"2015-12-03 13:12:08","start":null,"end":null,"source":null},{"nodeID":"34783","personID":"0","timestamp":"2015-12-03 13:12:08","start":null,"end":null,"source":null},{"nodeID":"34767","personID":"0","timestamp":"2015-12-03 13:12:08","start":null,"end":null,"source":null}]}
+{
+    "nodes": [
+        {
+            "nodeID": "34767",
+            "text": "MB : Mr Sutherland, what do you make of Mr Cameron\u2019s point that paying young people to move out of their parents\u2019 home doesn\u2019t mean they\u2019re independent, they\u2019re just dependant on other people\u2019s parents?",
+            "type": "L",
+            "timestamp": "2014-08-12 14:44:08"
+        },
+        {
+            "nodeID": "34768",
+            "text": "it clearly shows that Cameron hasn\u2019t learnt any lesson from the past",
+            "type": "I",
+            "timestamp": "2014-08-12 14:44:08"
+        },
+        {
+            "nodeID": "34770",
+            "text": "RS : Well I think it clearly shows that Cameron hasn\u2019t learnt any lesson from the past",
+            "type": "L",
+            "timestamp": "2014-08-12 14:44:08"
+        },
+        {
+            "nodeID": "34772",
+            "text": "In a sense he\u2019s very similar to the abolition of the Board and Lodgings Allowance that Margaret Thatcher brought in at the end of the \u201880s, which obviously saw a huge spike in rough sleeping",
+            "type": "I",
+            "timestamp": "2014-08-12 14:44:08"
+        },
+        {
+            "nodeID": "34774",
+            "text": "RS : In a sense he\u2019s very similar to the abolition of the Board and Lodgings Allowance that Margaret Thatcher brought in at the end of the \u201880s, which obviously saw a huge spike in rough sleeping",
+            "type": "L",
+            "timestamp": "2014-08-12 14:44:08"
+        },
+        {
+            "nodeID": "34778",
+            "text": "Particularly from young people, that\u2019s where a lot of civil society like crisis at centrepoint have their roots",
+            "type": "I",
+            "timestamp": "2014-08-12 14:44:08"
+        },
+        {
+            "nodeID": "34780",
+            "text": "RS : Particularly from young people, that\u2019s where a lot of civil society like crisis at centrepoint have their roots",
+            "type": "L",
+            "timestamp": "2014-08-12 14:44:08"
+        },
+        {
+            "nodeID": "34781",
+            "text": "it\u2019s not going to have the effect that Cameron believes that it will",
+            "type": "I",
+            "timestamp": "2014-08-12 14:44:08"
+        },
+        {
+            "nodeID": "34783",
+            "text": "RS : So it\u2019s not going to have the effect that I think Cameron believes that it will.",
+            "type": "L",
+            "timestamp": "2014-08-12 14:44:08"
+        },
+        {
+            "nodeID": "116055",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 13:12:06",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "116056",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 13:12:07",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "116057",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-03 13:12:07"
+        },
+        {
+            "nodeID": "116058",
+            "text": "RA",
+            "type": "RA",
+            "timestamp": "2015-12-03 13:12:07"
+        },
+        {
+            "nodeID": "116059",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2015-12-03 13:12:07",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "116060",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 13:12:07",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "116061",
+            "text": "Asserting",
+            "type": "YA",
+            "timestamp": "2015-12-03 13:12:07",
+            "scheme": "Asserting",
+            "schemeID": "74"
+        },
+        {
+            "nodeID": "116062",
+            "text": "TA",
+            "type": "TA",
+            "timestamp": "2015-12-03 13:12:07"
+        },
+        {
+            "nodeID": "116063",
+            "text": "RA",
+            "type": "RA",
+            "timestamp": "2015-12-03 13:12:07"
+        },
+        {
+            "nodeID": "116064",
+            "text": "Arguing",
+            "type": "YA",
+            "timestamp": "2015-12-03 13:12:07",
+            "scheme": "Arguing",
+            "schemeID": "80"
+        },
+        {
+            "nodeID": "116065",
+            "text": "RS makes xxx of Mr Cameron\u2019s point that paying young people to move out of their parents\u2019 home doesn\u2019t mean they\u2019re independent, they\u2019re just dependent on other people\u2019s parents",
+            "type": "I",
+            "timestamp": "2015-12-03 13:12:07"
+        },
+        {
+            "nodeID": "116066",
+            "text": "M: Mr Cameron : Mr Sutherland, what do you make of Mr Cameron\u2019s point that paying young people to move out of their parents\u2019 home doesn\u2019t mean they\u2019re independent, they\u2019re just dependant on other people\u2019s parents?",
+            "type": "L",
+            "timestamp": "2015-12-03 13:12:07"
+        },
+        {
+            "nodeID": "116067",
+            "text": "M: MB : Mr Cameron : Mr Sutherland, what do you make of Mr Cameron\u2019s point that paying young people to move out of their parents\u2019 home doesn\u2019t mean they\u2019re independent, they\u2019re just dependant on other people\u2019s parents?",
+            "type": "L",
+            "timestamp": "2015-12-03 13:12:07"
+        },
+        {
+            "nodeID": "116068",
+            "text": "Pure Questioning",
+            "type": "YA",
+            "timestamp": "2015-12-03 13:12:08",
+            "scheme": "PureQuestioning",
+            "schemeID": "91"
+        },
+        {
+            "nodeID": "116069",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2015-12-03 13:12:08",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "116070",
+            "text": "Default Rephrase",
+            "type": "MA",
+            "timestamp": "2015-12-03 13:12:08",
+            "scheme": "Default Rephrase",
+            "schemeID": "144"
+        },
+        {
+            "nodeID": "116071",
+            "text": "Default Illocuting",
+            "type": "YA",
+            "timestamp": "2015-12-03 13:12:08",
+            "scheme": "Default Illocuting",
+            "schemeID": "168"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "154848",
+            "fromID": "116055",
+            "toID": "34768",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154849",
+            "fromID": "34770",
+            "toID": "116055",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154850",
+            "fromID": "116056",
+            "toID": "34772",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154851",
+            "fromID": "34774",
+            "toID": "116056",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154852",
+            "fromID": "34770",
+            "toID": "116057",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154853",
+            "fromID": "116057",
+            "toID": "34774",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154854",
+            "fromID": "34772",
+            "toID": "116058",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154855",
+            "fromID": "116058",
+            "toID": "34768",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154856",
+            "fromID": "116057",
+            "toID": "116059",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154857",
+            "fromID": "116059",
+            "toID": "116058",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154858",
+            "fromID": "116060",
+            "toID": "34778",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154859",
+            "fromID": "34780",
+            "toID": "116060",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154860",
+            "fromID": "116057",
+            "toID": "34780",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154861",
+            "fromID": "34778",
+            "toID": "116058",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154862",
+            "fromID": "116061",
+            "toID": "34781",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154863",
+            "fromID": "34783",
+            "toID": "116061",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154864",
+            "fromID": "34774",
+            "toID": "116062",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154865",
+            "fromID": "116062",
+            "toID": "34783",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154866",
+            "fromID": "34772",
+            "toID": "116063",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154867",
+            "fromID": "116063",
+            "toID": "34781",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154868",
+            "fromID": "116062",
+            "toID": "116064",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154869",
+            "fromID": "116064",
+            "toID": "116063",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154870",
+            "fromID": "34767",
+            "toID": "116068",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154871",
+            "fromID": "116068",
+            "toID": "116065",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154872",
+            "fromID": "34767",
+            "toID": "116069",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154873",
+            "fromID": "116069",
+            "toID": "34770",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154874",
+            "fromID": "34768",
+            "toID": "116070",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154875",
+            "fromID": "116070",
+            "toID": "116065",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154876",
+            "fromID": "116069",
+            "toID": "116071",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "154877",
+            "fromID": "116071",
+            "toID": "116070",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "34767",
+            "personID": "488",
+            "timestamp": "2014-08-12 14:44:09",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "34770",
+            "personID": "488",
+            "timestamp": "2014-08-12 14:44:09",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "34774",
+            "personID": "488",
+            "timestamp": "2014-08-12 14:44:09",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "34780",
+            "personID": "488",
+            "timestamp": "2014-08-12 14:44:09",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "34783",
+            "personID": "488",
+            "timestamp": "2014-08-12 14:44:09",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "34770",
+            "personID": "0",
+            "timestamp": "2015-12-03 13:12:08",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "34774",
+            "personID": "0",
+            "timestamp": "2015-12-03 13:12:08",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "34780",
+            "personID": "0",
+            "timestamp": "2015-12-03 13:12:08",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "34783",
+            "personID": "0",
+            "timestamp": "2015-12-03 13:12:08",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "34767",
+            "personID": "0",
+            "timestamp": "2015-12-03 13:12:08",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

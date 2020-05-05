@@ -20,21 +20,27 @@ navbar = main_components.generateNavBar()
 header = html.Div(
     [
         # main heading
-        main_components.generateMainHeader('Debate Visualiser', 'main-header'),
+        main_components.generateMainHeader('Debate Wiz', 'main-header'),
         dbc.Row(
             dbc.Col(
-                html.Div(
-                    children='Tool to visualise and score debates. Put description of project here',
-                    style={
-                        'textAlign': 'center',
-                        'color': colors['text'],
-                        "background-color": "white",
-                        "padding": "5px"
-                    },
-                    id='debate-description-div',
-                    className="mb-3"
-                ),
-                width="auto"
+                [
+                    html.Div(
+                        [
+                            html.H5('Debate Wiz is a tool that takes debates and visualises information about their argument structures.'),
+                            html.H5('The debates currently available are all from the BBC radio show Moral Maze.'),
+                            html.P('Begin by selecting a debate to see more information about it.')
+                        ],
+                        style={
+                            'textAlign': 'center',
+                            'color': colors['text'],
+                            "background-color": "white",
+                            "padding": "25px"
+                        },
+                        id='debate-description-div',
+                        className="mb-3"
+                    ),
+                ],
+                width=8
             ),
             justify="center",
             no_gutters=True
@@ -61,7 +67,6 @@ body = html.Div(
 layout = html.Div(
     [
         # nav bar
-
         main_components.generateNavBar(),
         # header component
         header,
@@ -73,7 +78,7 @@ layout = html.Div(
         "background-image": "url(\"/assets/background.png\")",
         "background-repeat": "repeat",
         "background-position": "top",
-        #"height": "100vh"
+        # "height": "100vh"
     }
 )
 
